@@ -1,0 +1,1656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafile>
+	<header>
+		<name>Nintendo - Super Famicom - Speed Hacks</name>
+		<description>Nintendo - Super Famicom - Speed Hacks</description>
+		<category>Standard DatFile</category>
+		<version>10-06-2024</version>
+		<date>10-06-2024</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>dd/mm/yyyy</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="3-jigen Kakutou Ballz (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>3-jigen Kakutou Ballz (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="3-jigen Kakutou Ballz (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="3751ada8" md5="aa7ee4b8db96f5ab40f950f0087edc43" sha1="3cc83a776b90c5873fdec555381cc7aec538b0f5"/>
+	</machine>
+	<machine name="Acrobat Mission (Japan) (En) [FastROM hack by kandowontu v1.0]">
+		<description>Acrobat Mission (Japan) (En) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Acrobat Mission (Japan) (En) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="95bbb491" md5="71648d5f6891a52c8556374b815fec9e" sha1="73cb06daf642f31eac4f0bf73043bf2ffb41eacf"/>
+	</machine>
+	<machine name="ActRaiser (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>ActRaiser (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="ActRaiser (Europe) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="2c8fab2d" md5="62fde0b5d54b6ac5418b6c924fc78829" sha1="862d1f5ef7ea5539d256688af27eb69a250f721d"/>
+	</machine>
+	<machine name="Actraiser (Japan) [FastROM hack by kandowontu v1.1]">
+		<description>Actraiser (Japan) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Actraiser (Japan) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="9b7cbf79" md5="52fadaac912e2cc066d36f360af0d6c1" sha1="9c1641081dab0f97d03af7c0bcf18821ebb32a63"/>
+	</machine>
+	<machine name="Actraiser (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1]">
+		<description>Actraiser (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Actraiser (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="7d939add" md5="4ff1649d30e277405aa99a2703cdc0cb" sha1="e7edf2b62643325686218c7f33ab9b656f4ccc3a"/>
+	</machine>
+	<machine name="ActRaiser (USA) [FastROM hack by kandowontu v1.1]">
+		<description>ActRaiser (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="ActRaiser (USA) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="d92bc5a2" md5="14241140410d31668838aa099b100813" sha1="a5b574e3e66745dd734150dd95b35c828a3296b9"/>
+	</machine>
+	<machine name="Addams Family, The - Pugsley's Scavenger Hunt (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>Addams Family, The - Pugsley's Scavenger Hunt (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Addams Family, The - Pugsley's Scavenger Hunt (Europe) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="03a00d23" md5="5add9a04e0348213e9230ba3b6085e0d" sha1="8cdec9b0cc0bb8fb5f48442af867b8d09ae9b0ef"/>
+	</machine>
+	<machine name="Addams Family, The - Pugsley's Scavenger Hunt (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Addams Family, The - Pugsley's Scavenger Hunt (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Addams Family, The - Pugsley's Scavenger Hunt (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="698e84a1" md5="2de36fccdc9f40b3656fb132d423beee" sha1="87da417eca667a8d76c662fced74dcafb5722acc"/>
+	</machine>
+	<machine name="Adventures of Batman &amp; Robin, The (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>Adventures of Batman &amp; Robin, The (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Adventures of Batman &amp; Robin, The (Europe) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="bc949662" md5="fe2ff42f2e0acbd259a8ca9300e6d7c2" sha1="6264740b75ea790d942cb9c23d978836f63ebb2a"/>
+	</machine>
+	<machine name="Adventures of Batman &amp; Robin, The (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Adventures of Batman &amp; Robin, The (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Adventures of Batman &amp; Robin, The (USA) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="b70388aa" md5="5e98ee1088e67e14e816ee31b1ae81ff" sha1="bc99f0230c84a212c5610bc09bf6dedf3959b681"/>
+	</machine>
+	<machine name="Adventures of Batman &amp; Robin, The (USA) [FastROM hack by MaxwelOlinda v1.0]">
+		<description>Adventures of Batman &amp; Robin, The (USA) [FastROM hack by MaxwelOlinda v1.0]</description>
+		<rom name="Adventures of Batman &amp; Robin, The (USA) [FastROM hack by MaxwelOlinda v1.0].sfc" size="2097152" crc="15eb865d" md5="e1de1f0087eac29312629033149360c4" sha1="8d6ae11ca78c8ee6234283dbf1d785a1702c6804"/>
+	</machine>
+	<machine name="Adventures of Kid Kleets, The (USA) (En,Fr,Es) [Camera &amp; FastROM hack by MaxwelOlinda v1.0]">
+		<description>Adventures of Kid Kleets, The (USA) (En,Fr,Es) [Camera &amp; FastROM hack by MaxwelOlinda v1.0]</description>
+		<rom name="Adventures of Kid Kleets, The (USA) (En,Fr,Es) [Camera &amp; FastROM hack by MaxwelOlinda v1.0].sfc" size="1310720" crc="82ed113d" md5="32e623bdd3c239973937b4890fa0f124" sha1="d478fe2eac69c06335dceac440e66e774f10202c"/>
+	</machine>
+	<machine name="Adventures of Kid Kleets, The (USA) (En,Fr,Es) [FastROM hack by kandowontu v1.0]">
+		<description>Adventures of Kid Kleets, The (USA) (En,Fr,Es) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Adventures of Kid Kleets, The (USA) (En,Fr,Es) [FastROM hack by kandowontu v1.0].sfc" size="1310720" crc="ae242945" md5="e19ed0d645014acc1d2fb714697a0156" sha1="68a634d5ce10d987ae4a51ebc26790acc3592921"/>
+	</machine>
+	<machine name="Aero the Acro-Bat (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>Aero the Acro-Bat (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Aero the Acro-Bat (Europe) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="03df348c" md5="e12cb832662017644a42bbdb8654d419" sha1="57d0a0dbd013daf4d2e56489d1423182719a05ba"/>
+	</machine>
+	<machine name="Aero the Acro-Bat (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Aero the Acro-Bat (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Aero the Acro-Bat (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="b07fdb5a" md5="cc4f1354e9bf02254eebd4bfb91e5d4b" sha1="bb73f05bf41a767447d6c32a39daf0703d0ff31e"/>
+	</machine>
+	<machine name="Aero the Acro-Bat 2 (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Aero the Acro-Bat 2 (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Aero the Acro-Bat 2 (USA) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="d4f62244" md5="8327fe2e582197928d0052d7e74c9304" sha1="cf4202081370484e841601a136cbb78843db69f0"/>
+	</machine>
+	<machine name="Aladdin (France) [FastROM hack by kandowontu v1.0]">
+		<description>Aladdin (France) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Aladdin (France) [FastROM hack by kandowontu v1.0].sfc" size="1310720" crc="a7075fdf" md5="d2ad378e839598af5cc17a673bb0e988" sha1="de4114a4874e483e43653e6c602466787de71c3a"/>
+	</machine>
+	<machine name="Aladdin (USA) [FastROM hack by MaxwelOlinda v1.0]">
+		<description>Aladdin (USA) [FastROM hack by MaxwelOlinda v1.0]</description>
+		<rom name="Aladdin (USA) [FastROM hack by MaxwelOlinda v1.0].sfc" size="1310720" crc="9b85db44" md5="c607089e7feb5ed4a5388d5c6ec8118d" sha1="758cf82c10d80d3d7b8adf439ab80b0f90fc97e7"/>
+	</machine>
+	<machine name="Alien vs Predator (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Alien vs Predator (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Alien vs Predator (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="57efbcaa" md5="43ddee1dc1aea861534ce8db9d7cc8b4" sha1="7b33e99945b02b783488bc9412e312634dc87fb9"/>
+	</machine>
+	<machine name="Andre Agassi Tennis (Japan) (En) [FastROM hack by kandowontu v1.0]">
+		<description>Andre Agassi Tennis (Japan) (En) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Andre Agassi Tennis (Japan) (En) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="1da4c965" md5="883a32605c8e066c1aae252ede0bfd2d" sha1="6191af6211804b3cab3e715aaa6e98197035bd18"/>
+	</machine>
+	<machine name="Andre Agassi Tennis (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Andre Agassi Tennis (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Andre Agassi Tennis (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="42b0e83b" md5="b41e0fb5a765b1ab0c7cef8e849264ca" sha1="ba0a0f1ee79a457db9afa13a20cd736c407334a1"/>
+	</machine>
+	<machine name="Araiguma Rascal (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Araiguma Rascal (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Araiguma Rascal (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="de4558ba" md5="6811c2458a71a8e739eb817a0ea9294c" sha1="619eeee0af12f10f0af8c0bc9406e1b46ba1e6a1"/>
+	</machine>
+	<machine name="Arcade's Greatest Hits - The Atari Collection 1 (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>Arcade's Greatest Hits - The Atari Collection 1 (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Arcade's Greatest Hits - The Atari Collection 1 (Europe) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="5c838c54" md5="2790f4de35fe538278df0ff87f62da41" sha1="1284f498c7467a5f506f0f7211995f14153a23c9"/>
+	</machine>
+	<machine name="Arcade's Greatest Hits - The Atari Collection 1 (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Arcade's Greatest Hits - The Atari Collection 1 (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Arcade's Greatest Hits - The Atari Collection 1 (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="8bd8e05c" md5="987312c85fc53ae0341c3c6ea6ce3d12" sha1="49b67e25eb8223316b7d15dfb8bc63cc6ae244b7"/>
+	</machine>
+	<machine name="Arcana (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Arcana (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Arcana (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="9cbddc70" md5="472d7ac14e3fc897a75bfcad340008e8" sha1="1e28d52d87c70bbcb9e64e4aafb186fdbed904ca"/>
+	</machine>
+	<machine name="Arcana (USA) [FastROM hack by Rainponcho &amp; Sarah Shinespark v1.1b]">
+		<description>Arcana (USA) [FastROM hack by Rainponcho &amp; Sarah Shinespark v1.1b]</description>
+		<rom name="Arcana (USA) [FastROM hack by Rainponcho &amp; Sarah Shinespark v1.1b].sfc" size="1048576" crc="c3f4a15a" md5="c7c8fe99e220d8e861e01cb7aa9421ad" sha1="3e253578933e796edfd685f668827a2893ff7e7c"/>
+	</machine>
+	<machine name="Area 88 (USA) [T-En by Blizzz v1.03] [FastROM hack by Vitor Vilela v1.0] [Relocalized] [n]">
+		<description>Area 88 (USA) [T-En by Blizzz v1.03] [FastROM hack by Vitor Vilela v1.0] [Relocalized] [n]</description>
+		<rom name="Area 88 (USA) [T-En by Blizzz v1.03] [FastROM hack by Vitor Vilela v1.0] [Relocalized] [n].sfc" size="1048576" crc="ec46183c" md5="14cdb28eeeae5a7d28172a3a59132def" sha1="4871dee9136f9b13543fd9813daa7dfee3de9b2f"/>
+	</machine>
+	<machine name="Arkanoid - Doh It Again (Japan) (En) [FastROM hack by kandowontu v1.0]">
+		<description>Arkanoid - Doh It Again (Japan) (En) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Arkanoid - Doh It Again (Japan) (En) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="c4b8ca2b" md5="993ff4a44e0d96b7ec66a0cf418e7889" sha1="62f38d0a9690672408ae9801f7531890b04c1e1d"/>
+	</machine>
+	<machine name="Arkanoid - Doh It Again (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Arkanoid - Doh It Again (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Arkanoid - Doh It Again (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="a48ddac5" md5="6dcba61aabc4e6ac724878596210c7d9" sha1="b16060273e4993822d5fbd382120ad471a180e07"/>
+	</machine>
+	<machine name="Ashita no Joe (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Ashita no Joe (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Ashita no Joe (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="08f7832b" md5="fa498412e46669025a195dab1bf0e92e" sha1="e095668755d18852296cda4e565f3b00981f02ca"/>
+	</machine>
+	<machine name="Assault Suits Valken (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1] [n]">
+		<description>Assault Suits Valken (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1] [n]</description>
+		<rom name="Assault Suits Valken (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1] [n].sfc" size="1048576" crc="95163a93" md5="3955a6fa14ce89aec6eadfd10915ab65" sha1="91004e9b70ea7e2c04b697753ab724bf42e76dc2"/>
+	</machine>
+	<machine name="Assault Suits Valken (World) (Switch) [FastROM hack by kandowontu v1.0]">
+		<description>Assault Suits Valken (World) (Switch) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Assault Suits Valken (World) (Switch) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="656fbe4a" md5="063b66ebf8e6bbdd13ffb822dafffe8f" sha1="83d81a181528ac51b962a9d114be7c81fe553a85"/>
+	</machine>
+	<machine name="Axelay (USA) [FastROM hack by Vitor Vilela v1.0]">
+		<description>Axelay (USA) [FastROM hack by Vitor Vilela v1.0]</description>
+		<rom name="Axelay (USA) [FastROM hack by Vitor Vilela v1.0].sfc" size="1048576" crc="4bb73534" md5="8681ac59104452b3c4a6255a7b932f1d" sha1="fca1eb635e5593a82d19bab2383f1528bda072a2"/>
+	</machine>
+	<machine name="Ballz 3D - Fighting at Its Ballziest (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Ballz 3D - Fighting at Its Ballziest (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Ballz 3D - Fighting at Its Ballziest (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="69e1d601" md5="2cbeba6a9912805f9fc7c4c26eb68dbb" sha1="7839356d6a98e560b0f4c04f201617202bd0e018"/>
+	</machine>
+	<machine name="Barbie Super Model (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Barbie Super Model (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Barbie Super Model (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="606c3dfa" md5="2dcf9fbc9278e679f2333300bc27a2de" sha1="b7d7aa9b1017d81c0159fb3fbe0ad39c0849047f"/>
+	</machine>
+	<machine name="Battle Blaze (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Battle Blaze (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Battle Blaze (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="73939353" md5="a96ac1c6208a39220cd67511a6ff5447" sha1="7bbe9cd46a96b337b6f8c4c6eefae51c8efed543"/>
+	</machine>
+	<machine name="Battle Soccer - Field no Hasha (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Battle Soccer - Field no Hasha (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Battle Soccer - Field no Hasha (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="b9af1f4d" md5="5da8808425e61b657cf14c4b2fc2448a" sha1="fa926de5c1d118e9d9092ad92588a388ef4f39e9"/>
+	</machine>
+	<machine name="Battle Soccer - Field no Hasha (Japan) [T-En by Hurkey Translations v1.0] [FastROM hack by kandowontu v1.0]">
+		<description>Battle Soccer - Field no Hasha (Japan) [T-En by Hurkey Translations v1.0] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Battle Soccer - Field no Hasha (Japan) [T-En by Hurkey Translations v1.0] [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="53eebb61" md5="194a234ec17f6904025fde481061a2a0" sha1="d56d2bc33c9500ed600d41cf736bf1bb907a2302"/>
+	</machine>
+	<machine name="Bill Laimbeer's Combat Basketball (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Bill Laimbeer's Combat Basketball (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Bill Laimbeer's Combat Basketball (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="0fe49e98" md5="f6f0fd28844f9cc08cf716f9849ef246" sha1="780ea22d640b7f6899b979dbd41067c382974ecc"/>
+	</machine>
+	<machine name="BioMetal (Japan) (En) [FastROM hack by kandowontu v1.1]">
+		<description>BioMetal (Japan) (En) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="BioMetal (Japan) (En) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="1d8b6218" md5="23a85575feb972c984c87dbe18881165" sha1="8b8b1a883373b84dba4fd97ecff1d5d80388dd73"/>
+	</machine>
+	<machine name="BioMetal (USA) [FastROM hack by kandowontu v1.1]">
+		<description>BioMetal (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="BioMetal (USA) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="8428466c" md5="9c50f38dc567a964e1afed0e909ccb0f" sha1="4c50f055cc7c305035437b181be497f4c1137fba"/>
+	</machine>
+	<machine name="BlaZeon - The Bio-Cyborg Challenge (USA) [FastROM hack by kandowontu v1.0]">
+		<description>BlaZeon - The Bio-Cyborg Challenge (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="BlaZeon - The Bio-Cyborg Challenge (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="794d6bf8" md5="6bc50c81de7d4c95b400052fc68f17fe" sha1="e235398bd7d50b58c7851eb684e1d364c23b86ed"/>
+	</machine>
+	<machine name="Bonkers (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Bonkers (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Bonkers (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="4544464e" md5="76ec5a7e00a1d244d8f72818f153681d" sha1="5d6b4a4d8ca892d748287457596eca2c07498cde"/>
+	</machine>
+	<machine name="Bram Stoker's Dracula (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Bram Stoker's Dracula (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Bram Stoker's Dracula (USA) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="832efed6" md5="26d2862c5e5a4345a2336b753f901345" sha1="86a6ce2dd185a780d47bbba9251423c8f9979030"/>
+	</machine>
+	<machine name="Cacoma Knight in Bizyland (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Cacoma Knight in Bizyland (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Cacoma Knight in Bizyland (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="ae8307db" md5="484a923df343c60b689770c5d21eb582" sha1="c704f7ed0390f5b58f34660e7d15c463a2e13557"/>
+	</machine>
+	<machine name="Cacoma Knight in Bizyland (USA) [FastROM hack by Sluffy v0.30]">
+		<description>Cacoma Knight in Bizyland (USA) [FastROM hack by Sluffy v0.30]</description>
+		<rom name="Cacoma Knight in Bizyland (USA) [FastROM hack by Sluffy v0.30].sfc" size="1048576" crc="496d5a31" md5="5182120a7eed47fa9edd3515f119709d" sha1="6d6882e14d48864318b44e7ccf65dfb95e0ea800"/>
+	</machine>
+	<machine name="Cal Ripken Jr. Baseball (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>Cal Ripken Jr. Baseball (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Cal Ripken Jr. Baseball (Europe) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="1e59c581" md5="755417722c45b63b8dac2bed20d86935" sha1="750b95730273e8253eeab621e3ff7542317b5f74"/>
+	</machine>
+	<machine name="Cal Ripken Jr. Baseball (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Cal Ripken Jr. Baseball (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Cal Ripken Jr. Baseball (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="74774c03" md5="ddc2ceb0bbbbe425e359517c3fac42b0" sha1="0fad3ce432386c5698ed924bdf1bf3a1449c7758"/>
+	</machine>
+	<machine name="Chatting Parodius Live! (Japan) [T-En by Advancedpillow &amp; Onereto &amp; Reld v1.0] [FastROM hack by kandowontu v1.0] [n]">
+		<description>Chatting Parodius Live! (Japan) [T-En by Advancedpillow &amp; Onereto &amp; Reld v1.0] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Chatting Parodius Live! (Japan) [T-En by Advancedpillow &amp; Onereto &amp; Reld v1.0] [FastROM hack by kandowontu v1.0] [n].sfc" size="3145728" crc="eabd8b9e" md5="85656534cfda761f5ade154808a2df42" sha1="aa14d50810f03a94fb1dee188987b74548e2d385"/>
+	</machine>
+	<machine name="Choplifter III - Rescue-Survive (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Choplifter III - Rescue-Survive (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Choplifter III - Rescue-Survive (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="c37b0264" md5="725696d53b678a918fc08024f170bd96" sha1="00727ac581d51c6297c38e13c1a33390b3f35001"/>
+	</machine>
+	<machine name="Chrono Trigger - Jet Bike Special (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Chrono Trigger - Jet Bike Special (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Chrono Trigger - Jet Bike Special (Japan) [FastROM hack by kandowontu v1.0].sfc" size="262144" crc="8161d1cf" md5="f64e81d4144c64db3ec523f3b2255891" sha1="f0706aa67054b40d404d13531a5bdb867a8078b6"/>
+	</machine>
+	<machine name="College Slam (USA) [FastROM hack by kandowontu v1.0]">
+		<description>College Slam (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="College Slam (USA) [FastROM hack by kandowontu v1.0].sfc" size="3145728" crc="dad5e0ca" md5="7cb83f9d35500e17646b4d6aa85da62a" sha1="812b48f3e8f68cc63520097957ca1dbece800e48"/>
+	</machine>
+	<machine name="Combatribes, The (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Combatribes, The (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Combatribes, The (USA) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="c94efed7" md5="3dc339d9449a0f8a4669c50b21b5e0e6" sha1="ddfce8502ac0d5cd4e2571872fbedcd35e3626b2"/>
+	</machine>
+	<machine name="Contra III - The Alien Wars (USA) [FastROM hack by MaxwelOlinda v1.1]">
+		<description>Contra III - The Alien Wars (USA) [FastROM hack by MaxwelOlinda v1.1]</description>
+		<rom name="Contra III - The Alien Wars (USA) [FastROM hack by MaxwelOlinda v1.1].sfc" size="1048576" crc="a2e42770" md5="05d3b0c7732ad2495b00dc32aa46ef3a" sha1="99fc547a002f5e6bc3eb177974858ae9f6614c41"/>
+	</machine>
+	<machine name="Contra III - The Alien Wars (USA) [FastROM hack by MaxwelOlinda v1.1] [Restoration hack by SCD v20170902]">
+		<description>Contra III - The Alien Wars (USA) [FastROM hack by MaxwelOlinda v1.1] [Restoration hack by SCD v20170902]</description>
+		<rom name="Contra III - The Alien Wars (USA) [FastROM hack by MaxwelOlinda v1.1] [Restoration hack by SCD v20170902].sfc" size="1048576" crc="d4761382" md5="6f349c5ef1a25ac4605399fce2f739ba" sha1="84d21bcaff72b708ef2d650d29a6fc3d39a2caf3"/>
+	</machine>
+	<machine name="Contra III - The Alien Wars (USA) [SA1 hack by Vitor Vilela v1.2]">
+		<description>Contra III - The Alien Wars (USA) [SA1 hack by Vitor Vilela v1.2]</description>
+		<rom name="Contra III - The Alien Wars (USA) [SA1 hack by Vitor Vilela v1.2].sfc" size="1048576" crc="ff3ee176" md5="a2b522bd4497e34e028e0b22dace6bcd" sha1="4572dcf51c73734b415bc0d1f1bd4ca912ba5110"/>
+	</machine>
+	<machine name="Contra III - The Alien Wars (USA) [SA1 hack by Vitor Vilela v1.2] [Restoration hack by SCD v20170902]">
+		<description>Contra III - The Alien Wars (USA) [SA1 hack by Vitor Vilela v1.2] [Restoration hack by SCD v20170902]</description>
+		<rom name="Contra III - The Alien Wars (USA) [SA1 hack by Vitor Vilela v1.2] [Restoration hack by SCD v20170902].sfc" size="1048576" crc="2750f126" md5="932572c8911d8a5d38629d7f08bbfee4" sha1="27deb7850b4c16bc5e904746fafc6c074ac45e0d"/>
+	</machine>
+	<machine name="Cool Spot (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Cool Spot (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Cool Spot (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="e3eb87fa" md5="6b508dd02e6ecaf5e8b1fdc3cddd4b91" sha1="1af8e35ae4fbe4df54d2181d1c4ecd5fa40a39be"/>
+	</machine>
+	<machine name="Cool World (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Cool World (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Cool World (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="7d3bdc67" md5="0a2290465690cd89a88aaf1ddaac299f" sha1="90572df5ee60dd66c1f0abbabe219bed0cefd106"/>
+	</machine>
+	<machine name="Cosmo Gang - The Video (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Cosmo Gang - The Video (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Cosmo Gang - The Video (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="68b249b9" md5="c4dd601073eeb278e5b994e5edc1f802" sha1="0a1480fffede0ee5f83443f8a789ab9d5fd4f8d2"/>
+	</machine>
+	<machine name="Cybernator (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>Cybernator (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Cybernator (Europe) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="72beb97a" md5="881b2aca1302807b5f24fb6abc7f2d38" sha1="4d463e9577ffe42c0af755fe10d5547b9f449537"/>
+	</machine>
+	<machine name="Cybernator (USA) (Beta) (November, 1992) [FastROM hack by kandowontu v1.0]">
+		<description>Cybernator (USA) (Beta) (November, 1992) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Cybernator (USA) (Beta) (November, 1992) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="e0cb492d" md5="276171afdb257927895e7f3340792a10" sha1="6fcdfc223402bde3568817305edbd8cc2e5933d7"/>
+	</machine>
+	<machine name="Cybernator (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Cybernator (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Cybernator (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="4b02ce77" md5="b15b767b5f7c0f35c33916d3ffbf9ab8" sha1="ee3c598d54dafe6521db47880b6d6157b1c97d8a"/>
+	</machine>
+	<machine name="D-Force (USA) [FastROM hack by kandowontu v1.1]">
+		<description>D-Force (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="D-Force (USA) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="f75a32ee" md5="a89f35602547742be20444ebdd2a6dba" sha1="cc94b3717427f8c480f89fd18bba3c54cd44d424"/>
+	</machine>
+	<machine name="Darius Twin (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Darius Twin (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Darius Twin (USA) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="d5ee02f5" md5="9b45362bc4cb39c13ef34564ce2ecac2" sha1="14e4b1beff8c0eb602289f194c948698c7d57b44"/>
+	</machine>
+	<machine name="Deae Tonosama Appare Ichiban (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Deae Tonosama Appare Ichiban (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Deae Tonosama Appare Ichiban (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="4811826b" md5="6e3a021d91ae01d780b5d6c4ac94afbc" sha1="de8fc53901e4f791511521108f56e1e30dfe97d4"/>
+	</machine>
+	<machine name="Double Dragon V - The Shadow Falls (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>Double Dragon V - The Shadow Falls (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Double Dragon V - The Shadow Falls (Europe) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="43178c02" md5="8de8a2cc0ca82fba9da33aa1b66a54a4" sha1="90409446d3fd0cf54aac741618f011ee1864893c"/>
+	</machine>
+	<machine name="Double Dragon V - The Shadow Falls (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Double Dragon V - The Shadow Falls (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Double Dragon V - The Shadow Falls (USA) [FastROM hack by kandowontu v1.0].sfc" size="3145728" crc="2163e469" md5="11670d8e2f12e42a49bb1833e682a05f" sha1="68ea3e8ca5363823a3edf20dee0c58da4218e7b6"/>
+	</machine>
+	<machine name="Dragon's Lair (USA) [FastROM hack by Patrick Mollohan v1.1]">
+		<description>Dragon's Lair (USA) [FastROM hack by Patrick Mollohan v1.1]</description>
+		<rom name="Dragon's Lair (USA) [FastROM hack by Patrick Mollohan v1.1].sfc" size="524288" crc="0db06d20" md5="bfb05624a91610aec314f164ee7c099b" sha1="9427d0a3fd3912361a37adac19ee19e3157a64ea"/>
+	</machine>
+	<machine name="E.V.O. - Search for Eden (USA) [FastROM hack by kandowontu v1.0]">
+		<description>E.V.O. - Search for Eden (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="E.V.O. - Search for Eden (USA) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="533fd87b" md5="3344b5f3d33debfa260314798a9e0427" sha1="55675db2cb25520369c83a3bf865376aa5a9cf8c"/>
+	</machine>
+	<machine name="Earth Defense Force (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Earth Defense Force (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Earth Defense Force (USA) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="9f95b963" md5="d3d32c1dd63f16744b243f2a9ce5337c" sha1="cbb7a7e489fa7150ed31a0a3c57f3ffa79e21be8"/>
+	</machine>
+	<machine name="EarthBound (USA) [SlowROM hack by kandowontu v1.0]">
+		<description>EarthBound (USA) [SlowROM hack by kandowontu v1.0]</description>
+		<rom name="EarthBound (USA) [SlowROM hack by kandowontu v1.0].sfc" size="3145728" crc="6f6e4261" md5="673cc5e4826980075c0d9c5bb966cfd6" sha1="ca0a2ea7921b557fbcf8c95e4ac96666897846af"/>
+	</machine>
+	<machine name="Earthworm Jim (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Earthworm Jim (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Earthworm Jim (USA) [FastROM hack by kandowontu v1.0].sfc" size="3145728" crc="316f889d" md5="06fd53bbe230dbe7f2ee43e1cc558e09" sha1="54af6d2e0910e8ec33895444b38c4fed96637e6e"/>
+	</machine>
+	<machine name="Emmitt Smith Football (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Emmitt Smith Football (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Emmitt Smith Football (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="d511f330" md5="c8b743de321fbf9c1f0d891d0d3d0c15" sha1="6c0fdb3ab90c68c4e8cd91642f5108883eef2104"/>
+	</machine>
+	<machine name="Exhaust Heat (Japan) (En) [FastROM hack by kandowontu v1.1]">
+		<description>Exhaust Heat (Japan) (En) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Exhaust Heat (Japan) (En) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="27b2c68f" md5="9317320060da8ce74359bdc1067a0307" sha1="139a26b46fe6597c754d9ae2f788f23cbab59b10"/>
+	</machine>
+	<machine name="F-Zero (USA) [FastROM hack by Vitor Vilela v1.0]">
+		<description>F-Zero (USA) [FastROM hack by Vitor Vilela v1.0]</description>
+		<rom name="F-Zero (USA) [FastROM hack by Vitor Vilela v1.0].sfc" size="524288" crc="810df584" md5="936ca5658dff2524f61b5c8f67f0fd38" sha1="24a2c76fcfd5e212d9d9646e8271987db7e19fa0"/>
+	</machine>
+	<machine name="Faceball 2000 (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Faceball 2000 (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Faceball 2000 (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="3920b2aa" md5="869f3fa0bcebec87b650947cb7d71234" sha1="61263d2312dbe5d688230b143847e33dbabda517"/>
+	</machine>
+	<machine name="Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [alt logo] [n]">
+		<description>Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [alt logo] [n]</description>
+		<rom name="Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [alt logo] [n].sfc" size="2621440" crc="5bee19cb" md5="ac99a669c976df948ce9c9a35836ed5c" sha1="18135750d7c45ea961bd22545668b16a44066685"/>
+	</machine>
+	<machine name="Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [n]">
+		<description>Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [n].sfc" size="2621440" crc="2a3b70a2" md5="bd671879e87ea6179346a86005edd14d" sha1="f28fc2d977cce792edf171ec3b397bc293713085"/>
+	</machine>
+	<machine name="Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [no SRAM] [alt logo] [n]">
+		<description>Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [no SRAM] [alt logo] [n]</description>
+		<rom name="Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [no SRAM] [alt logo] [n].sfc" size="2621440" crc="b7496d46" md5="561e87f60939fb8d96d29a36dec9200d" sha1="2860d694215de5ce23bcb6aed42405607d911fc5"/>
+	</machine>
+	<machine name="Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [no SRAM] [n]">
+		<description>Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [no SRAM] [n]</description>
+		<rom name="Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [no SRAM] [n].sfc" size="2621440" crc="1732965e" md5="82bf7b868b7c6c1758811fedb4d26579" sha1="d0d168911b0b0683f79a7b6858dc695ee876de0f"/>
+	</machine>
+	<machine name="Final Fantasy II (USA) (Rev 1) [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy II (USA) (Rev 1) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy II (USA) (Rev 1) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="1ca42bdd" md5="805b8dd1ef1c2de3ed3ccf4f83faa018" sha1="2c7679f1759a56668e26a5926f72471891800cd9"/>
+	</machine>
+	<machine name="Final Fantasy II (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy II (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy II (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="459226f8" md5="5ed32d5719bc16eee07da249826ee5f3" sha1="e88657046db9f401ca5bdf61270225f2a9a7e82c"/>
+	</machine>
+	<machine name="Final Fantasy IV (Japan) (Rev 1) [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy IV (Japan) (Rev 1) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy IV (Japan) (Rev 1) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="d8c1f99c" md5="7723845cf96f1ac8fda7995ed5208a57" sha1="e6eecb74868fcf3d4892ee1fc3b387b9d6258f58"/>
+	</machine>
+	<machine name="Final Fantasy IV (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy IV (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy IV (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="23be01c0" md5="c8e8501418dfa241da8492b1ae8f4204" sha1="37dff989479e51a5462cb40deddc2bfe5ababb3d"/>
+	</machine>
+	<machine name="Final Fantasy IV (USA) (Rev 1) [Namingway Edition by Rodimus Primal v1.98d] [FastROM hack by kandowontu v1.0] [n]">
+		<description>Final Fantasy IV (USA) (Rev 1) [Namingway Edition by Rodimus Primal v1.98d] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Final Fantasy IV (USA) (Rev 1) [Namingway Edition by Rodimus Primal v1.98d] [FastROM hack by kandowontu v1.0] [n].sfc" size="1572864" crc="bde2ce40" md5="326908dec5671a9bb9651eb2291edfd4" sha1="b7f151f18ebe1730eb8c8590b15938e8c75eb8b5"/>
+	</machine>
+	<machine name="Final Fantasy IV - Easy Type (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy IV - Easy Type (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy IV - Easy Type (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="db20c188" md5="5dd5cad9f9be4de4abe7c378da04e75b" sha1="b911ea5d825da4f6dd2bb674287fe9e1d89ddb3f"/>
+	</machine>
+	<machine name="Final Fantasy IV - Ultima (USA) (Rev 1) [Hack by 8-bit fan v2022 r25c] [FastROM hack by kandowontu v1.1] [n]">
+		<description>Final Fantasy IV - Ultima (USA) (Rev 1) [Hack by 8-bit fan v2022 r25c] [FastROM hack by kandowontu v1.1] [n]</description>
+		<rom name="Final Fantasy IV - Ultima (USA) (Rev 1) [Hack by 8-bit fan v2022 r25c] [FastROM hack by kandowontu v1.1] [n].sfc" size="2097152" crc="94dd7c07" md5="5f60abd4b7104ff584b27f6a59d381ab" sha1="7c3ab6e7ec6a32eab31f22f8044b07403736d994"/>
+	</machine>
+	<machine name="Final Fantasy V (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy V (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy V (Japan) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="8fbc5451" md5="12a7284474537ac963160d12369776ce" sha1="23cbe05551a93cec49e3adab04b49c3ff89a563b"/>
+	</machine>
+	<machine name="Final Fantasy V (Japan) [Hack by s8fp98fd5k v1.4] [T-En by Serity v1.0c] [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy V (Japan) [Hack by s8fp98fd5k v1.4] [T-En by Serity v1.0c] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy V (Japan) [Hack by s8fp98fd5k v1.4] [T-En by Serity v1.0c] [FastROM hack by kandowontu v1.0].sfc" size="3145728" crc="8af6082f" md5="8e7b950cd146044ec8824cbcacd6fe70" sha1="aec27a8f3b902cae6a2c869f69bedfbcbaa4787c"/>
+	</machine>
+	<machine name="Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [Bugfixes] [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [Bugfixes] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [Bugfixes] [FastROM hack by kandowontu v1.0].sfc" size="2621440" crc="130f4906" md5="33d517d05c3af494872c6f1dfc99630b" sha1="21d6c3c6a181c1a54bb616b58fa5cb5d247f0491"/>
+	</machine>
+	<machine name="Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [Bugfixes] [Ginger Battle Galuf] [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [Bugfixes] [Ginger Battle Galuf] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [Bugfixes] [Ginger Battle Galuf] [FastROM hack by kandowontu v1.0].sfc" size="2621440" crc="6d659a15" md5="263df4b2dcf1c2e145edeb8c3f71740c" sha1="9b2e8da87191a3c9e27758284a90e29eaf7a0076"/>
+	</machine>
+	<machine name="Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [FastROM hack by kandowontu v1.0].sfc" size="2621440" crc="4a1413d6" md5="d21a014e20dc7a40d55c3a5a9f29c973" sha1="be8f88c7ed94f21a8f13dae669cca532c8e229cb"/>
+	</machine>
+	<machine name="Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [Ginger Battle Galuf] [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [Ginger Battle Galuf] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [Ginger Battle Galuf] [FastROM hack by kandowontu v1.0].sfc" size="2621440" crc="ddca2463" md5="35a173d42f14fccd576799412d02e054" sha1="10b50d47246494a21175b45ce5f9de36abde0715"/>
+	</machine>
+	<machine name="Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by clymax v0.47] [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by clymax v0.47] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by clymax v0.47] [FastROM hack by kandowontu v1.0].sfc" size="2621440" crc="bfc777e0" md5="02a65140390b23631dc33dbe2c312abc" sha1="b588dc045b1c89ed12ddebfa12d77554a7b0102c"/>
+	</machine>
+	<machine name="Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by clymax v0.54 beta] [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by clymax v0.54 beta] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by clymax v0.54 beta] [FastROM hack by kandowontu v1.0].sfc" size="2621440" crc="324fdd0e" md5="7f70d2a6d8b3c70659b28b9bd311ad04" sha1="45750b2ceb5100afe6b4ebd841b8d273d17d95ae"/>
+	</machine>
+	<machine name="Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by HatZen08 v1.0] [Three Slots patch] [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by HatZen08 v1.0] [Three Slots patch] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by HatZen08 v1.0] [Three Slots patch] [FastROM hack by kandowontu v1.0].sfc" size="2621440" crc="09dfe14f" md5="56868117129585caec662033a95a6923" sha1="b974d34dead39ed20f7d9eca6be8d4a397adc686"/>
+	</machine>
+	<machine name="Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by HatZen08 v3.1] [Strategic Battle patch] [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by HatZen08 v3.1] [Strategic Battle patch] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by HatZen08 v3.1] [Strategic Battle patch] [FastROM hack by kandowontu v1.0].sfc" size="2621440" crc="e5237598" md5="7b078eeb9baf28b72ae8ccc4899c0158" sha1="2a1bb1e2d68e6434aa8c45e2b645842e923d8b9d"/>
+	</machine>
+	<machine name="Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by Leet Sketcher v1.2] [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by Leet Sketcher v1.2] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by Leet Sketcher v1.2] [FastROM hack by kandowontu v1.0].sfc" size="2621440" crc="b7690755" md5="0698c7bbfadbbd5ef76b59c2d2c51bd6" sha1="ad43190efbfd6aa32af3d438a3aa30a44492c37a"/>
+	</machine>
+	<machine name="Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by Noisecross v1.0] [Captured Monster Name] [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by Noisecross v1.0] [Captured Monster Name] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by Noisecross v1.0] [Captured Monster Name] [FastROM hack by kandowontu v1.0].sfc" size="2621440" crc="9bd4c695" md5="51b79c01256253c3e9cecca1b33bd87e" sha1="c6b913919375e34488f7097ad37f68de2bfb9126"/>
+	</machine>
+	<machine name="Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by Spooniest v2.1] [Legend of the Crystals] [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by Spooniest v2.1] [Legend of the Crystals] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by Spooniest v2.1] [Legend of the Crystals] [FastROM hack by kandowontu v1.0].sfc" size="2621440" crc="7974a414" md5="0af84cb4abcbbb88b6c5be902150b46a" sha1="2bc4084d8a96f13eeb2f237cc37682419757bfd0"/>
+	</machine>
+	<machine name="Final Fantasy V (Japan) [T-En by RPGe v1.10] [FastROM hack by kandowontu v1.0]">
+		<description>Final Fantasy V (Japan) [T-En by RPGe v1.10] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fantasy V (Japan) [T-En by RPGe v1.10] [FastROM hack by kandowontu v1.0].sfc" size="2621440" crc="234a3643" md5="29afbac9bdec56b255395c451455a46b" sha1="806285480950c3b65f83275a3a30dd3104bdf6ad"/>
+	</machine>
+	<machine name="Final Fight (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Final Fight (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Final Fight (USA) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="1f1e1489" md5="f5976908847dff0a1b6c6bf9e7465aeb" sha1="0d8d0f7c7e5c846d019eda10e8cb2e53bc86264c"/>
+	</machine>
+	<machine name="Final Fight 3 (USA) [Optimized by MaxwelOlinda v1.1]">
+		<description>Final Fight 3 (USA) [Optimized by MaxwelOlinda v1.1]</description>
+		<rom name="Final Fight 3 (USA) [Optimized by MaxwelOlinda v1.1].sfc" size="3145728" crc="96e5b236" md5="95af923f97cbfde98c4476c0b4a05b15" sha1="2c07fe921a6c949accd73fa97340d60dd1e3118e"/>
+	</machine>
+	<machine name="Final Fight Guy (Japan) [FastROM hack by MaxwelOlinda v1.0]">
+		<description>Final Fight Guy (Japan) [FastROM hack by MaxwelOlinda v1.0]</description>
+		<rom name="Final Fight Guy (Japan) [FastROM hack by MaxwelOlinda v1.0].sfc" size="1048576" crc="896386e2" md5="fcf2f1574af257debd8e864ca2e1398a" sha1="f42ae6694ab0bfaf93995c7ae1b1815c191f0135"/>
+	</machine>
+	<machine name="Final Fight Guy (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Final Fight Guy (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Final Fight Guy (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="c44e8bd0" md5="63082f6dea2f998b3ade930f3f9236ba" sha1="938674b108b315fb15e38d78c36040a128a2dd57"/>
+	</machine>
+	<machine name="Firepower 2000 (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Firepower 2000 (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Firepower 2000 (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="cad03d53" md5="18037b37e73d038684008ace1601796e" sha1="2d214578bb2d49ffeb2bb9656cbda9de48103d86"/>
+	</machine>
+	<machine name="FireStriker (USA) [FastROM hack by kandowontu v1.0]">
+		<description>FireStriker (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="FireStriker (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="b0b68264" md5="b8948231340b1cb35f033f83ee18999f" sha1="39f6c52e052d60446bc2900b56066ed1b29a7dd1"/>
+	</machine>
+	<machine name="First Samurai (USA) [FastROM hack by kandowontu v1.0]">
+		<description>First Samurai (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="First Samurai (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="80aff1d9" md5="a0e1540ac1af293dcadeed2746a4b23f" sha1="289273dbd395624cd0fe6515f06fd62453167b1d"/>
+	</machine>
+	<machine name="Flying Hero - Bugyuru no Daibouken (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Flying Hero - Bugyuru no Daibouken (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Flying Hero - Bugyuru no Daibouken (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="d52bfd54" md5="cad0c77801fc77fdcf3ae1aaabc42bd0" sha1="0927f2ea523e266bb2b38a1cb336c0e384857485"/>
+	</machine>
+	<machine name="Flying Hero - Bugyuru's Adventure (Japan) [T-En by KingMike's Translations v1.0] [FastROM hack by kandowontu v1.0] [n]">
+		<description>Flying Hero - Bugyuru's Adventure (Japan) [T-En by KingMike's Translations v1.0] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Flying Hero - Bugyuru's Adventure (Japan) [T-En by KingMike's Translations v1.0] [FastROM hack by kandowontu v1.0] [n].sfc" size="1048576" crc="266aa48e" md5="2272c5319cb71eb075ac37213756df8a" sha1="20aab74e39f0dc3a8ea8e3d2df96130241383e2c"/>
+	</machine>
+	<machine name="Fun 'n Games (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>Fun 'n Games (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Fun 'n Games (Europe) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="fdc70010" md5="ff6ec4ec2e2528f247c6ca4d762f64d2" sha1="3358d529ff69a8ca7c0d60c7f3bdd358f8b06c47"/>
+	</machine>
+	<machine name="Fun 'n Games (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Fun 'n Games (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Fun 'n Games (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="a955c729" md5="84bcc0c9ecef772ea0239fc7adac42e6" sha1="28d99654b0487a8fbcc01ae4f35d9ffce49df654"/>
+	</machine>
+	<machine name="Ganbare Goemon - Rescue of Princess Yuki (USA) [T-En by FlashPV v1.02] [FastROM hack by kandowontu v1.0] [n]">
+		<description>Ganbare Goemon - Rescue of Princess Yuki (USA) [T-En by FlashPV v1.02] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Ganbare Goemon - Rescue of Princess Yuki (USA) [T-En by FlashPV v1.02] [FastROM hack by kandowontu v1.0] [n].sfc" size="1572864" crc="87a7dd67" md5="29ad0bf121f124630ed230a85399cb59" sha1="8e44392988d5e2820574b2b64762dacf36f7b3d8"/>
+	</machine>
+	<machine name="Ganbare! Daiku no Gen-san (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Ganbare! Daiku no Gen-san (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Ganbare! Daiku no Gen-san (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="8e641b09" md5="82f8f4f55b2efff99ca0a6ee39203025" sha1="68532abeef328748b24daf6006dc25ca08b9ad74"/>
+	</machine>
+	<machine name="Gekitotsu Dangan Jidousha Kessen - Battle Mobile (Japan) (En) [FastROM hack by kandowontu v1.0]">
+		<description>Gekitotsu Dangan Jidousha Kessen - Battle Mobile (Japan) (En) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Gekitotsu Dangan Jidousha Kessen - Battle Mobile (Japan) (En) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="4ac94a5f" md5="9b7a2db1534652dce0a92ad9df7001a0" sha1="c17cdf7b73aef2d3bdc024e0f032d48384ec7634"/>
+	</machine>
+	<machine name="Get Going! Ebisumaru - The Mechanical Maze - Mystery of the Missing Goemon!! (Japan) [T-En by DDSTranslation v2.0] [FastROM hack by kandowontu v1.0] [n]">
+		<description>Get Going! Ebisumaru - The Mechanical Maze - Mystery of the Missing Goemon!! (Japan) [T-En by DDSTranslation v2.0] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Get Going! Ebisumaru - The Mechanical Maze - Mystery of the Missing Goemon!! (Japan) [T-En by DDSTranslation v2.0] [FastROM hack by kandowontu v1.0] [n].sfc" size="2097152" crc="7462e01e" md5="cbe0c3c273dea0112af070d83dd4eea0" sha1="63f03c91b1fcf3e6ff36933875f040c79d8cd045"/>
+	</machine>
+	<machine name="Go for it! Goemon - Rescue of Princess Yuki (USA) [T-En by FlashPV v1.02] [FastROM hack by kandowontu v1.0] [n]">
+		<description>Go for it! Goemon - Rescue of Princess Yuki (USA) [T-En by FlashPV v1.02] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Go for it! Goemon - Rescue of Princess Yuki (USA) [T-En by FlashPV v1.02] [FastROM hack by kandowontu v1.0] [n].sfc" size="1572864" crc="28fbb991" md5="2a47774909d7486fd30d04476dda3053" sha1="f9fd086a7d7f5bd61066eab5a58dfed0f049020c"/>
+	</machine>
+	<machine name="Gokujou Parodius (Japan) [SlowROM hack by kandowontu v1.0]">
+		<description>Gokujou Parodius (Japan) [SlowROM hack by kandowontu v1.0]</description>
+		<rom name="Gokujou Parodius (Japan) [SlowROM hack by kandowontu v1.0].sfc" size="2097152" crc="4b9ba61f" md5="3d7b2ed4028dabbe9312686fbbd7b2e0" sha1="2d3096baf516ff52e5ff1cecc7fbdfc63b6cd799"/>
+	</machine>
+	<machine name="Gokujou Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0]">
+		<description>Gokujou Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0]</description>
+		<rom name="Gokujou Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0].sfc" size="2621440" crc="43a52f2c" md5="e5a7910938c0bbecb19de9645b222975" sha1="4b3d99d3dc7a06896eefeda303fb00f9ac97d1ec"/>
+	</machine>
+	<machine name="Gokujou Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [no SRAM]">
+		<description>Gokujou Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [no SRAM]</description>
+		<rom name="Gokujou Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [no SRAM].sfc" size="2621440" crc="ba55b60d" md5="0f2261dc458395c2c54b6a6440c57a11" sha1="e478eb5bd03efd581dbeaf163fa5e95a00c8ce51"/>
+	</machine>
+	<machine name="Gourmet Warriors (USA) (Aftermarket) (Unl) [FastROM hack by kandowontu v1.0]">
+		<description>Gourmet Warriors (USA) (Aftermarket) (Unl) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Gourmet Warriors (USA) (Aftermarket) (Unl) [FastROM hack by kandowontu v1.0].sfc" size="2621440" crc="fd89ba60" md5="3f90a03a9656bbe5bca499f9c0142ebd" sha1="e8c097567c9045dcee15ba4663c404658c7c36ab"/>
+	</machine>
+	<machine name="Gradius III (Japan) (En) [SA1 hack by Vitor Vilela v1.7]">
+		<description>Gradius III (Japan) (En) [SA1 hack by Vitor Vilela v1.7]</description>
+		<rom name="Gradius III (Japan) (En) [SA1 hack by Vitor Vilela v1.7].sfc" size="524288" crc="c6105027" md5="7a739fd8dbeeade9484a408cd4b3edc3" sha1="7072507a5ccf2ad5a5126ab2c219a60543f9289c"/>
+	</machine>
+	<machine name="Gradius III (Japan) (En) [SA1 hack by Vitor Vilela v1.7] [SA1 Origin by GuyPerfect]">
+		<description>Gradius III (Japan) (En) [SA1 hack by Vitor Vilela v1.7] [SA1 Origin by GuyPerfect]</description>
+		<rom name="Gradius III (Japan) (En) [SA1 hack by Vitor Vilela v1.7] [SA1 Origin by GuyPerfect].sfc" size="524288" crc="7c2e0613" md5="af37d0281fadbe147a89b0c4ee65eac0" sha1="54bb681b39f9f8238705ee4955bdb4179b90d4e6"/>
+	</machine>
+	<machine name="Gradius III (USA) [FastROM hack by Slidelljohn v1.2]">
+		<description>Gradius III (USA) [FastROM hack by Slidelljohn v1.2]</description>
+		<rom name="Gradius III (USA) [FastROM hack by Slidelljohn v1.2].sfc" size="524288" crc="d8477743" md5="6c2ec23ef3bc38ea5c8fffba2eabaafc" sha1="b44edd1d956b7bedd4207c31765c80c0f59d0705"/>
+	</machine>
+	<machine name="Gradius III (USA) [SA1 hack by Vitor Vilela v1.7]">
+		<description>Gradius III (USA) [SA1 hack by Vitor Vilela v1.7]</description>
+		<rom name="Gradius III (USA) [SA1 hack by Vitor Vilela v1.7].sfc" size="524288" crc="f696dd2b" md5="bfaf1602c16ea766c094a21406a2164e" sha1="40cc9c1abc51be1c9218f0a6dde87fa3b092cd3b"/>
+	</machine>
+	<machine name="Gradius III (USA) [SA1 hack by Vitor Vilela v1.7] [SA1 Origin by GuyPerfect]">
+		<description>Gradius III (USA) [SA1 hack by Vitor Vilela v1.7] [SA1 Origin by GuyPerfect]</description>
+		<rom name="Gradius III (USA) [SA1 hack by Vitor Vilela v1.7] [SA1 Origin by GuyPerfect].sfc" size="524288" crc="0317bdb2" md5="4c43fe08e4a5b91ef8917de257f66234" sha1="9137b15a5b13399305b46d5b12bfadb6d53cfb40"/>
+	</machine>
+	<machine name="Great Battle II, The - Last Fighter Twin (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Great Battle II, The - Last Fighter Twin (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Great Battle II, The - Last Fighter Twin (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="b2cdb90d" md5="d490de5fd8c0693898e23d6ee18709e7" sha1="ef2c95a37889b843e54681413b2c0431a649360d"/>
+	</machine>
+	<machine name="Great Battle II, The - Last Fighter Twin (Japan) [T-En by Aeon Genesis v1.2] [FastROM hack by kandowontu v1.0] [n]">
+		<description>Great Battle II, The - Last Fighter Twin (Japan) [T-En by Aeon Genesis v1.2] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Great Battle II, The - Last Fighter Twin (Japan) [T-En by Aeon Genesis v1.2] [FastROM hack by kandowontu v1.0] [n].sfc" size="1572864" crc="bd61d5c7" md5="e58140b41d111ad0562d83536c8fea92" sha1="0a69368805d52f62e847a9ea303882b1335d2180"/>
+	</machine>
+	<machine name="Great Battle III, The (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Great Battle III, The (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Great Battle III, The (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1310720" crc="ea23c4f7" md5="7ab6ea594c0cec83a3458406ba10fe63" sha1="3b754b2c16fa423421f493317ba620a7545c0557"/>
+	</machine>
+	<machine name="Great Battle III, The (Japan) [T-En by Aeon Genesis v1.1] [FastROM hack by kandowontu v1.0] [n]">
+		<description>Great Battle III, The (Japan) [T-En by Aeon Genesis v1.1] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Great Battle III, The (Japan) [T-En by Aeon Genesis v1.1] [FastROM hack by kandowontu v1.0] [n].sfc" size="1572864" crc="5fbf9bd2" md5="51333c2ba3bcb820120dd3d5fa1d32f1" sha1="bae525df3302046ccf1f84b3c3a4d424aee8239d"/>
+	</machine>
+	<machine name="Great Battle IV, The (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Great Battle IV, The (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Great Battle IV, The (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="72878cdf" md5="dbaada5772653f58543c33cee52e6ea1" sha1="18dd21bf4345ef40faa144637d7831a357b70478"/>
+	</machine>
+	<machine name="Great Battle IV, The (Japan) [T-En by Aeon Genesis v1.1] [FastROM hack by kandowontu v1.0] [n]">
+		<description>Great Battle IV, The (Japan) [T-En by Aeon Genesis v1.1] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Great Battle IV, The (Japan) [T-En by Aeon Genesis v1.1] [FastROM hack by kandowontu v1.0] [n].sfc" size="2097152" crc="23c3de00" md5="cea8cbd55a59804636f276c00ce0964a" sha1="3289075254ec0a06a13c53b3aa0b505c6accdfe7"/>
+	</machine>
+	<machine name="Great Battle V, The (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Great Battle V, The (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Great Battle V, The (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="1cbf5a8e" md5="a268a3d972b2e51d997796bf2b91d762" sha1="3354c63bcc9c56c50d135faf3c353fcfbce2c24a"/>
+	</machine>
+	<machine name="Great Battle V, The (Japan) [T-En by Aeon Genesis v1.2] [FastROM hack by kandowontu v1.0] [n]">
+		<description>Great Battle V, The (Japan) [T-En by Aeon Genesis v1.2] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Great Battle V, The (Japan) [T-En by Aeon Genesis v1.2] [FastROM hack by kandowontu v1.0] [n].sfc" size="2097152" crc="6ad70536" md5="c29df6d5c6eed002564573a435b00cb5" sha1="de256935a4cb231cb5fa72a77101b8e5ff6a0ec5"/>
+	</machine>
+	<machine name="Great Waldo Search, The (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Great Waldo Search, The (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Great Waldo Search, The (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="3b85cd19" md5="f7ff305a8c63ecb183f3f6fd34a00744" sha1="9144932a874cc56958dff854083d4d3b5264ab6b"/>
+	</machine>
+	<machine name="GS Mikami - Joreishi wa Nice Body (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>GS Mikami - Joreishi wa Nice Body (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="GS Mikami - Joreishi wa Nice Body (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="430316d9" md5="d80f19fd49965b5a7177b89a956628b3" sha1="d61466e3c027210259aafa01843f8a1887e9d239"/>
+	</machine>
+	<machine name="GunForce (USA) [FastROM hack by kandowontu v1.1]">
+		<description>GunForce (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="GunForce (USA) [FastROM hack by kandowontu v1.1].sfc" size="524288" crc="1f8d9b0b" md5="ba1babfb981d85077944923a73021e11" sha1="c9d8a15d22c11fbd4ab188677a29bb5528d33c2d"/>
+	</machine>
+	<machine name="Hebereke's Popoitto (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>Hebereke's Popoitto (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Hebereke's Popoitto (Europe) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="117f5373" md5="576bd498454b2bf40a7453d27c26eca5" sha1="d43fe0118924565ab7b63b9d05b0527a09624ef8"/>
+	</machine>
+	<machine name="Holy Umbrella - Dondera no Mubou!! (Japan) [FastROM hack by kandowontu v1.1]">
+		<description>Holy Umbrella - Dondera no Mubou!! (Japan) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Holy Umbrella - Dondera no Mubou!! (Japan) [FastROM hack by kandowontu v1.1].sfc" size="2621440" crc="b0dd1531" md5="6d5c25524e27b130b3b62437274b5e75" sha1="4f403037582c7884f478ad82c50c3cb8cd777967"/>
+	</machine>
+	<machine name="Holy Umbrella - Dondera no Mubou!! (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1]">
+		<description>Holy Umbrella - Dondera no Mubou!! (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Holy Umbrella - Dondera no Mubou!! (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1].sfc" size="3145728" crc="44eb5a14" md5="3658f02125d928c8beecb2c94312e867" sha1="8fef9c2a9e39afe8b85d6e25459bce03d0fc2caf"/>
+	</machine>
+	<machine name="Holy Umbrella - Dondera no Mubou!! (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1] [Splash screen removed]">
+		<description>Holy Umbrella - Dondera no Mubou!! (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1] [Splash screen removed]</description>
+		<rom name="Holy Umbrella - Dondera no Mubou!! (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1] [Splash screen removed].sfc" size="3145728" crc="75fedf8c" md5="1eb8625bb55a2c5ceb5b33062b99cfb1" sha1="8d38d78ef21189bbbf09e1205799c2c90ae554d4"/>
+	</machine>
+	<machine name="Home Alone (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Home Alone (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Home Alone (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="47aa47b2" md5="9cbcd3272b19b588d2261021e3de4508" sha1="e574e68ee76a7a8965fd543ef39699061911734d"/>
+	</machine>
+	<machine name="Hook (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Hook (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Hook (USA) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="4b3a1e6e" md5="3e29c85120b55f03aee5893cee82a31f" sha1="3de75777fca85ef108bba928fa2b5fb73ee0997e"/>
+	</machine>
+	<machine name="Hoshi no Kirby 3 (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Hoshi no Kirby 3 (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Hoshi no Kirby 3 (Japan) [FastROM hack by kandowontu v1.0].sfc" size="4194304" crc="ddc74464" md5="d7603b83c407a2bb9aed33bad849b622" sha1="567e2138097174cee362020eeb806dee4d7653e1"/>
+	</machine>
+	<machine name="HyperZone (Japan) (En) [FastROM hack by kandowontu v1.0]">
+		<description>HyperZone (Japan) (En) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="HyperZone (Japan) (En) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="bd731254" md5="c56c96bd8b8c5dd89807c9926b33aaf4" sha1="4667b587a16506ded3109d9b061be9318f253b4b"/>
+	</machine>
+	<machine name="HyperZone (USA) [FastROM hack by kandowontu v1.0]">
+		<description>HyperZone (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="HyperZone (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="688ba26d" md5="5960a0f2d1a90368763cf06dd59e3da9" sha1="fe964dda09645b3504a8a8ff7199780b523a4c7e"/>
+	</machine>
+	<machine name="Ignition Factor, The (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Ignition Factor, The (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Ignition Factor, The (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="dccc57d8" md5="9e0896f3327ddd97abb97d774a194fce" sha1="dc214b086e488e75af7d09253407b2f8198a8f3e"/>
+	</machine>
+	<machine name="Imperium (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Imperium (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Imperium (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="45b231e2" md5="1eaf0c145dd143f478f41ead53fbd3b7" sha1="15e65c88ca5299d6194a4ad014744549404b2056"/>
+	</machine>
+	<machine name="J.League '96 Dream Stadium (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>J.League '96 Dream Stadium (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="J.League '96 Dream Stadium (Japan) [FastROM hack by kandowontu v1.0].sfc" size="2621440" crc="368f7a96" md5="c795c1d64a4fb4bb74461a1a04149e10" sha1="9d2464072ad466a0b1e9c699f11894e26428256f"/>
+	</machine>
+	<machine name="J.R.R. Tolkien's The Lord of the Rings - Volume 1 (USA) [FastROM hack by kandowontu v1.0]">
+		<description>J.R.R. Tolkien's The Lord of the Rings - Volume 1 (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="J.R.R. Tolkien's The Lord of the Rings - Volume 1 (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="9f836762" md5="df0b0957df815112ef1d3ef79d76cc27" sha1="0ba4b6666b8b381d0a6f0f6510f5e3c746965025"/>
+	</machine>
+	<machine name="J.R.R. Tolkien's The Lord of the Rings - Volume One (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>J.R.R. Tolkien's The Lord of the Rings - Volume One (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="J.R.R. Tolkien's The Lord of the Rings - Volume One (Europe) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="13eb77c9" md5="1c3f291230c1f1f0fca8eddacb31fb1d" sha1="ddb81a4b5956cfc4e5bfa52324edb68be29ed96f"/>
+	</machine>
+	<machine name="J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany) [FastROM hack by kandowontu v1.0]">
+		<description>J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="d9b51ce4" md5="911328f8d20641dd9cf2f5ef5096ceb4" sha1="3357d0a73bf882a0484612dac3b7bd1c8bcbedd1"/>
+	</machine>
+	<machine name="Jaleco Rally Big Run - The Supreme 4WD Challenge (Japan) (En) (Rev 1) [FastROM hack by kandowontu v1.0]">
+		<description>Jaleco Rally Big Run - The Supreme 4WD Challenge (Japan) (En) (Rev 1) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Jaleco Rally Big Run - The Supreme 4WD Challenge (Japan) (En) (Rev 1) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="2e820865" md5="378f8f1cf604e1bc4a3d4bdc4cfe8eb1" sha1="f2a33e6e46d49209861a3ae804c98b299286e3ad"/>
+	</machine>
+	<machine name="Jikkyou Oshaberi Parodius (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Jikkyou Oshaberi Parodius (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Jikkyou Oshaberi Parodius (Japan) [FastROM hack by kandowontu v1.0].sfc" size="3145728" crc="5f191a34" md5="713abab45de90a735c2236ca3dd32bbf" sha1="a2061c2b5ed7ad53db0c5016bdf0d8ede99fc207"/>
+	</machine>
+	<machine name="Joe &amp; Mac (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Joe &amp; Mac (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Joe &amp; Mac (USA) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="7674e5fb" md5="fe4f69653fb1098d0bd182dc3f67110a" sha1="04030e796cbe05a80d740df0c5866ab8865b871e"/>
+	</machine>
+	<machine name="Joe &amp; Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl) [FastROM hack by kandowontu v1.0]">
+		<description>Joe &amp; Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Joe &amp; Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="3307ebc1" md5="bc206d96e42010e6098961a93e6884a3" sha1="f619db0bd42a7807583d94fa97eaff9dd8381484"/>
+	</machine>
+	<machine name="Joe &amp; Mac 2 - Lost in the Tropics (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Joe &amp; Mac 2 - Lost in the Tropics (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Joe &amp; Mac 2 - Lost in the Tropics (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="b0c65f14" md5="6586b0007b28a8c86d50792e5d0fd374" sha1="4989ec87a89935c51c1df26360cb8593a21408ee"/>
+	</machine>
+	<machine name="Joe &amp; Mac 3 - Lost in the Tropics (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0]">
+		<description>Joe &amp; Mac 3 - Lost in the Tropics (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Joe &amp; Mac 3 - Lost in the Tropics (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="93b36c1e" md5="9027fac50857958dbb19024d3f79ff20" sha1="07139d114985a03a989259afc0fa29fcc4992bf0"/>
+	</machine>
+	<machine name="Juusou Kihei Valken (Japan) [FastROM hack by kandowontu v1.1]">
+		<description>Juusou Kihei Valken (Japan) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Juusou Kihei Valken (Japan) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="acaef874" md5="b43aea8c905309727655e32255cfe846" sha1="867184eb976446c015bc4c2153502db9d2c4ad7c"/>
+	</machine>
+	<machine name="Kawasaki Caribbean Challenge (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Kawasaki Caribbean Challenge (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Kawasaki Caribbean Challenge (USA) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="f6db80c2" md5="86605797739882b6d1b26027c68ff124" sha1="373b8a04be8c35a2780529bc6ae8bbc1e84d9fde"/>
+	</machine>
+	<machine name="Ken Griffey Jr.'s Winning Run (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Ken Griffey Jr.'s Winning Run (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Ken Griffey Jr.'s Winning Run (USA) [FastROM hack by kandowontu v1.0].sfc" size="4194304" crc="493757b1" md5="6871d6ff495936c533bd076ce894261b" sha1="6ec36d034d075d66ceaa85c2d118b64d52f4cef7"/>
+	</machine>
+	<machine name="Kidou Soukou Dion (Japan) (En) [FastROM hack by kandowontu v1.1]">
+		<description>Kidou Soukou Dion (Japan) (En) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Kidou Soukou Dion (Japan) (En) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="39fca441" md5="a89213f930104f5dc586dfe607264990" sha1="9c45952d70fdbc6c75dd8a8dc5a8c946200f7f54"/>
+	</machine>
+	<machine name="Kirby's Dream Land 3 (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Kirby's Dream Land 3 (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Kirby's Dream Land 3 (USA) [FastROM hack by kandowontu v1.0].sfc" size="4194304" crc="727a367c" md5="0b70e77cfa4cf1fda46b1f05a10febc5" sha1="a2df084a8ffbff1601ce2ec39e7467040fea1f49"/>
+	</machine>
+	<machine name="Krusty's Super Fun House (USA) (Rev 1) [FastROM hack by kandowontu v1.0]">
+		<description>Krusty's Super Fun House (USA) (Rev 1) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Krusty's Super Fun House (USA) (Rev 1) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="60c3b474" md5="fe08b29093d00b249bd6005d727abec2" sha1="97284d2ff34ce01f4a6e677cf394094b2c9ce588"/>
+	</machine>
+	<machine name="Legend (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Legend (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Legend (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="b3695cae" md5="de79fedb5270f106cd545d8e90d08b0c" sha1="e3b43279026c14c9ffda2a87e423f1f0d030ff74"/>
+	</machine>
+	<machine name="Legend of the Mystical Ninja, The (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Legend of the Mystical Ninja, The (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Legend of the Mystical Ninja, The (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="5e2f40e9" md5="4108a9f7f8774579bc8d71348ddb6214" sha1="5ed492174f556608e05ffe2e0e3181480e29c485"/>
+	</machine>
+	<machine name="Legend of Zelda, The - A Link to the Past (France) [FastROM hack by kandowontu v1.1]">
+		<description>Legend of Zelda, The - A Link to the Past (France) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Legend of Zelda, The - A Link to the Past (France) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="f40f62b1" md5="a4f1b83c59bb0bd37f2025f80199fe95" sha1="ee755ffd123a11c5171faeece0674287c7b14678"/>
+	</machine>
+	<machine name="Legend of Zelda, The - A Link to the Past (USA) [FastROM hack by Wiiq &amp; Conn v20160429]">
+		<description>Legend of Zelda, The - A Link to the Past (USA) [FastROM hack by Wiiq &amp; Conn v20160429]</description>
+		<rom name="Legend of Zelda, The - A Link to the Past (USA) [FastROM hack by Wiiq &amp; Conn v20160429].sfc" size="1572864" crc="06007847" md5="c61e8d12d3b785da88f949128bf45e53" sha1="7e2998248a1eeaa4d5f4f0e7e12c78e539175944"/>
+	</machine>
+	<machine name="Lemmings (USA) (Rev 1) [FastROM hack by kandowontu v1.0]">
+		<description>Lemmings (USA) (Rev 1) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Lemmings (USA) (Rev 1) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="45ab64d1" md5="f1f9df080ba5df860dff98205ffe9e80" sha1="2389269ff8e3c6d859c5bdbcce4ea7316a62f7fd"/>
+	</machine>
+	<machine name="Live A Live (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Live A Live (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Live A Live (Japan) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="2e544498" md5="888d02f2e039bbf6087092d56f9d1bbe" sha1="7fc541b1e30b44aa9b6fb944b6839bcdab99bf00"/>
+	</machine>
+	<machine name="Live A Live (Japan) [T-En by Aeon Genesis v2.00 Deluxe] [FastROM hack by kandowontu v1.0]">
+		<description>Live A Live (Japan) [T-En by Aeon Genesis v2.00 Deluxe] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Live A Live (Japan) [T-En by Aeon Genesis v2.00 Deluxe] [FastROM hack by kandowontu v1.0].sfc" size="2621440" crc="55a3eda5" md5="20805b6b05f25ac6da8dc3c528078aee" sha1="30ba6b373f7eac27c2b37cfdac8518a3d72fe2df"/>
+	</machine>
+	<machine name="Lost Vikings 2 (USA) [FastROM hack by Sluffy v0.80]">
+		<description>Lost Vikings 2 (USA) [FastROM hack by Sluffy v0.80]</description>
+		<rom name="Lost Vikings 2 (USA) [FastROM hack by Sluffy v0.80].sfc" size="2097152" crc="c7737a20" md5="56cc1aba92b517dbf90a7c4bc23d4087" sha1="3d7d351a3c81860fdfd26b43286f89fd5472c356"/>
+	</machine>
+	<machine name="Magic Sword (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Magic Sword (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Magic Sword (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="62d4d59a" md5="a4f10e765853a9800a516a00cad3e919" sha1="cacf04a98e1a1fb1825970343c3112c3321dbac7"/>
+	</machine>
+	<machine name="Magical Pop'n (Japan) [FastROM hack by kandowontu v1.1]">
+		<description>Magical Pop'n (Japan) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Magical Pop'n (Japan) [FastROM hack by kandowontu v1.1].sfc" size="2097152" crc="5cf4c16d" md5="c96d059c126e9cbc8ac01d0ec5d9b8ff" sha1="297134db7a463163e9d055707b1efed8e6359510"/>
+	</machine>
+	<machine name="Magical Pop'n (Japan) [T-En by Aeon Genesis v1.01] [FastROM hack by kandowontu v1.1]">
+		<description>Magical Pop'n (Japan) [T-En by Aeon Genesis v1.01] [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Magical Pop'n (Japan) [T-En by Aeon Genesis v1.01] [FastROM hack by kandowontu v1.1].sfc" size="2621440" crc="2fbff1dc" md5="426b1bc8e1202aa7d5eb1e4d252f2a59" sha1="36dc8ccb41294e3a1bc60f8708347d36b32975b4"/>
+	</machine>
+	<machine name="Magical Quest Starring Mickey Mouse, The (USA) [FastROM hack by Master Linkuei v1.0]">
+		<description>Magical Quest Starring Mickey Mouse, The (USA) [FastROM hack by Master Linkuei v1.0]</description>
+		<rom name="Magical Quest Starring Mickey Mouse, The (USA) [FastROM hack by Master Linkuei v1.0].sfc" size="1572864" crc="539893f3" md5="fda70b4a63a1b34911946e0086fb2ea4" sha1="29ced93f48554695db7e2213b9d2690d7f23c35e"/>
+	</machine>
+	<machine name="Magical Quest Starring Mickey Mouse, The (USA) [FastROM hack by Master Linkuei v1.0] [Splash screen removed]">
+		<description>Magical Quest Starring Mickey Mouse, The (USA) [FastROM hack by Master Linkuei v1.0] [Splash screen removed]</description>
+		<rom name="Magical Quest Starring Mickey Mouse, The (USA) [FastROM hack by Master Linkuei v1.0] [Splash screen removed].sfc" size="1048576" crc="da2ccf33" md5="2034c49e6d41e051e19afc90fc0c4662" sha1="db73f727d5923fb6f7714b7958c6893af344a81b"/>
+	</machine>
+	<machine name="Mario Paint (Japan, USA) (En) [FastROM hack by kandowontu v1.0]">
+		<description>Mario Paint (Japan, USA) (En) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Mario Paint (Japan, USA) (En) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="e3597489" md5="8a15224b63f2352a631c927c2b050ba7" sha1="37a54c60a9bc3416d1ebe772292c7d62ddec5036"/>
+	</machine>
+	<machine name="Marvelous - Another Treasure Island (Japan) [T-En by Tashi] [Add by DackR v1.07] [FastROM hack by kandowontu v1.0] [n]">
+		<description>Marvelous - Another Treasure Island (Japan) [T-En by Tashi] [Add by DackR v1.07] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Marvelous - Another Treasure Island (Japan) [T-En by Tashi] [Add by DackR v1.07] [FastROM hack by kandowontu v1.0] [n].sfc" size="4194304" crc="3e9aa10b" md5="58b32d57a49f2b42aaf5060d116fd569" sha1="b5e42ec05ad4f07b344da15bb19d9658abeca2e0"/>
+	</machine>
+	<machine name="Marvelous - Mouhitotsu no Takara-jima (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Marvelous - Mouhitotsu no Takara-jima (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Marvelous - Mouhitotsu no Takara-jima (Japan) [FastROM hack by kandowontu v1.0].sfc" size="3145728" crc="27edfbf8" md5="f749c0ca20c8c921df8858e4ffd899cb" sha1="14140e76855ff73fcca780d642b4127632693848"/>
+	</machine>
+	<machine name="Maui Mallard in Cold Shadow (USA) [FastROM hack by kandowontu v1.01]">
+		<description>Maui Mallard in Cold Shadow (USA) [FastROM hack by kandowontu v1.01]</description>
+		<rom name="Maui Mallard in Cold Shadow (USA) [FastROM hack by kandowontu v1.01].sfc" size="3145728" crc="bd014abe" md5="9b27b69d39122c7399d9e8a58164f12e" sha1="bfee95f19f3b49c737fdaa6d87f71cf2bdae0411"/>
+	</machine>
+	<machine name="Mega Man X (USA) [SA1 hack by Bosn v1.2]">
+		<description>Mega Man X (USA) [SA1 hack by Bosn v1.2]</description>
+		<rom name="Mega Man X (USA) [SA1 hack by Bosn v1.2].sfc" size="1572864" crc="b0eea801" md5="62e96ed449414a644c1f1508db0e3a22" sha1="03d76b7f596ceae00016dc2b02c991518adfa5e8"/>
+	</machine>
+	<machine name="Mega Man X (USA) [SA1 hack by Bosn v1.2] [Double tap disabled]">
+		<description>Mega Man X (USA) [SA1 hack by Bosn v1.2] [Double tap disabled]</description>
+		<rom name="Mega Man X (USA) [SA1 hack by Bosn v1.2] [Double tap disabled].sfc" size="1572864" crc="f3068bb5" md5="65d5586fee51737bdbda3d9a261bf38f" sha1="fbaf934bde7994271b72fdfe5cfa6041b94579a5"/>
+	</machine>
+	<machine name="Mega Man X2 (USA) [FastROM hack by kandowontu v4.0]">
+		<description>Mega Man X2 (USA) [FastROM hack by kandowontu v4.0]</description>
+		<rom name="Mega Man X2 (USA) [FastROM hack by kandowontu v4.0].sfc" size="1572864" crc="97fb0246" md5="65297e9d0fb2be3cca8e7dfa963b8a64" sha1="4f3bfbb76bfc324d09f778c28ece79f1c3fdb588"/>
+	</machine>
+	<machine name="Mega Man X2 (USA) [FastROM hack by Sluffy v20182903]">
+		<description>Mega Man X2 (USA) [FastROM hack by Sluffy v20182903]</description>
+		<rom name="Mega Man X2 (USA) [FastROM hack by Sluffy v20182903].sfc" size="1572864" crc="0a34e443" md5="3094ab616875d05fe2ed5ecc4773a642" sha1="203c596281b5d5ae010149b1669f7ba1ae6b3138"/>
+	</machine>
+	<machine name="Mega Man X3 (USA) [FastROM hack by kandowontu v2.1]">
+		<description>Mega Man X3 (USA) [FastROM hack by kandowontu v2.1]</description>
+		<rom name="Mega Man X3 (USA) [FastROM hack by kandowontu v2.1].sfc" size="2097152" crc="c49da754" md5="4518c12a590861e9254ae0861b998fdd" sha1="8fd4046d63ca1d4f219494f083b6ffd09906f5f5"/>
+	</machine>
+	<machine name="Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [FastROM hack by kandowontu v1.0] [n]">
+		<description>Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [FastROM hack by kandowontu v1.0] [n].sfc" size="2621440" crc="881c0fc2" md5="f335239b4dd19d88d14584a6b5cef194" sha1="e9d294184e819e112254cdeaeefb679d8b756904"/>
+	</machine>
+	<machine name="Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [FastROM hack by MaxwelOlinda v1.0] [n]">
+		<description>Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [FastROM hack by MaxwelOlinda v1.0] [n]</description>
+		<rom name="Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [FastROM hack by MaxwelOlinda v1.0] [n].sfc" size="2621440" crc="9fd3515d" md5="d963c8fe95fe9e64ff8c6b9b11cd367c" sha1="321c2662c4ccaa8f06e25ff698736ed44cc52d5f"/>
+	</machine>
+	<machine name="Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [Nephew Colors hack by Jonny v1.0] [FastROM hack by kandowontu v1.0] [n]">
+		<description>Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [Nephew Colors hack by Jonny v1.0] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [Nephew Colors hack by Jonny v1.0] [FastROM hack by kandowontu v1.0] [n].sfc" size="2621440" crc="030fd81e" md5="d6e2001731265686510ad5c74ffce9cc" sha1="569af8b0cef7d6dda2140de5f338079d2187ea04"/>
+	</machine>
+	<machine name="Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [Nephew Colors hack by Jonny v1.0] [FastROM hack by MaxwelOlinda v1.0] [n]">
+		<description>Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [Nephew Colors hack by Jonny v1.0] [FastROM hack by MaxwelOlinda v1.0] [n]</description>
+		<rom name="Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [Nephew Colors hack by Jonny v1.0] [FastROM hack by MaxwelOlinda v1.0] [n].sfc" size="2621440" crc="14c08681" md5="caa11dc7796f0bcd3716bba871307abb" sha1="107781a0f5ec1f378921526018847dffb10880cb"/>
+	</machine>
+	<machine name="Mickey Mania (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>Mickey Mania (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Mickey Mania (Europe) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="d46a4adc" md5="f68a435b284525f0366855147649beb6" sha1="e7b4bcce82e206bd8e1b94cc742b945b9f562969"/>
+	</machine>
+	<machine name="Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="b449d364" md5="2bb6723922df9ab89e492cceec843570" sha1="44c0d45a0f651cf8f2316fc8dbb515d057b03738"/>
+	</machine>
+	<machine name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="20be1d73" md5="e683d0a4852e855db4cc489cf85d7fff" sha1="9e50b61a36b9e0ae649c004b4a6ce579a6042066"/>
+	</machine>
+	<machine name="Mickey to Donald - Magical Adventure 3 (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Mickey to Donald - Magical Adventure 3 (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Mickey to Donald - Magical Adventure 3 (Japan) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="49fe8c53" md5="18713a59329ed3f1535d4f77a224ac8e" sha1="478e4914b7912e66b99fd27076fb9abf3729870b"/>
+	</machine>
+	<machine name="Mickey to Donald - Magical Adventure 3 (Japan) [FastROM hack by MaxwelOlinda v1.0]">
+		<description>Mickey to Donald - Magical Adventure 3 (Japan) [FastROM hack by MaxwelOlinda v1.0]</description>
+		<rom name="Mickey to Donald - Magical Adventure 3 (Japan) [FastROM hack by MaxwelOlinda v1.0].sfc" size="2097152" crc="881dda02" md5="2ed2f21045509b3a7d56d198151059bf" sha1="65c7cd652ed5d125b3bcc77cb705d377a680429d"/>
+	</machine>
+	<machine name="Mighty Morphin Power Rangers (USA) [FastROM hack by kandowontu v1.1] [bugged title screen]">
+		<description>Mighty Morphin Power Rangers (USA) [FastROM hack by kandowontu v1.1] [bugged title screen]</description>
+		<rom name="Mighty Morphin Power Rangers (USA) [FastROM hack by kandowontu v1.1] [bugged title screen].sfc" size="2097152" crc="bb3a72c3" md5="9af2db8592836f3e3d6024f8692c0343" sha1="19306243417da8ed6ea403c9710b4ab02dadf9d6"/>
+	</machine>
+	<machine name="Mighty Morphin Power Rangers - The Fighting Edition (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Mighty Morphin Power Rangers - The Fighting Edition (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Mighty Morphin Power Rangers - The Fighting Edition (USA) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="e1ac864e" md5="4a4026b24ce38a2fe912bd5d92b91e07" sha1="bdc3e9fb9f2f46464f43350eca496a39f9e61d54"/>
+	</machine>
+	<machine name="Mighty Morphin Power Rangers - The Movie (USA) [FastROM hack by MaxwelOlinda v1.0]">
+		<description>Mighty Morphin Power Rangers - The Movie (USA) [FastROM hack by MaxwelOlinda v1.0]</description>
+		<rom name="Mighty Morphin Power Rangers - The Movie (USA) [FastROM hack by MaxwelOlinda v1.0].sfc" size="1572864" crc="6579b0b7" md5="a2b4f357c56a574bf942276d28a7626e" sha1="ba7c7f373b54e7cbfb83b6d3aa0595e4c87d8a9c"/>
+	</machine>
+	<machine name="Mini Yonku Shining Scorpion - Let's &amp; Go!! (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Mini Yonku Shining Scorpion - Let's &amp; Go!! (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Mini Yonku Shining Scorpion - Let's &amp; Go!! (Japan) [FastROM hack by kandowontu v1.0].sfc" size="4194304" crc="e3fc3cce" md5="ce5607a73a770f63d64bf867a6155afb" sha1="3b49dd722949cbf3d6b752e7fefc425f8f876252"/>
+	</machine>
+	<machine name="Mobile Suit Gundam Wing - Endless Duel (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by ComboKyo v1.0] [n]">
+		<description>Mobile Suit Gundam Wing - Endless Duel (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by ComboKyo v1.0] [n]</description>
+		<rom name="Mobile Suit Gundam Wing - Endless Duel (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by ComboKyo v1.0] [n].sfc" size="2097152" crc="69863c2b" md5="e1ae5a1255863c5c12d9da97e92b970b" sha1="7b79d9780aad180d975b43c1198dfa2c6a6990f3"/>
+	</machine>
+	<machine name="Mortal Kombat II (USA) (Rev 1) [SlowROM hack by kandowontu v1.0]">
+		<description>Mortal Kombat II (USA) (Rev 1) [SlowROM hack by kandowontu v1.0]</description>
+		<rom name="Mortal Kombat II (USA) (Rev 1) [SlowROM hack by kandowontu v1.0].sfc" size="3145728" crc="ed0a0c0e" md5="e6d3989d8893ba6ccb8935adf795ae62" sha1="eeaa2bdbda6d84a2e78493e68d93a00d27058c92"/>
+	</machine>
+	<machine name="Musya - The Classic Japanese Tale of Horror (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Musya - The Classic Japanese Tale of Horror (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Musya - The Classic Japanese Tale of Horror (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="8d6b872b" md5="22a132ac96d590740e6563cbca54f5d9" sha1="287e0e0aa585422fb539eede221b164a96aca634"/>
+	</machine>
+	<machine name="NBA Jam (Europe) (Rev 1) [FastROM hack by kandowontu v1.0]">
+		<description>NBA Jam (Europe) (Rev 1) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="NBA Jam (Europe) (Rev 1) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="83e9d5b3" md5="cce2e095fccf6227dab27420fc9e8b34" sha1="03e4058ec7f2580a2963f25f8a1a07247b2df582"/>
+	</machine>
+	<machine name="NBA Jam (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>NBA Jam (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="NBA Jam (Europe) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="52fd030f" md5="d804cc7b571619922ba3d3b56638c2de" sha1="e630d2624e70a806e286a4178940a7d5f43e68bd"/>
+	</machine>
+	<machine name="NBA Jam (Japan) (En) [FastROM hack by kandowontu v1.0]">
+		<description>NBA Jam (Japan) (En) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="NBA Jam (Japan) (En) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="aa92c8c6" md5="6328da4ffdf0a0e3d42f1081d8f7f17d" sha1="085522c16cead6c9d9cabaff7db731532f44be87"/>
+	</machine>
+	<machine name="NBA Jam (USA) (Rev 1) [FastROM hack by kandowontu v1.0]">
+		<description>NBA Jam (USA) (Rev 1) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="NBA Jam (USA) (Rev 1) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="345b140f" md5="5cd1f9b9c61d97a9184c824206dddf14" sha1="4aa8400874ec00cb6120b1bc0ad32a0edfd1a534"/>
+	</machine>
+	<machine name="NBA Jam (USA) [FastROM hack by kandowontu v1.0]">
+		<description>NBA Jam (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="NBA Jam (USA) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="3a8242da" md5="dbbfe0785dbd65e9742f6dde9286eed7" sha1="3cce6763774bdf382cde970f25abaa3dfd524c32"/>
+	</machine>
+	<machine name="NBA Jam - Tournament Edition (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>NBA Jam - Tournament Edition (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="NBA Jam - Tournament Edition (Europe) [FastROM hack by kandowontu v1.0].sfc" size="3145728" crc="ecd1d80c" md5="b52bd2902c9b6cf782b3ab8c8e6c717a" sha1="a0505740526209ad9b615f3d05695c356f1eb303"/>
+	</machine>
+	<machine name="NBA Jam - Tournament Edition (Japan) (En) [FastROM hack by kandowontu v1.0]">
+		<description>NBA Jam - Tournament Edition (Japan) (En) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="NBA Jam - Tournament Edition (Japan) (En) [FastROM hack by kandowontu v1.0].sfc" size="3145728" crc="c414230a" md5="0497332c7f2ab1486f41f1772ee691a6" sha1="1b2e2a6b5e7c4ecf4c72e55ef4e08d3859b1bc07"/>
+	</machine>
+	<machine name="NBA Jam - Tournament Edition (USA) [FastROM hack by kandowontu v1.0]">
+		<description>NBA Jam - Tournament Edition (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="NBA Jam - Tournament Edition (USA) [FastROM hack by kandowontu v1.0].sfc" size="3145728" crc="e7beacf5" md5="b2850fbbb04b5c48835224b115b0f68d" sha1="d3d07d13816b04f1182132dd0af8675dd71de709"/>
+	</machine>
+	<machine name="NBA Jam - Tournament Edition - Double Z Mod (USA) [Hack by Eskayelle v5.0] [FastROM hack by kandowontu v1.0] [n]">
+		<description>NBA Jam - Tournament Edition - Double Z Mod (USA) [Hack by Eskayelle v5.0] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="NBA Jam - Tournament Edition - Double Z Mod (USA) [Hack by Eskayelle v5.0] [FastROM hack by kandowontu v1.0] [n].sfc" size="4194304" crc="ecd4ac48" md5="0463f51c9f0d63e633e079bd0ff91e15" sha1="3002dc43dfe1bd56df243c178dd7057557f5474a"/>
+	</machine>
+	<machine name="NHL 95 (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>NHL 95 (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="NHL 95 (Europe) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="313286f6" md5="a630ccfb070051ee1c07e5e4a9f5f0e1" sha1="c45b5275d853fc7cdcadc4c456f0400296cc17d9"/>
+	</machine>
+	<machine name="NHL 95 (USA) [FastROM hack by kandowontu v1.0]">
+		<description>NHL 95 (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="NHL 95 (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="7824c00c" md5="1de900cb6b30ad0936fa436c823665dd" sha1="fd54113f58eed95b864dfbab14c475511a266684"/>
+	</machine>
+	<machine name="NHL 96 (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>NHL 96 (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="NHL 96 (Europe) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="d61786b4" md5="84cb4d8f8e9a8835968c1a7e356d5f8f" sha1="b6f9393832288fabdccc240353d08e12d98a791b"/>
+	</machine>
+	<machine name="NHL 96 (USA) [FastROM hack by kandowontu v1.0]">
+		<description>NHL 96 (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="NHL 96 (USA) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="c187467f" md5="28f1c574d55ef13222474eb4a12ff615" sha1="2581ab9cc159afcddf543932490cd874dfdea635"/>
+	</machine>
+	<machine name="NHL 97 (Europe) (Rev 1) [FastROM hack by kandowontu v1.0]">
+		<description>NHL 97 (Europe) (Rev 1) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="NHL 97 (Europe) (Rev 1) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="70fcb7d5" md5="5da05e4c2cb285a2609d088d3f5aca78" sha1="db35507508673d996dd94973bd8adc6aa8ed0399"/>
+	</machine>
+	<machine name="NHL 97 (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>NHL 97 (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="NHL 97 (Europe) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="46a04438" md5="9f71fbeb7cf6f7894dcdfb9d802156d0" sha1="d50c7d29ef66d68a444c45fc2842d4fcb4faf65e"/>
+	</machine>
+	<machine name="NHL 97 (USA) (Rev 1) [FastROM hack by kandowontu v1.0]">
+		<description>NHL 97 (USA) (Rev 1) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="NHL 97 (USA) (Rev 1) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="cd85fd2a" md5="340519131444b52551c76aefae6899f6" sha1="b5adea3b911855e74ab95086d08bef004febe6da"/>
+	</machine>
+	<machine name="NHL 97 (USA) [FastROM hack by kandowontu v1.0]">
+		<description>NHL 97 (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="NHL 97 (USA) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="5b95342c" md5="bdfce05fe80a18bdb991fa07a7b465a0" sha1="e6d0d12cea1eb23cc8b25d713c606f8d1ac8aeb5"/>
+	</machine>
+	<machine name="NHL 98 (USA) [FastROM hack by kandowontu v1.0]">
+		<description>NHL 98 (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="NHL 98 (USA) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="89573959" md5="4f96ce3159539aff47c346306e6ad6e4" sha1="14fd585a3518fcf51e457c365067814a821f98e6"/>
+	</machine>
+	<machine name="Nice de Shot (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Nice de Shot (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Nice de Shot (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="c48a62d6" md5="8d65d0990f2fba409405ca2453a7be14" sha1="0bac509c42988135ef272daa460a2b610720650e"/>
+	</machine>
+	<machine name="Nice de Shot (Japan) [T-En by MrRichard999 v0.99] [FastROM hack by kandowontu v1.0]">
+		<description>Nice de Shot (Japan) [T-En by MrRichard999 v0.99] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Nice de Shot (Japan) [T-En by MrRichard999 v0.99] [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="250d72ac" md5="6b2bac05fad2d017b6225827cfadd80b" sha1="9914272090081f78712264579391ff4fa734ba45"/>
+	</machine>
+	<machine name="Ninjawarriors (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Ninjawarriors (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Ninjawarriors (USA) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="77027bbf" md5="273232775624059bef27cc9303674e89" sha1="7c9331458bee84ccfb3fa9002f601acf844538eb"/>
+	</machine>
+	<machine name="Ninjawarriors Again, The (Japan) [FastROM hack by kandowontu v1.1]">
+		<description>Ninjawarriors Again, The (Japan) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Ninjawarriors Again, The (Japan) [FastROM hack by kandowontu v1.1].sfc" size="1572864" crc="f844ce41" md5="281d439204ece21806daf033941aa2ee" sha1="fc32f79a6528fdde318ad39c3b36e32ec12c5a48"/>
+	</machine>
+	<machine name="No Escape (USA) [FastROM hack by kandowontu v1.0]">
+		<description>No Escape (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="No Escape (USA) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="3230d8a9" md5="06dd9df6aeb8c6234b0f3bb7cfd8bb03" sha1="cb87a9ed6135bcc12f1c06ab5741bf20d2247a3e"/>
+	</machine>
+	<machine name="Olympic Summer Games (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>Olympic Summer Games (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Olympic Summer Games (Europe) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="99307354" md5="3ebac82e5bceb1fa6a595abebcb710fb" sha1="788812b51dc4d527024d9cd37b4db103e44aaa4b"/>
+	</machine>
+	<machine name="Olympic Summer Games (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Olympic Summer Games (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Olympic Summer Games (USA) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="15af3a05" md5="0d13ae76b225c29c2381d2822db17250" sha1="3247a7cc6f630824523b2efc6da37de2f8add515"/>
+	</machine>
+	<machine name="On the Ball (USA) [FastROM hack by kandowontu v1.0]">
+		<description>On the Ball (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="On the Ball (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="14113329" md5="ef77b0ceaa60d75eeb0025ca60ad79ae" sha1="c6635836f4aab3bd791f8f478c78803bf3526fa5"/>
+	</machine>
+	<machine name="Operation Europe - Path to Victory 1939-45 (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Operation Europe - Path to Victory 1939-45 (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Operation Europe - Path to Victory 1939-45 (USA) [FastROM hack by kandowontu v1.0].sfc" size="1310720" crc="ccc28d70" md5="af30f8a2a44f2d9ba416a117f520836b" sha1="8a84d52ade35fd3e940e63d76846a9f36c268636"/>
+	</machine>
+	<machine name="Parodius (Europe) [FastROM hack by kandowontu v1.4]">
+		<description>Parodius (Europe) [FastROM hack by kandowontu v1.4]</description>
+		<rom name="Parodius (Europe) [FastROM hack by kandowontu v1.4].sfc" size="1048576" crc="bdae35d9" md5="7e16f1373712f80a990de7f4e72892a9" sha1="d0966c2f80ed4a496aad5b242e8fcd6f471aa4f3"/>
+	</machine>
+	<machine name="Parodius Da! - Shinwa kara Owarai e (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Parodius Da! - Shinwa kara Owarai e (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Parodius Da! - Shinwa kara Owarai e (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="2564e793" md5="baf447b099aa8c1584c36014242e3cd3" sha1="c43d3fd5af9a06f3a6055315a83baa6056548084"/>
+	</machine>
+	<machine name="Parodius Da! - Shinwa kara Owarai e (Japan) [FastROM hack by MaxwelOlinda v1.0]">
+		<description>Parodius Da! - Shinwa kara Owarai e (Japan) [FastROM hack by MaxwelOlinda v1.0]</description>
+		<rom name="Parodius Da! - Shinwa kara Owarai e (Japan) [FastROM hack by MaxwelOlinda v1.0].sfc" size="1048576" crc="9554dd02" md5="64ad47d6255c37cda5ff9643b3b318bb" sha1="1d7e073af3e44dc043f8580aab94610f0f083d08"/>
+	</machine>
+	<machine name="Phalanx (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Phalanx (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Phalanx (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="90a23c04" md5="4b1141a78e9bab0f47ea82a545d926ee" sha1="b229900e33ff293ca5ab7a353bd5506f61bd8c0d"/>
+	</machine>
+	<machine name="Phantom 2040 (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0]">
+		<description>Phantom 2040 (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Phantom 2040 (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="50bd7313" md5="9c03119b7529cddc4d5fb7f9f4c0989d" sha1="f59934c72ea15c7c6f107c0631cb0301c1fb02a8"/>
+	</machine>
+	<machine name="Phantom 2040 (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Phantom 2040 (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Phantom 2040 (USA) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="6dd03240" md5="0c2ae2baef8f2e376082a8ed05ec58b9" sha1="ffc0d7f2d7037f13db917878a96b58b7072becf8"/>
+	</machine>
+	<machine name="Pilotwings (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Pilotwings (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Pilotwings (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="41bb7e33" md5="25b189cfaf5d6e1d1e9959a3ee17b5ba" sha1="fc437806389ba57dc321e91f9b5cfd11d1abc756"/>
+	</machine>
+	<machine name="Pinball Dreams (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>Pinball Dreams (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Pinball Dreams (Europe) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="6c838d2e" md5="d76579c589948e80157808154282e5d4" sha1="5db434a9d518285e7ca2a2ce801a379d30414755"/>
+	</machine>
+	<machine name="Pinball Dreams (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Pinball Dreams (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Pinball Dreams (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="8c634b47" md5="b7ab6107785f484bb64fcb84a2fd2cf6" sha1="a7d0a3ed4e4421e8e6b5531e8bea2f975ddefc79"/>
+	</machine>
+	<machine name="Pit-Fighter (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Pit-Fighter (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Pit-Fighter (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="f50a6586" md5="5a999af33b1b35248f9387f4cbee2b6d" sha1="b6715cf2aeeaac97636decf463c27197a09f027e"/>
+	</machine>
+	<machine name="Pocky &amp; Rocky (USA) [FastROM hack by kandowontu v1.2]">
+		<description>Pocky &amp; Rocky (USA) [FastROM hack by kandowontu v1.2]</description>
+		<rom name="Pocky &amp; Rocky (USA) [FastROM hack by kandowontu v1.2].sfc" size="1048576" crc="dd09f628" md5="b620ac92b17af6653589028235629bf2" sha1="5fa901b83dc9ba5f299f9af8ae564267e0f932b5"/>
+	</machine>
+	<machine name="Pocky &amp; Rocky 2 (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Pocky &amp; Rocky 2 (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Pocky &amp; Rocky 2 (USA) [FastROM hack by kandowontu v1.1].sfc" size="1572864" crc="c4078140" md5="d5d80512481f4af4a89bd070708144e7" sha1="98fa9ecac9bd0597cc20add24c9077d3895fef8e"/>
+	</machine>
+	<machine name="Pokonyan! - Henpokorin Adventure (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Pokonyan! - Henpokorin Adventure (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Pokonyan! - Henpokorin Adventure (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="aceaee67" md5="51154634be49096c0fca225db2a9e1ae" sha1="0ccdee961dc51d7be3f9af82fe78936ffc5e7a55"/>
+	</machine>
+	<machine name="Power Sokoban (Japan) [T-En by Saffith v1.0] [FastROM hack by kandowontu v1.0] [n]">
+		<description>Power Sokoban (Japan) [T-En by Saffith v1.0] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Power Sokoban (Japan) [T-En by Saffith v1.0] [FastROM hack by kandowontu v1.0] [n].sfc" size="1048576" crc="5ddbe6b1" md5="db93c34757b0fc31096244580e40a97e" sha1="e40fbb5f2a7fe58524511552dcad0a44c077363c"/>
+	</machine>
+	<machine name="Power Soukoban (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Power Soukoban (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Power Soukoban (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="25e84eb2" md5="c1813e6bc7038433d2954222e9ff7056" sha1="d848d387a633958facec91b7c6da51f67fb0bf09"/>
+	</machine>
+	<machine name="Prince of Persia (Japan) [FastROM hack by kandowontu v1.1]">
+		<description>Prince of Persia (Japan) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Prince of Persia (Japan) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="e23dc510" md5="7df0c27d46f38ea88b2119277ff0e9ac" sha1="567e2ccb1b276871dd7ee1c360f069d02ad121a9"/>
+	</machine>
+	<machine name="Prince of Persia (Japan) [FastROM hack by Master Linkuei v1.0]">
+		<description>Prince of Persia (Japan) [FastROM hack by Master Linkuei v1.0]</description>
+		<rom name="Prince of Persia (Japan) [FastROM hack by Master Linkuei v1.0].sfc" size="1572864" crc="0e7a4b5d" md5="9bde0bd72a1b83689d5b5d016b7dfe66" sha1="148d2222284ddfced893c636acafac3c4484808b"/>
+	</machine>
+	<machine name="Prince of Persia (Japan) [FastROM hack by Master Linkuei v1.0] [Splash screen removed]">
+		<description>Prince of Persia (Japan) [FastROM hack by Master Linkuei v1.0] [Splash screen removed]</description>
+		<rom name="Prince of Persia (Japan) [FastROM hack by Master Linkuei v1.0] [Splash screen removed].sfc" size="1048576" crc="03f70499" md5="559b733888152e00768feaa31afd5f28" sha1="91d76dc49cf1e07d52d6caf6bcf1c9e2b114a737"/>
+	</machine>
+	<machine name="Prince of Persia (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Prince of Persia (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Prince of Persia (USA) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="c7f10477" md5="0ea60ca53d4168397342d58701db5921" sha1="fa94006e2d627b7fd384f7bfabeb3d78c6cc66b3"/>
+	</machine>
+	<machine name="Prince of Persia 2 (Europe) [FastROM hack by kandowontu v1.1]">
+		<description>Prince of Persia 2 (Europe) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Prince of Persia 2 (Europe) [FastROM hack by kandowontu v1.1].sfc" size="2097152" crc="c931d451" md5="795339a664f36b2106d42b54698d6b3d" sha1="77796a54c8463cd1f2d5efe2f0ea2605c7d13561"/>
+	</machine>
+	<machine name="Prince of Persia 2 (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Prince of Persia 2 (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Prince of Persia 2 (USA) [FastROM hack by kandowontu v1.1].sfc" size="2097152" crc="9bb9e6f0" md5="6d94be18f829cd0fb538cf7fb8c08797" sha1="f5cf30a540af195c7df6af0d3eeae63f4866ff1f"/>
+	</machine>
+	<machine name="Puggsy (USA) (Proto) [FastROM hack by kandowontu v1.0]">
+		<description>Puggsy (USA) (Proto) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Puggsy (USA) (Proto) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="12362683" md5="2025a3c30c5ddda9420120250c10d93d" sha1="85bec6c2de3b0c888e0aac3c545eb2ec690791f0"/>
+	</machine>
+	<machine name="Race Drivin' (USA) [SA1 hack by Vitor Vilela v1.1]">
+		<description>Race Drivin' (USA) [SA1 hack by Vitor Vilela v1.1]</description>
+		<rom name="Race Drivin' (USA) [SA1 hack by Vitor Vilela v1.1].sfc" size="524288" crc="23eaa97e" md5="c8ca265408b6536f0207a088b240a205" sha1="d69962546d29d5378992e29f56254e36086af9fe"/>
+	</machine>
+	<machine name="Race Drivin' (USA) [SA1 hack by Vitor Vilela v1.1] [SA1 Origin]">
+		<description>Race Drivin' (USA) [SA1 hack by Vitor Vilela v1.1] [SA1 Origin]</description>
+		<rom name="Race Drivin' (USA) [SA1 hack by Vitor Vilela v1.1] [SA1 Origin].sfc" size="524288" crc="bb42a085" md5="a75180a015cb193cbe1ac5bc01dd6486" sha1="4f54d94ca151bb2fc8d6ab9390baa9574c837abf"/>
+	</machine>
+	<machine name="Racoon Rascal (Japan) [T-En by Zarby89 v1.0] [FastROM hack by kandowontu v1.0] [n]">
+		<description>Racoon Rascal (Japan) [T-En by Zarby89 v1.0] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Racoon Rascal (Japan) [T-En by Zarby89 v1.0] [FastROM hack by kandowontu v1.0] [n].sfc" size="2097152" crc="9635eeb9" md5="56394b3b9bd7f50790e29ea153d00963" sha1="eb784882e1fad15981e3f4bd7bf7d6d42c6062d0"/>
+	</machine>
+	<machine name="Radical Psycho Machine Racing (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Radical Psycho Machine Racing (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Radical Psycho Machine Racing (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="bdbf40c1" md5="e5be40a5d34694c68e126e10c29d6b7d" sha1="edb978de91d866cfda4c17f2dcdd23708e03bfb4"/>
+	</machine>
+	<machine name="Raiden Trad (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Raiden Trad (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Raiden Trad (USA) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="56dd9c25" md5="d589f79c07415c077798b5e31a2ee24f" sha1="266d3f81481eac870512b84e329c31b0263c5bbe"/>
+	</machine>
+	<machine name="Ranma 1-2 - Chounai Gekitou Hen (Japan) [FastROM hack by kandowontu v1.21]">
+		<description>Ranma 1-2 - Chounai Gekitou Hen (Japan) [FastROM hack by kandowontu v1.21]</description>
+		<rom name="Ranma 1-2 - Chounai Gekitou Hen (Japan) [FastROM hack by kandowontu v1.21].sfc" size="1048576" crc="c54ef1f7" md5="32ea951facb2021665d923cab3dca5d9" sha1="a1f025b4fd6e32c98a5c7f719b0a982de63c4864"/>
+	</machine>
+	<machine name="Ranma 1-2 - Ougi Jaanken (Japan) [FastROM hack by bankbank v1.04]">
+		<description>Ranma 1-2 - Ougi Jaanken (Japan) [FastROM hack by bankbank v1.04]</description>
+		<rom name="Ranma 1-2 - Ougi Jaanken (Japan) [FastROM hack by bankbank v1.04].sfc" size="1048576" crc="15f561d3" md5="543c17d12787862e1a66aaaf319b6e78" sha1="f969b63b02170e25f58662929d51ee91d603afd4"/>
+	</machine>
+	<machine name="Rendering Ranger R2 (Japan) (En) [FastROM hack by kandowontu v1.2]">
+		<description>Rendering Ranger R2 (Japan) (En) [FastROM hack by kandowontu v1.2]</description>
+		<rom name="Rendering Ranger R2 (Japan) (En) [FastROM hack by kandowontu v1.2].sfc" size="2097152" crc="9e61bea4" md5="fb7ce819fd2ebd97db2d9a005305ab9b" sha1="252eb7a1d671758deda1c8b8c9946a815eb15bd4"/>
+	</machine>
+	<machine name="Return of Double Dragon (Japan) (En) [FastROM hack by kandowontu v2.0]">
+		<description>Return of Double Dragon (Japan) (En) [FastROM hack by kandowontu v2.0]</description>
+		<rom name="Return of Double Dragon (Japan) (En) [FastROM hack by kandowontu v2.0].sfc" size="1048576" crc="088a7511" md5="0d84904f854e9bc346756419a3eac3bc" sha1="af1e5ab82b15e146307575132234db1192b69984"/>
+	</machine>
+	<machine name="Rock N' Roll Racing (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Rock N' Roll Racing (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Rock N' Roll Racing (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="a15cecef" md5="308097fbe6c1a0122c9b2af1481e3666" sha1="20946fd6fe519c3813c4ae280385145678fd7696"/>
+	</machine>
+	<machine name="Rocketeer, The (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Rocketeer, The (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Rocketeer, The (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="8086a3cb" md5="bbd9c39be290f23f80205434a3dcc8e0" sha1="3b7eca5657ca1890964185dfff0d088a1b856209"/>
+	</machine>
+	<machine name="Rushing Beat (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Rushing Beat (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Rushing Beat (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="cb9c8975" md5="2ae66a5f5c1048ac962f73aec80ba746" sha1="23acd93b1c5c29f460e5beaf4b63c5694b141044"/>
+	</machine>
+	<machine name="Rushing Beat (Japan) [T-En by FlashPV v1.0] [FastROM hack by kandowontu v1.0]">
+		<description>Rushing Beat (Japan) [T-En by FlashPV v1.0] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Rushing Beat (Japan) [T-En by FlashPV v1.0] [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="e9c2f7c5" md5="e4f27973efc4bf793090d7c51aa2d4e2" sha1="df6086efecb971947339cad5df320fb3ef94fc88"/>
+	</machine>
+	<machine name="Sanrio World Smash Ball! (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Sanrio World Smash Ball! (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Sanrio World Smash Ball! (Japan) [FastROM hack by kandowontu v1.0].sfc" size="262144" crc="7994b3ae" md5="43e08879dd9301ab5dcb241ae62482b2" sha1="c53215ec970209033d22d6dbe4bb80ab9afabab2"/>
+	</machine>
+	<machine name="Sanrio World Smash Ball! (Japan) [T-En by Suicidal Translations v1.00] [FastROM hack by kandowontu v1.0]">
+		<description>Sanrio World Smash Ball! (Japan) [T-En by Suicidal Translations v1.00] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Sanrio World Smash Ball! (Japan) [T-En by Suicidal Translations v1.00] [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="4c53927d" md5="67d7ef29091a22bc54d0dbc03847cc73" sha1="541110c19a36dc18ae9fa4137d056f97e4c1b85e"/>
+	</machine>
+	<machine name="SD F-1 Grand Prix (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>SD F-1 Grand Prix (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="SD F-1 Grand Prix (Japan) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="6efd66c9" md5="e1cdf240f693a99adf185719a008ee62" sha1="bf89df56e5e17f9aafdc9ad3a2200d143b856dc8"/>
+	</machine>
+	<machine name="SD The Great Battle - A New Challenge (Japan) [T-En by Aeon Genesis v1.0] [FastROM hack by kandowontu v1.1] [n]">
+		<description>SD The Great Battle - A New Challenge (Japan) [T-En by Aeon Genesis v1.0] [FastROM hack by kandowontu v1.1] [n]</description>
+		<rom name="SD The Great Battle - A New Challenge (Japan) [T-En by Aeon Genesis v1.0] [FastROM hack by kandowontu v1.1] [n].sfc" size="1048576" crc="38b49b0d" md5="20f5d2688d036e81973c3c629e19614f" sha1="38ac9ab99001eb29b55fd9aa908680f3203e1a49"/>
+	</machine>
+	<machine name="SD The Great Battle - Aratanaru Chousen (Japan) (Rev 1) [FastROM hack by kandowontu v1.1]">
+		<description>SD The Great Battle - Aratanaru Chousen (Japan) (Rev 1) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="SD The Great Battle - Aratanaru Chousen (Japan) (Rev 1) [FastROM hack by kandowontu v1.1].sfc" size="786432" crc="6dbfc905" md5="effed7708f3ca9dd152c41194e2c66e2" sha1="cda7457257b6aee3716845517654f414b42d602f"/>
+	</machine>
+	<machine name="SD The Great Battle - Aratanaru Chousen (Japan) [FastROM hack by kandowontu v1.1]">
+		<description>SD The Great Battle - Aratanaru Chousen (Japan) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="SD The Great Battle - Aratanaru Chousen (Japan) [FastROM hack by kandowontu v1.1].sfc" size="786432" crc="74a481d9" md5="e262a4b8df545d6781efdd9301369478" sha1="d29ea9643ff3d0ba33ce7346faa2b795e51ad799"/>
+	</machine>
+	<machine name="Secret of Mana (France) (Rev 1) [FastROM hack by kandowontu v1.0]">
+		<description>Secret of Mana (France) (Rev 1) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Secret of Mana (France) (Rev 1) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="ad319c48" md5="0ff30f2b8d6dc0cba6a725a1a59e0510" sha1="ff07ec1331f8d38578296a028f7b4ef4206e11cd"/>
+	</machine>
+	<machine name="Secret of Mana (France) [FastROM hack by kandowontu v1.0]">
+		<description>Secret of Mana (France) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Secret of Mana (France) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="fcde36f7" md5="f2e9a7e5ce2420965a48acd18286c45d" sha1="35c1eaac855e7163e4211fe352876d2c7cb0b49f"/>
+	</machine>
+	<machine name="Secret of Mana (Germany) [FastROM hack by kandowontu v1.0]">
+		<description>Secret of Mana (Germany) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Secret of Mana (Germany) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="5e25478d" md5="404c46fffea5086926d3fc90179fe99d" sha1="03dd7343f51a7b58069b0b261c7983a22e2f075c"/>
+	</machine>
+	<machine name="Secret of Mana (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Secret of Mana (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Secret of Mana (USA) [FastROM hack by kandowontu v1.1].sfc" size="2097152" crc="068953eb" md5="2fdb1a484456d11123d240e54dad98dc" sha1="c43d832a2053eef202db41f01e8c6145f528f9c9"/>
+	</machine>
+	<machine name="Secret of Mana (USA) [T-En by FuSoYa v1.00 VWF] [Add by Timbo v1.7] [FastROM hack by kandowontu v1.1] [Relocalized]">
+		<description>Secret of Mana (USA) [T-En by FuSoYa v1.00 VWF] [Add by Timbo v1.7] [FastROM hack by kandowontu v1.1] [Relocalized]</description>
+		<rom name="Secret of Mana (USA) [T-En by FuSoYa v1.00 VWF] [Add by Timbo v1.7] [FastROM hack by kandowontu v1.1] [Relocalized].sfc" size="4194304" crc="bbbcdd46" md5="041f1ff3c4dd214bd45959bc05a46e58" sha1="8cb3d917839e7b231aea66f53dd05d06fc03c08c"/>
+	</machine>
+	<machine name="Secret of Mana (USA) [T-En by FuSoYa v1.00 VWF] [FastROM hack by kandowontu v1.1] [Relocalized]">
+		<description>Secret of Mana (USA) [T-En by FuSoYa v1.00 VWF] [FastROM hack by kandowontu v1.1] [Relocalized]</description>
+		<rom name="Secret of Mana (USA) [T-En by FuSoYa v1.00 VWF] [FastROM hack by kandowontu v1.1] [Relocalized].sfc" size="3145728" crc="5946fa5b" md5="ca863e893c6e00a188822bc37e336a9e" sha1="4262e308a9894046793c546947d37618fe5ec8f1"/>
+	</machine>
+	<machine name="Seiken Densetsu 2 (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Seiken Densetsu 2 (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Seiken Densetsu 2 (Japan) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="729fafa2" md5="78724cbe352172b342e7ad17731a8785" sha1="42d89d8b9303d8b0b99fff8df00cae461a7c6d5a"/>
+	</machine>
+	<machine name="Shin Kidou Senki Gundam W - Endless Duel (Japan) [FastROM hack by ComboKyo v1.0]">
+		<description>Shin Kidou Senki Gundam W - Endless Duel (Japan) [FastROM hack by ComboKyo v1.0]</description>
+		<rom name="Shin Kidou Senki Gundam W - Endless Duel (Japan) [FastROM hack by ComboKyo v1.0].sfc" size="2097152" crc="02f3399e" md5="60e646588b82a1f9243c0271d772594e" sha1="9097980cc9ecaa42fed3f9ddc9bcdd83f497e252"/>
+	</machine>
+	<machine name="Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="19ccdd68" md5="18821f5cdd5bab22a9ce10c0fefef361" sha1="4774562a66ea80d2a174d6fdde91ff3ce1d9532c"/>
+	</machine>
+	<machine name="Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.0]">
+		<description>Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="a9ae5610" md5="72bce6ef665a3cd223abc96c41f34699" sha1="8c6cc1c034167b7d20cb2a8e59013d7e16febce2"/>
+	</machine>
+	<machine name="Sid Meier's Civilization (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Sid Meier's Civilization (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Sid Meier's Civilization (USA) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="cd41c365" md5="f3f33d83d4ed9ce73493da036f7196ed" sha1="59b43cc5de9e4498a58bb459bb05df5c20648927"/>
+	</machine>
+	<machine name="Side Pocket (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>Side Pocket (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Side Pocket (Europe) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="7acd68fa" md5="2243d51c86383442691baa87f3a9e755" sha1="37537cd97fca568bd2ba7cfd73a1119e2087761e"/>
+	</machine>
+	<machine name="Side Pocket (Japan) (En) [FastROM hack by kandowontu v1.0]">
+		<description>Side Pocket (Japan) (En) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Side Pocket (Japan) (En) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="479888ee" md5="a1bfdabe4146d22b37780e209fcedcee" sha1="b72a184393480e6b9785219b2fff7b27b970ef88"/>
+	</machine>
+	<machine name="Side Pocket (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Side Pocket (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Side Pocket (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="c1d3b882" md5="0fb2146768d3a551e4b241c291b439df" sha1="aec8a4e88ad591070ccfa49496e9122d543115e1"/>
+	</machine>
+	<machine name="SimAnt - The Electronic Ant Colony (USA) [FastROM hack by kandowontu v1.1]">
+		<description>SimAnt - The Electronic Ant Colony (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="SimAnt - The Electronic Ant Colony (USA) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="6e7508aa" md5="07817131cc54e8efdad4c790219af3c9" sha1="68ca9e11c26531825a36c65756c438748d52623a"/>
+	</machine>
+	<machine name="SimCity (USA) [FastROM hack by kandowontu v1.1]">
+		<description>SimCity (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="SimCity (USA) [FastROM hack by kandowontu v1.1].sfc" size="524288" crc="86e96275" md5="dc6dde65e628e694f32b3e2ff173ae9e" sha1="faa6232604ddec955919fbd3729a85d4d71a89fd"/>
+	</machine>
+	<machine name="Simpsons, The - Bart's Nightmare (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Simpsons, The - Bart's Nightmare (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Simpsons, The - Bart's Nightmare (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="14113a02" md5="c891f1c6c121614a488fad28c5e50bce" sha1="d5d561dde69bb460c91fc2184c37b508ef0d6b0a"/>
+	</machine>
+	<machine name="Skuljagger - Revolt of the Westicans (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Skuljagger - Revolt of the Westicans (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Skuljagger - Revolt of the Westicans (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="5bdbb69f" md5="77c29e208ec0493255c01faaadc8f686" sha1="37d5162738d60b9bc3fd797dfe8e057c42d49e16"/>
+	</machine>
+	<machine name="Skyblazer (USA) [FastROM hack by kandowontu v1.11]">
+		<description>Skyblazer (USA) [FastROM hack by kandowontu v1.11]</description>
+		<rom name="Skyblazer (USA) [FastROM hack by kandowontu v1.11].sfc" size="1048576" crc="ce37b945" md5="950b5532e07d03d0dd946a4a6abb23f2" sha1="9df23c3db95c9471e9515336fa2849cde77fdff7"/>
+	</machine>
+	<machine name="Soccer Kid (Europe) (En,Fr,De,Es,It) [FastROM hack by kandowontu v1.0]">
+		<description>Soccer Kid (Europe) (En,Fr,De,Es,It) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Soccer Kid (Europe) (En,Fr,De,Es,It) [FastROM hack by kandowontu v1.0].sfc" size="1310720" crc="d9c0b52f" md5="a754322cecd8c8fe1862527763b428a2" sha1="354a37144678e9509892e91a1e47e7c9c7c334e4"/>
+	</machine>
+	<machine name="Sonic Blast Man (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Sonic Blast Man (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Sonic Blast Man (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="239a477f" md5="1f0053ebeecf4277fb2466c5727674c3" sha1="2916e974783fea81cbb81cc495dd5207812a3539"/>
+	</machine>
+	<machine name="Sonic Blast Man (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Sonic Blast Man (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Sonic Blast Man (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="4344ee0b" md5="cd8a1d45028917ca3966ec17d5e7e968" sha1="08d0edbc27dbc2515d3c4bf803e63af4725a1584"/>
+	</machine>
+	<machine name="Soreyuke Ebisumaru Karakuri Meiro - Kieta Goemon no Nazo!! (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Soreyuke Ebisumaru Karakuri Meiro - Kieta Goemon no Nazo!! (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Soreyuke Ebisumaru Karakuri Meiro - Kieta Goemon no Nazo!! (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="a4a82879" md5="b0a0e1200d41df0134a7d842bdde689f" sha1="bb1060ecf07a6a8481f6d809d0eff5c0daa7c8e0"/>
+	</machine>
+	<machine name="Soreyuke! Ebisumaru - The Mechanical Maze - Mystery of the Missing Goemon!! (Japan) [T-En by DDSTranslation v2.0] [Add by Djungelurban v1.0] [FastROM hack by kandowontu v1.0] [n]">
+		<description>Soreyuke! Ebisumaru - The Mechanical Maze - Mystery of the Missing Goemon!! (Japan) [T-En by DDSTranslation v2.0] [Add by Djungelurban v1.0] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Soreyuke! Ebisumaru - The Mechanical Maze - Mystery of the Missing Goemon!! (Japan) [T-En by DDSTranslation v2.0] [Add by Djungelurban v1.0] [FastROM hack by kandowontu v1.0] [n].sfc" size="2097152" crc="fbb2dd59" md5="b5035b112502d7df8c3035c3b9b7897a" sha1="2b9b4ef94a077f756ba76b3dd35479bbbef35951"/>
+	</machine>
+	<machine name="Soul Blazer (USA) [FastROM hack by kandowontu v1.2]">
+		<description>Soul Blazer (USA) [FastROM hack by kandowontu v1.2]</description>
+		<rom name="Soul Blazer (USA) [FastROM hack by kandowontu v1.2].sfc" size="1048576" crc="2342c433" md5="aceb7a9540cb4e6afdf32abee45cbe50" sha1="cdd7bbdf79d499459358bba530ee393f6b536271"/>
+	</machine>
+	<machine name="Soul Blazer (USA) [T-En by SteppoBlazer Beta] [FastROM hack by kandowontu v1.2] [Relocalized] [i]">
+		<description>Soul Blazer (USA) [T-En by SteppoBlazer Beta] [FastROM hack by kandowontu v1.2] [Relocalized] [i]</description>
+		<rom name="Soul Blazer (USA) [T-En by SteppoBlazer Beta] [FastROM hack by kandowontu v1.2] [Relocalized] [i].sfc" size="1048576" crc="a5b552f6" md5="03ca92d22739f013e115213ca8eea2d5" sha1="427786d600e9196eb8c108ef988b66254746674c"/>
+	</machine>
+	<machine name="Soul Blazer (USA) [T-En by Steppolo Steppi v1.1] [FastROM hack by kandowontu v1.2] [Relocalized]">
+		<description>Soul Blazer (USA) [T-En by Steppolo Steppi v1.1] [FastROM hack by kandowontu v1.2] [Relocalized]</description>
+		<rom name="Soul Blazer (USA) [T-En by Steppolo Steppi v1.1] [FastROM hack by kandowontu v1.2] [Relocalized].sfc" size="1048576" crc="ed3e16b8" md5="b119f3eff4795ee9ace286d9dd45672d" sha1="e86187524d59442f7ef58d63980bf8289b971bfa"/>
+	</machine>
+	<machine name="Space Invaders (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Space Invaders (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Space Invaders (USA) [FastROM hack by kandowontu v1.1].sfc" size="262144" crc="9a5793a5" md5="4c76b11e65ae0b45a3f9329cca7a0e56" sha1="fa69a2ec04d356449879ec1ba457fca1409fa7bd"/>
+	</machine>
+	<machine name="Space Invaders - The Original Game (Japan) [FastROM hack by kandowontu v1.1]">
+		<description>Space Invaders - The Original Game (Japan) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Space Invaders - The Original Game (Japan) [FastROM hack by kandowontu v1.1].sfc" size="262144" crc="5ba0d49a" md5="25c91f34334fc4833950c1e72be773f2" sha1="0404766497d39a1b9fcb4b44772892644158ab5d"/>
+	</machine>
+	<machine name="Space Megaforce (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Space Megaforce (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Space Megaforce (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="1ee84376" md5="b1fd9240b032a2b0412e5ac433d7e32d" sha1="3b363f22df501d29166ef4df63c2ed826aec34df"/>
+	</machine>
+	<machine name="Spanky's Quest (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Spanky's Quest (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Spanky's Quest (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="11502bb3" md5="067778595f79e273f9da1c706d97b6f6" sha1="d116394095f57d96b0cff126352a09fec2fa34a5"/>
+	</machine>
+	<machine name="Spindizzy Worlds (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Spindizzy Worlds (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Spindizzy Worlds (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="d27afb3f" md5="f64cb185a84590f4692de74a822a7bd6" sha1="5220d608edbc2d52729d01175d236bf045a6f16e"/>
+	</machine>
+	<machine name="Star Fox (Japan) [SuperFX2 hack by kandowontu &amp; Vitor Vilela v1.02]">
+		<description>Star Fox (Japan) [SuperFX2 hack by kandowontu &amp; Vitor Vilela v1.02]</description>
+		<rom name="Star Fox (Japan) [SuperFX2 hack by kandowontu &amp; Vitor Vilela v1.02].sfc" size="2097152" crc="09376f25" md5="6ff48ef460a0a1b9e213381a4a7f638e" sha1="4b05daeec960a82d6ccb0ea9336b11a4201475f0"/>
+	</machine>
+	<machine name="Star Fox (USA) [FastROM &amp; SuperFX2 hack by Catador &amp; kandowontu &amp; LivelyZephyrs v1.2]">
+		<description>Star Fox (USA) [FastROM &amp; SuperFX2 hack by Catador &amp; kandowontu &amp; LivelyZephyrs v1.2]</description>
+		<rom name="Star Fox (USA) [FastROM &amp; SuperFX2 hack by Catador &amp; kandowontu &amp; LivelyZephyrs v1.2].sfc" size="1048576" crc="12b516a9" md5="5da1c5d974d13e1cde89f49485b76cac" sha1="992ab8bfa5663d40579e7bbd0b736efc0813da62"/>
+	</machine>
+	<machine name="Star Fox (USA) [SuperFX2 hack by kandowontu &amp; Vitor Vilela v1.4]">
+		<description>Star Fox (USA) [SuperFX2 hack by kandowontu &amp; Vitor Vilela v1.4]</description>
+		<rom name="Star Fox (USA) [SuperFX2 hack by kandowontu &amp; Vitor Vilela v1.4].sfc" size="2097152" crc="231356bb" md5="840fc12dc8a2e520af88eeccf048b17f" sha1="67988281ca1ae842c30c7638dfcc92b411204e2c"/>
+	</machine>
+	<machine name="Star Fox 2 (USA, Europe) (Classic Mini, Switch Online, Nintendo Leak) [SuperFX hack by kandowontu v1.0]">
+		<description>Star Fox 2 (USA, Europe) (Classic Mini, Switch Online, Nintendo Leak) [SuperFX hack by kandowontu v1.0]</description>
+		<rom name="Star Fox 2 (USA, Europe) (Classic Mini, Switch Online, Nintendo Leak) [SuperFX hack by kandowontu v1.0].sfc" size="1048576" crc="4571acdd" md5="5cc0e62ba329b0846cbffcb88de64dff" sha1="9fb4162e60af36b77acad4e821f39bd569419d78"/>
+	</machine>
+	<machine name="Star Glider (Japan) (Beta) (1992-09-23) [SuperFX2 hack by kandowontu v1.0]">
+		<description>Star Glider (Japan) (Beta) (1992-09-23) [SuperFX2 hack by kandowontu v1.0]</description>
+		<rom name="Star Glider (Japan) (Beta) (1992-09-23) [SuperFX2 hack by kandowontu v1.0].sfc" size="524288" crc="30d47a7d" md5="6e2a275253c2c99982a3445573efad1b" sha1="8d91f3dbc8df84b50f86022f2b66c5e6b86dd15d"/>
+	</machine>
+	<machine name="Starwing (Europe) [SuperFX2 hack by kandowontu &amp; Vitor Vilela v1.02]">
+		<description>Starwing (Europe) [SuperFX2 hack by kandowontu &amp; Vitor Vilela v1.02]</description>
+		<rom name="Starwing (Europe) [SuperFX2 hack by kandowontu &amp; Vitor Vilela v1.02].sfc" size="2097152" crc="d928025b" md5="825abef6a8b9296cc84cd3bd95c76124" sha1="812550c30b74fadd48ef30ab4baf7a6d619d30bf"/>
+	</machine>
+	<machine name="Starwing (Germany) [SuperFX2 hack by kandowontu &amp; Vitor Vilela v1.02]">
+		<description>Starwing (Germany) [SuperFX2 hack by kandowontu &amp; Vitor Vilela v1.02]</description>
+		<rom name="Starwing (Germany) [SuperFX2 hack by kandowontu &amp; Vitor Vilela v1.02].sfc" size="2097152" crc="610536e6" md5="0d47efa86b8761b547ba3431a490edc5" sha1="4a4a36e398cc163106c01977168d1a5dbd17e8bf"/>
+	</machine>
+	<machine name="Steel Talons (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Steel Talons (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Steel Talons (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="dc40be22" md5="de6b7433993e5f7b82ed9ba293d01d4f" sha1="cbb62f1e040b13ab19e89b9d84231c3b0d216ea4"/>
+	</machine>
+	<machine name="Steven Seagal Is The Final Option (USA) (Proto) [SlowROM hack by kandowontu v1.0]">
+		<description>Steven Seagal Is The Final Option (USA) (Proto) [SlowROM hack by kandowontu v1.0]</description>
+		<rom name="Steven Seagal Is The Final Option (USA) (Proto) [SlowROM hack by kandowontu v1.0].sfc" size="2097152" crc="2849db6b" md5="a507e0254cc3b08628a9ef03d3e0d9db" sha1="31e1bd1678e69d6034c11f00744bba3bf6273f31"/>
+	</machine>
+	<machine name="Street Fighter II (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Street Fighter II (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Street Fighter II (USA) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="01c2a822" md5="786ce3e2c47d3e48adbe282de7dbef87" sha1="d9a75288f043359dd021c3b3293f72fdd360bc27"/>
+	</machine>
+	<machine name="Strike Gunner S.T.G (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Strike Gunner S.T.G (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Strike Gunner S.T.G (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="19323fd9" md5="3934f48d9082b2ed1bdeeee18055bdb5" sha1="614474c47b400292b6bbd037e902c3eb521d4ffe"/>
+	</machine>
+	<machine name="Stunt Race FX (USA) (Rev 1) [FastROM hack by kandowontu v1.0]">
+		<description>Stunt Race FX (USA) (Rev 1) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Stunt Race FX (USA) (Rev 1) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="3c80ccc3" md5="63181db9c60397f8caf7b36d006ce088" sha1="9b27c9a7769b07da5feac0630db86f7d9ba9c674"/>
+	</machine>
+	<machine name="Stunt Race FX (USA) (Rev 1) [SuperFX hack by kandowontu v1.0]">
+		<description>Stunt Race FX (USA) (Rev 1) [SuperFX hack by kandowontu v1.0]</description>
+		<rom name="Stunt Race FX (USA) (Rev 1) [SuperFX hack by kandowontu v1.0].sfc" size="1048576" crc="b8739802" md5="26794966c8925be2fb4aa8bd6972ab1c" sha1="b092520ebbebb1d285cd6d6072c8524b4606b5b5"/>
+	</machine>
+	<machine name="Super Adventure Island (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Super Adventure Island (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Adventure Island (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="66c732df" md5="26dde68bb3303b456562c5f844cf325b" sha1="739712f28a82845e22b0c0ed772e9591062f154e"/>
+	</machine>
+	<machine name="Super Air Diver 2 (Japan) (En) [FastROM hack by kandowontu v1.0]">
+		<description>Super Air Diver 2 (Japan) (En) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Air Diver 2 (Japan) (En) [FastROM hack by kandowontu v1.0].sfc" size="1310720" crc="fd918bad" md5="aef458129c70f01a3d3beaa9dfd2147a" sha1="5f72e132c0d61ee7e4a05adf5b6e28e1174e2ee2"/>
+	</machine>
+	<machine name="Super Aleste (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Super Aleste (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Aleste (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="880e6f54" md5="00b66bde56f5d3128f48a27e74a2e23a" sha1="3ef6bea82a2b8ad96ead108133c34c0c811ef99e"/>
+	</machine>
+	<machine name="Super Aleste (Japan) [T-En by Asiwish v1.2] [FastROM hack by kandowontu v1.0]">
+		<description>Super Aleste (Japan) [T-En by Asiwish v1.2] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Aleste (Japan) [T-En by Asiwish v1.2] [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="471c7390" md5="bb4e4a1911e013cf69be75f27fdbca6a" sha1="80b60bb23afb42ebb94904875d6bfa820968eb6b"/>
+	</machine>
+	<machine name="Super Back to the Future Part II (Japan) [FastROM hack by MaxwelOlinda v1.0] [Fix by kandowontu v1.0]">
+		<description>Super Back to the Future Part II (Japan) [FastROM hack by MaxwelOlinda v1.0] [Fix by kandowontu v1.0]</description>
+		<rom name="Super Back to the Future Part II (Japan) [FastROM hack by MaxwelOlinda v1.0] [Fix by kandowontu v1.0].sfc" size="1048576" crc="f12cb3b4" md5="67e046992127962194ba976d62ead20f" sha1="052891f0312289eceb0c16aa09cfb4628a0c6b52"/>
+	</machine>
+	<machine name="Super Back to the Future Part II (Japan) [T-En by Mteam v1.00] [FastROM hack by MaxwelOlinda v1.0] [Fix by kandowontu v1.0]">
+		<description>Super Back to the Future Part II (Japan) [T-En by Mteam v1.00] [FastROM hack by MaxwelOlinda v1.0] [Fix by kandowontu v1.0]</description>
+		<rom name="Super Back to the Future Part II (Japan) [T-En by Mteam v1.00] [FastROM hack by MaxwelOlinda v1.0] [Fix by kandowontu v1.0].sfc" size="1048576" crc="5506f07a" md5="f339766d79f709b55ba005685e0ec857" sha1="f7f65d1771a28ea128db4430d607c5259ad34d06"/>
+	</machine>
+	<machine name="Super Bowling (Japan) (En) [FastROM hack by kandowontu v1.0]">
+		<description>Super Bowling (Japan) (En) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Bowling (Japan) (En) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="f00df3e2" md5="5e3f329c5d261fb759e5cebe0e71ecf1" sha1="bbc5b6307b2f09a823181da04187b6aa7ad297a3"/>
+	</machine>
+	<machine name="Super Bowling (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Super Bowling (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Bowling (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="0de6c0da" md5="85be986853cc4bfc925154ef6d7ad39e" sha1="1b1a7faa9b317cf5169b243cd9f85c5feaf7e56b"/>
+	</machine>
+	<machine name="Super Buster Bros. (USA) (Rev 1) [FastROM hack by kandowontu v1.0]">
+		<description>Super Buster Bros. (USA) (Rev 1) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Buster Bros. (USA) (Rev 1) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="b3713cf1" md5="228352071a4f1e6a63d5fe7be49b01bc" sha1="1989be5b78a7039d531b3eb61a62072a294cf3b1"/>
+	</machine>
+	<machine name="Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1]">
+		<description>Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1]</description>
+		<rom name="Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1].sfc" size="1048576" crc="cb27bc00" md5="ec5dcba7b0bf3597665179a262a8b879" sha1="747606d8054a67bbfc736c98d3e9ec986a3cc99d"/>
+	</machine>
+	<machine name="Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1]">
+		<description>Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1]</description>
+		<rom name="Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1].sfc" size="3145728" crc="07b0fd25" md5="1cc282df1266814b943aa826cdc8ddb0" sha1="104eb73e24423cd247f9120df5bb8d44903a93bc"/>
+	</machine>
+	<machine name="Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US chain whip SFX]">
+		<description>Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US chain whip SFX]</description>
+		<rom name="Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US chain whip SFX].sfc" size="3145728" crc="579a3b9b" md5="ed33aa0636fe4e495936944f4ca10dd1" sha1="d75ae9f6aae5bd2aae800eca5a2d13bdff411cbd"/>
+	</machine>
+	<machine name="Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US chain whip SFX] [US title screen]">
+		<description>Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US chain whip SFX] [US title screen]</description>
+		<rom name="Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US chain whip SFX] [US title screen].sfc" size="3145728" crc="f78f9d49" md5="215eb1f0bab394fe932aa10d549b4a6e" sha1="b6557fc7d095bb458eb5885f88d7e9a690b6f02b"/>
+	</machine>
+	<machine name="Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font]">
+		<description>Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font]</description>
+		<rom name="Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font].sfc" size="3145728" crc="da1dc8a0" md5="27aca8bfff5d4683d67f1bb9cf83ec23" sha1="98f1a61f3a16299a352c55d49b30bda64481eeb7"/>
+	</machine>
+	<machine name="Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font] [US chain whip SFX]">
+		<description>Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font] [US chain whip SFX]</description>
+		<rom name="Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font] [US chain whip SFX].sfc" size="3145728" crc="154d6a01" md5="05c30708f9659b4b6c730f625a82963e" sha1="f20f5cec3ad7c1bc34f59e93d2faf75b7df015ed"/>
+	</machine>
+	<machine name="Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font] [US chain whip SFX] [US title screen]">
+		<description>Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font] [US chain whip SFX] [US title screen]</description>
+		<rom name="Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font] [US chain whip SFX] [US title screen].sfc" size="3145728" crc="c5f5c27c" md5="a7295b35824ae6dcb0db5c922d5599be" sha1="ae0767ebf2028192d005bc15852d454c23c8352c"/>
+	</machine>
+	<machine name="Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font] [US title screen]">
+		<description>Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font] [US title screen]</description>
+		<rom name="Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font] [US title screen].sfc" size="3145728" crc="f748cc72" md5="5dbd9570203c31f1006f51bc7fa8aa36" sha1="7d6b07aed0f00125f2f807e52c636a6821ab0a86"/>
+	</machine>
+	<machine name="Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US title screen]">
+		<description>Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US title screen]</description>
+		<rom name="Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US title screen].sfc" size="3145728" crc="0b876d7a" md5="95453519d4d1b1546a07d85629fb9ded" sha1="44257341c4bda6f1595c8dc8c668ea99141db22c"/>
+	</machine>
+	<machine name="Super E.D.F. (Japan) (En) [FastROM hack by kandowontu v1.1]">
+		<description>Super E.D.F. (Japan) (En) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Super E.D.F. (Japan) (En) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="69d9fd6d" md5="0cbeeb09a2d4c13b7e0f646e15926c19" sha1="8edbb115fbda48bc80b8d3133ac5b428b9ce3f84"/>
+	</machine>
+	<machine name="Super Ghouls 'N Ghosts (USA) [FastROM &amp; Restoration hack by SCD v20191211]">
+		<description>Super Ghouls 'N Ghosts (USA) [FastROM &amp; Restoration hack by SCD v20191211]</description>
+		<rom name="Super Ghouls 'N Ghosts (USA) [FastROM &amp; Restoration hack by SCD v20191211].sfc" size="2097152" crc="acaed88a" md5="a1005b3caf9b470abe9efc3133b3f17b" sha1="a22aabecf7b1b0c052521f5a23344ea329b8e1c4"/>
+	</machine>
+	<machine name="Super Mad Champ (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Super Mad Champ (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Mad Champ (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="a6c09c6d" md5="cc21956f0b44f4e6e5000e3e417b89fe" sha1="3bca9662af4617c53fac60937a2deacaae843f10"/>
+	</machine>
+	<machine name="Super Mario All-Stars (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Super Mario All-Stars (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Super Mario All-Stars (USA) [FastROM hack by kandowontu v1.1].sfc" size="2097152" crc="2d6114f0" md5="74953442f3fdc28a1fef7b83089d3d95" sha1="53c0d7958fcfc0ac2c8a9bd9be52a14db9bb8b64"/>
+	</machine>
+	<machine name="Super Mario All-Stars + Super Mario World (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Super Mario All-Stars + Super Mario World (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Mario All-Stars + Super Mario World (USA) [FastROM hack by kandowontu v1.0].sfc" size="2621440" crc="17a39d06" md5="20034f95bc3165253f6ed900fdc86ae5" sha1="b2bdcd170016750419bdd2b21abfce7cb4004c6f"/>
+	</machine>
+	<machine name="Super Mario RPG (Japan) (Virtual Console) [FastROM hack by kandowontu v1.1]">
+		<description>Super Mario RPG (Japan) (Virtual Console) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Super Mario RPG (Japan) (Virtual Console) [FastROM hack by kandowontu v1.1].sfc" size="4194304" crc="b1cb1ef3" md5="0f5e498d4f9b4b4f9db52beab1792296" sha1="212509e7fdc86eeff1e1790b86a47d0146c8241b"/>
+	</machine>
+	<machine name="Super Mario RPG (Japan) [FastROM hack by kandowontu v1.1]">
+		<description>Super Mario RPG (Japan) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Super Mario RPG (Japan) [FastROM hack by kandowontu v1.1].sfc" size="4194304" crc="e0b67f90" md5="8e34ad92190a3cfb23bb0a6d88b08923" sha1="caf15d423a8645c8db07ecfb1a25327db3229556"/>
+	</machine>
+	<machine name="Super Mario RPG - Legend of the Seven Stars (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Super Mario RPG - Legend of the Seven Stars (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Super Mario RPG - Legend of the Seven Stars (USA) [FastROM hack by kandowontu v1.1].sfc" size="4194304" crc="ae1b7eab" md5="9777f2a3ee9752f9a68ad8edc6f47a57" sha1="0e9c5682bff637735e11c1f7a7124563dcac9c85"/>
+	</machine>
+	<machine name="Super Mario RPG - Legend of the Seven Stars (USA) [T-En by CoolCatBomberMan v2.0] [EU-US button colors by Lavos1999 v1.0] [FastROM hack by kandowontu v1.1] [Relocalized]">
+		<description>Super Mario RPG - Legend of the Seven Stars (USA) [T-En by CoolCatBomberMan v2.0] [EU-US button colors by Lavos1999 v1.0] [FastROM hack by kandowontu v1.1] [Relocalized]</description>
+		<rom name="Super Mario RPG - Legend of the Seven Stars (USA) [T-En by CoolCatBomberMan v2.0] [EU-US button colors by Lavos1999 v1.0] [FastROM hack by kandowontu v1.1] [Relocalized].sfc" size="4194304" crc="ede230e8" md5="884a4a348d02f8e2be454c49ccc1bc8c" sha1="c8f7b6c9d547c8464267727e5b2a7687f2b657bc"/>
+	</machine>
+	<machine name="Super Mario RPG - Legend of the Seven Stars (USA) [T-En by CoolCatBomberMan v2.0] [FastROM hack by kandowontu v1.1] [Relocalized]">
+		<description>Super Mario RPG - Legend of the Seven Stars (USA) [T-En by CoolCatBomberMan v2.0] [FastROM hack by kandowontu v1.1] [Relocalized]</description>
+		<rom name="Super Mario RPG - Legend of the Seven Stars (USA) [T-En by CoolCatBomberMan v2.0] [FastROM hack by kandowontu v1.1] [Relocalized].sfc" size="4194304" crc="afcafad1" md5="95194ca64d5815fb54a7b806a188637e" sha1="2abac5223cabda485d5984abfca650bb53a4b871"/>
+	</machine>
+	<machine name="Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [DLC] [NS nameset] [FastROM hack by kandowontu v1.1]">
+		<description>Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [DLC] [NS nameset] [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [DLC] [NS nameset] [FastROM hack by kandowontu v1.1].sfc" size="4194304" crc="5574d19b" md5="ad9dd414a34c500bab96fa6945ef804d" sha1="1a85aba4a870a1c2d4c8dd5d8257532438b7c477"/>
+	</machine>
+	<machine name="Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [DLC] [SNES nameset] [FastROM hack by kandowontu v1.1]">
+		<description>Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [DLC] [SNES nameset] [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [DLC] [SNES nameset] [FastROM hack by kandowontu v1.1].sfc" size="4194304" crc="7d8092dc" md5="83da1b46bb4de9e411424f298773aae0" sha1="2e5b12be88ed2c82424653cdca662a0d29933e46"/>
+	</machine>
+	<machine name="Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [EU-US button colors by Lavos1999 v1.0] [FastROM hack by kandowontu v1.1]">
+		<description>Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [EU-US button colors by Lavos1999 v1.0] [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [EU-US button colors by Lavos1999 v1.0] [FastROM hack by kandowontu v1.1] .sfc" size="4194304" crc="24f9793f" md5="e7dece1ca8a2e94f076992ddb4853e29" sha1="4136b93d5d25af110e768b0c61f57cab52967942"/>
+	</machine>
+	<machine name="Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [FastROM hack by kandowontu v1.1]">
+		<description>Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [FastROM hack by kandowontu v1.1].sfc" size="4194304" crc="e089717a" md5="978902312c410a8414485061182c52f2" sha1="ec97d445eaf1b5e8c4e5bf0696c89f0251cfa072"/>
+	</machine>
+	<machine name="Super Mario RPG - Legend of the Seven Stars (USA, Europe) (Virtual Console) [FastROM hack by kandowontu v1.1]">
+		<description>Super Mario RPG - Legend of the Seven Stars (USA, Europe) (Virtual Console) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Super Mario RPG - Legend of the Seven Stars (USA, Europe) (Virtual Console) [FastROM hack by kandowontu v1.1].sfc" size="4194304" crc="63047183" md5="e629e08987dab88a405698ed399ead2c" sha1="e9cf081d6cb7ce1b7f6191725f26b8b524190e37"/>
+	</machine>
+	<machine name="Super Mario World (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Super Mario World (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Mario World (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="eea06d51" md5="d70b9e91ab1e87f26ae81380b5ceb683" sha1="143abe8f617b10fe8f34ca3b2b8af7e58fef3e91"/>
+	</machine>
+	<machine name="Super Mario World (USA) [SA1 hack by Vitor Vilela v1.40]">
+		<description>Super Mario World (USA) [SA1 hack by Vitor Vilela v1.40]</description>
+		<rom name="Super Mario World (USA) [SA1 hack by Vitor Vilela v1.40].sfc" size="1048576" crc="389df7f4" md5="c0e7998863a2276a2f70722924e4bd38" sha1="809af0309deec62786ec44c8203bf4394014c3ec"/>
+	</machine>
+	<machine name="Super Mario World - Super Mario Bros. 4 (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Super Mario World - Super Mario Bros. 4 (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Mario World - Super Mario Bros. 4 (Japan) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="0b024148" md5="0ff0b7a84dd205ee54bcc08f52bb721f" sha1="bdde2d51fc5822f62cca499e79043b9c63f000a6"/>
+	</machine>
+	<machine name="Super Mario World 2 - Yoshi's Island (USA) [FastROM hack by kandowontu v1.2]">
+		<description>Super Mario World 2 - Yoshi's Island (USA) [FastROM hack by kandowontu v1.2]</description>
+		<rom name="Super Mario World 2 - Yoshi's Island (USA) [FastROM hack by kandowontu v1.2].sfc" size="2097152" crc="18ac09ea" md5="9f59e1d8659d9e9989f4f1730b1bcb22" sha1="392ce1d72ce528a9825159a31a2a668a13227a0b"/>
+	</machine>
+	<machine name="Super Naxat Open - Golf de Shoubu da Dorabocchan (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Super Naxat Open - Golf de Shoubu da Dorabocchan (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Naxat Open - Golf de Shoubu da Dorabocchan (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="bc1654fc" md5="ddf246bfb722467b0451a528dee3aa8a" sha1="cb40c293cd0f15584f79ce9b971ef646d074a023"/>
+	</machine>
+	<machine name="Super Naxat Open - Spike McFang Golf (Japan) [T-En by MrRichard999 v0.99] [FastROM hack by kandowontu v1.0] [n]">
+		<description>Super Naxat Open - Spike McFang Golf (Japan) [T-En by MrRichard999 v0.99] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Super Naxat Open - Spike McFang Golf (Japan) [T-En by MrRichard999 v0.99] [FastROM hack by kandowontu v1.0] [n].sfc" size="1048576" crc="29ca3959" md5="a878f98888186ff299eb800bc6707072" sha1="16168c5c4179a34c515338b7b20a376e1725415e"/>
+	</machine>
+	<machine name="Super Off Road (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Super Off Road (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Off Road (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="b963b358" md5="644fb3adb243703ce236cf8d0f7fbba5" sha1="4e6d54aca653652c297b04c8f5691ccf4e75ade0"/>
+	</machine>
+	<machine name="Super Pang (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>Super Pang (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Pang (Europe) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="97a76b12" md5="f93006be16a4a00aea99880b17e9a8ea" sha1="01aa14352187d85dc2a55f1ce23eb736a6fe99d4"/>
+	</machine>
+	<machine name="Super Punch-Out!! (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Super Punch-Out!! (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Punch-Out!! (USA) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="e30844b3" md5="7730b357e644bb5c89ed66851f404909" sha1="f2b76d11397cac70066469d3783766dfdc06a970"/>
+	</machine>
+	<machine name="Super R-Type (Japan) (En) [FastROM hack by kandowontu v1.1]">
+		<description>Super R-Type (Japan) (En) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Super R-Type (Japan) (En) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="9ac9fa6e" md5="ac7561374333da4809c86141f45c8b2e" sha1="9cac55553d349fb75e2101913475d537978301b3"/>
+	</machine>
+	<machine name="Super R-Type (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Super R-Type (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Super R-Type (USA) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="09a1487b" md5="8abc5c8b5f1615eea852cf0f48c861c0" sha1="72a902b4c00cf94212669701ff96a1f24f1153d8"/>
+	</machine>
+	<machine name="Super R-Type (USA) [SA1 hack by Vitor Vilela v1.2]">
+		<description>Super R-Type (USA) [SA1 hack by Vitor Vilela v1.2]</description>
+		<rom name="Super R-Type (USA) [SA1 hack by Vitor Vilela v1.2].sfc" size="1048576" crc="0d73e7d3" md5="dfcaef379b3242c05175d309a89e27f2" sha1="7e1494ae30865201f595550c7fc7808149ac2751"/>
+	</machine>
+	<machine name="Super Smash T.V. (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Super Smash T.V. (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Smash T.V. (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="b1aac9d1" md5="473186a4cd100f038752344b8198ccd4" sha1="2c5080bd16d90f6825939b9ef2b230439e45f37b"/>
+	</machine>
+	<machine name="Super SWIV (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>Super SWIV (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super SWIV (Europe) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="c98e6927" md5="c7b61bc775384d05e7fbe615c9db93ac" sha1="44420c8b6c3a8e4d75675954d3396001060acd78"/>
+	</machine>
+	<machine name="Super SWIV (Japan) (En) [FastROM hack by kandowontu v1.0]">
+		<description>Super SWIV (Japan) (En) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super SWIV (Japan) (En) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="7ae43d39" md5="b1db25356d5ee5494f086e4b9357e9a7" sha1="0a0074072b7b70d340a264bb6ed4872fb8a7b493"/>
+	</machine>
+	<machine name="Super Tennis (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Super Tennis (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Tennis (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="10e93278" md5="86fe7050c5df203e1a199653d254c03b" sha1="c43e57378838ca60ba4507cc94a7036826b2a5af"/>
+	</machine>
+	<machine name="Super Tennis - World Circuit (Japan) (En) [FastROM hack by kandowontu v1.0]">
+		<description>Super Tennis - World Circuit (Japan) (En) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Tennis - World Circuit (Japan) (En) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="55853d58" md5="7f52a3d53d7c9b7c70921515716f382d" sha1="5d7bf5fc2b86918c9f8847eb8e10e3b6f7eddf3b"/>
+	</machine>
+	<machine name="Super Turrican (USA) [FastROM hack by kandowontu v2.0]">
+		<description>Super Turrican (USA) [FastROM hack by kandowontu v2.0]</description>
+		<rom name="Super Turrican (USA) [FastROM hack by kandowontu v2.0].sfc" size="524288" crc="ccd5cbbb" md5="f944775005505b5f8a9aec9883fc6833" sha1="49477cfd361e3a76a5b8a816d565378d90bd75d7"/>
+	</machine>
+	<machine name="Super Turrican 2 Special Edition (USA) (Aftermarket) (Unl) [FastROM hack by kandowontu v1.0]">
+		<description>Super Turrican 2 Special Edition (USA) (Aftermarket) (Unl) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Turrican 2 Special Edition (USA) (Aftermarket) (Unl) [FastROM hack by kandowontu v1.0].sfc" size="3145728" crc="24821efb" md5="82d743a7bfc9f00e3f3d01563eacac4d" sha1="4e6747e1b083d4f04cba5a68c3c6a6dc699f3772"/>
+	</machine>
+	<machine name="Super Valis IV (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Super Valis IV (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Super Valis IV (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="b6222369" md5="2bd68e3b6754e99f604921ad4b8964ef" sha1="af16ff189a6ab5bd41f574b3dd8c0d3ee4cb13df"/>
+	</machine>
+	<machine name="SWAT Kats - The Radical Squadron (USA) [FastROM hack by kandowontu v1.0]">
+		<description>SWAT Kats - The Radical Squadron (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="SWAT Kats - The Radical Squadron (USA) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="ae58cfea" md5="219c9833a1ba377cbb3cf0a6d50eed13" sha1="99e56961e092bf1005655c081bc943a1e0451259"/>
+	</machine>
+	<machine name="Syndicate (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0]">
+		<description>Syndicate (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Syndicate (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="c58ee46b" md5="131da0f5ffb2341a5c897614b6a27821" sha1="99c83c615c57ba0172aabcd7af948553ff3b53fb"/>
+	</machine>
+	<machine name="Syndicate (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Syndicate (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Syndicate (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="8fb52381" md5="513f52daf1c2f09f5401f397a56b395c" sha1="fe90bee0cf31c1969dcb829223d623b1e79309a1"/>
+	</machine>
+	<machine name="Syndicate (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Syndicate (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Syndicate (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="e644497e" md5="6eef335244705f782512e077538fbb31" sha1="956f5d024bc5eedd235dc4a1facf8f1eeb5b2f2f"/>
+	</machine>
+	<machine name="Tactical Soccer (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Tactical Soccer (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Tactical Soccer (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="4f835756" md5="a0f85aa9f8ac14cfef069dcf38500f61" sha1="58e93c5b0659560dd899f6422d8de948aa218393"/>
+	</machine>
+	<machine name="Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="bd1ddd80" md5="6cce6bca68980d8b3d8c16ce8c739c02" sha1="d24ea29354f72235cb6e3b0186ba0f3035e22694"/>
+	</machine>
+	<machine name="Thunder Spirits (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Thunder Spirits (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Thunder Spirits (USA) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="bc89a994" md5="955aac5e374f5818cc8d6e6e62b911bd" sha1="761196113ee0312619000ba41b10a28ef99216a6"/>
+	</machine>
+	<machine name="Timeslip (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Timeslip (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Timeslip (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="4f7b4c4c" md5="fe88ac94aebaf5a85f13d3370ee33fdb" sha1="54d7ea0abaa4bdeb3a9b917d1034e8ebfd41317a"/>
+	</machine>
+	<machine name="Timon &amp; Pumbaa's Jungle Games (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>Timon &amp; Pumbaa's Jungle Games (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Timon &amp; Pumbaa's Jungle Games (Europe) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="7eed1e3c" md5="fbcd55565186bfb0565accddc785b614" sha1="93d9c259507769e3e8613fffbc10d8ed199686ea"/>
+	</machine>
+	<machine name="Timon &amp; Pumbaa's Jungle Games (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Timon &amp; Pumbaa's Jungle Games (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Timon &amp; Pumbaa's Jungle Games (USA) [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="874431d2" md5="51e4b1fd1f15123df177b2239fc4025b" sha1="609cf7d5fbf707e5fae4f244e398c2ee156efec8"/>
+	</machine>
+	<machine name="Tomorrow's Joe (Japan) [T-En by Vice Translations v0.99] [FastROM hack by kandowontu v1.0] [n]">
+		<description>Tomorrow's Joe (Japan) [T-En by Vice Translations v0.99] [FastROM hack by kandowontu v1.0] [n]</description>
+		<rom name="Tomorrow's Joe (Japan) [T-En by Vice Translations v0.99] [FastROM hack by kandowontu v1.0] [n].sfc" size="1048576" crc="28b3f17c" md5="d3763e45c12700ed2ca42eb8d4cf5ba5" sha1="bcbaa26f12aefebbf6c667de6000a434e326c477"/>
+	</machine>
+	<machine name="Top Gear (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Top Gear (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Top Gear (USA) [FastROM hack by kandowontu v1.1].sfc" size="524288" crc="b289410f" md5="29823c9702b58af94cb82b28c2dce07a" sha1="35dbf3860ae82e763488a1f376e5c894106fb259"/>
+	</machine>
+	<machine name="Top Gear Crossroads (World) (Aftermarket) (Unl) [FastROM hack by kandowontu v1.1]">
+		<description>Top Gear Crossroads (World) (Aftermarket) (Unl) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Top Gear Crossroads (World) (Aftermarket) (Unl) [FastROM hack by kandowontu v1.1].sfc" size="524288" crc="ae1cb7e1" md5="0a59b6061ad8ac37cbc20b6da1dc656d" sha1="2e2204d1417664b6d3cd26107e80d5af082f6446"/>
+	</machine>
+	<machine name="Toy Story (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0]">
+		<description>Toy Story (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Toy Story (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0].sfc" size="4194304" crc="559f9e52" md5="a54cb5795f8393d72f2d3d7471625e8f" sha1="182bc31fa91c5e00b13136991507de70dfe2a490"/>
+	</machine>
+	<machine name="Toy Story (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Toy Story (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Toy Story (Japan) [FastROM hack by kandowontu v1.0].sfc" size="4194304" crc="2532971d" md5="406969342034f9ce5a972fa1b1a8cd35" sha1="5ad1ab48f7765c89065fbb0889aded7ab4fedc36"/>
+	</machine>
+	<machine name="Toy Story (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Toy Story (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Toy Story (USA) [FastROM hack by kandowontu v1.0].sfc" size="4194304" crc="2899c11a" md5="1bbbda81451f883693171fcbcdbf1060" sha1="6c2a0b2df9f29a9ea3d769ea979b7176701833ba"/>
+	</machine>
+	<machine name="Troddlers (USA) [FastROM hack by bankbank v1.0]">
+		<description>Troddlers (USA) [FastROM hack by bankbank v1.0]</description>
+		<rom name="Troddlers (USA) [FastROM hack by bankbank v1.0].sfc" size="524288" crc="eb94bf3f" md5="da07c0250262d58ffa52bdde5637b58c" sha1="6b9f0cc88dda4d3df547ee077614a50d66fb4218"/>
+	</machine>
+	<machine name="Turrican 4 (Japan) [Rendering Ranger R2 hack by BonusJZ v1.4] [FastROM hack by kandowontu v1.2] [n]">
+		<description>Turrican 4 (Japan) [Rendering Ranger R2 hack by BonusJZ v1.4] [FastROM hack by kandowontu v1.2] [n]</description>
+		<rom name="Turrican 4 (Japan) [Rendering Ranger R2 hack by BonusJZ v1.4] [FastROM hack by kandowontu v1.2] [n].sfc" size="2097152" crc="3aa75f36" md5="84babd08c94c68ab7f0358cbe437702f" sha1="f537d30a4265a4802f20c5f7427f8d96a3412cc0"/>
+	</machine>
+	<machine name="U.N. Squadron (USA) [FastROM hack by Vitor Vilela v1.0]">
+		<description>U.N. Squadron (USA) [FastROM hack by Vitor Vilela v1.0]</description>
+		<rom name="U.N. Squadron (USA) [FastROM hack by Vitor Vilela v1.0].sfc" size="1048576" crc="25bdaf1f" md5="18a67fd6c244898a451405dfc7a39708" sha1="b60296095ef49848412adc91b072e2bdda928290"/>
+	</machine>
+	<machine name="Uchuu no Kishi - Tekkaman Blade (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Uchuu no Kishi - Tekkaman Blade (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Uchuu no Kishi - Tekkaman Blade (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="435c50f9" md5="e3e6fe4101a2cd78cb1f41731b64a473" sha1="5fa0f4886c020887b994e8eaea4e187402754327"/>
+	</machine>
+	<machine name="Uchuu no Kishi - Tekkaman Blade (Japan) [T-En by Byuu &amp; Derrick Sobodash v1.0] [FastROM hack by kandowontu v1.0]">
+		<description>Uchuu no Kishi - Tekkaman Blade (Japan) [T-En by Byuu &amp; Derrick Sobodash v1.0] [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Uchuu no Kishi - Tekkaman Blade (Japan) [T-En by Byuu &amp; Derrick Sobodash v1.0] [FastROM hack by kandowontu v1.0].sfc" size="1572864" crc="afaa5e96" md5="f0435cd5519b68d9199b51d24e3ce6fd" sha1="a5344dddbc5e271c451ac5716aa15a305338f878"/>
+	</machine>
+	<machine name="Ultimate Mortal Kombat 3 (USA) [SlowROM hack by kandowontu v1.0]">
+		<description>Ultimate Mortal Kombat 3 (USA) [SlowROM hack by kandowontu v1.0]</description>
+		<rom name="Ultimate Mortal Kombat 3 (USA) [SlowROM hack by kandowontu v1.0].sfc" size="4194304" crc="7f3e6648" md5="e86c70a48c6d8bd8b1a293a2f311da6a" sha1="2f31b86bbe25e0cf37c8d92c096d71afb5a1f7ab"/>
+	</machine>
+	<machine name="Ultraman (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Ultraman (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Ultraman (Japan) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="bd8dc219" md5="8a7f55067d0c2fdb8241375b2f4bf258" sha1="f31fb2481ce9c62e352359f34be78db940372ce5"/>
+	</machine>
+	<machine name="Ultraman (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Ultraman (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Ultraman (USA) [FastROM hack by kandowontu v1.1].sfc" size="524288" crc="24520763" md5="5404f74eb8c45f1fa402e3c5fe06e1fe" sha1="48b599636c54273933304c1498e6353982dc85b5"/>
+	</machine>
+	<machine name="Ushio to Tora (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>Ushio to Tora (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Ushio to Tora (Japan) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="164a0d6c" md5="9c799ebf582833f1caa2dbe7b16d3b3c" sha1="3ffcc7ec4598fb25281e1ef4b995eeacba78fe86"/>
+	</machine>
+	<machine name="War 2410 (USA) [FastROM hack by kandowontu v1.0]">
+		<description>War 2410 (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="War 2410 (USA) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="ef216271" md5="f4c65f2021bd8f086201423399fd72e6" sha1="3e0c9c5c88c7022a725c87a436afeeaf224cd6f3"/>
+	</machine>
+	<machine name="War 3010 - The Revolution (USA) [FastROM hack by kandowontu v1.0]">
+		<description>War 3010 - The Revolution (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="War 3010 - The Revolution (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="61bb1ac5" md5="f38129826615fec2eb338d98ab75510d" sha1="cbd7279fe8acb2ef0f450d99e127492c00275c50"/>
+	</machine>
+	<machine name="WeaponLord (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>WeaponLord (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="WeaponLord (Europe) [FastROM hack by kandowontu v1.0].sfc" size="3145728" crc="cc136009" md5="cde383f633cd26492bdfdaab6d1e72dd" sha1="fdade7eda505e8aa5e49a6175fa53ce9c99cde96"/>
+	</machine>
+	<machine name="WeaponLord (USA) [FastROM hack by kandowontu v1.0]">
+		<description>WeaponLord (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="WeaponLord (USA) [FastROM hack by kandowontu v1.0].sfc" size="3145728" crc="4d634f21" md5="e54cd97288be4a5e9df5a5215acae039" sha1="4adb456557fb5d8aa659ec74761d55ff070c7c84"/>
+	</machine>
+	<machine name="Wild Guns (USA) [FastROM hack by kandowontu v1.1]">
+		<description>Wild Guns (USA) [FastROM hack by kandowontu v1.1]</description>
+		<rom name="Wild Guns (USA) [FastROM hack by kandowontu v1.1].sfc" size="1048576" crc="c89bf03e" md5="6ddfacdca26ef3ac5615bd00ea9a3c28" sha1="6b2896bfd496a15de7c9e9d4ed5565e1cecd7412"/>
+	</machine>
+	<machine name="Williams Arcade's Greatest Hits (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>Williams Arcade's Greatest Hits (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Williams Arcade's Greatest Hits (Europe) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="9307846b" md5="d2aa0e9187e52c6c84fa13c53d83ba7f" sha1="dc9e9b786bff1b06e28373ab5ff025a6ff5a277b"/>
+	</machine>
+	<machine name="Williams Arcade's Greatest Hits (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Williams Arcade's Greatest Hits (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Williams Arcade's Greatest Hits (USA) [FastROM hack by kandowontu v1.0].sfc" size="524288" crc="0875ffe4" md5="ac41a6e73b229f98dbfc5b665720925f" sha1="74d97c3a21fe723fc7abe7149334d02605051a7f"/>
+	</machine>
+	<machine name="Wolfchild (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Wolfchild (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Wolfchild (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="3c93f59b" md5="bb2cfc07d28a18102811f660a932bb90" sha1="547eedc955841ba34513db785d82707b32782c8e"/>
+	</machine>
+	<machine name="World Heroes 2 (Japan) [FastROM hack by kandowontu v1.0]">
+		<description>World Heroes 2 (Japan) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="World Heroes 2 (Japan) [FastROM hack by kandowontu v1.0].sfc" size="3145728" crc="28ab68a5" md5="470a39ceefa682589531c6ac6639857e" sha1="d242f8d5c1900ee07ab002d30526b0f4c9843c71"/>
+	</machine>
+	<machine name="World Heroes 2 (USA) [FastROM hack by kandowontu v1.0]">
+		<description>World Heroes 2 (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="World Heroes 2 (USA) [FastROM hack by kandowontu v1.0].sfc" size="3145728" crc="de881734" md5="13a5990bb6996fec50c3da87849dfa95" sha1="e543573c77837ba708172ef0d1466199a98339b3"/>
+	</machine>
+	<machine name="X-Kaliber 2097 (USA) [FastROM hack by kandowontu v1.0]">
+		<description>X-Kaliber 2097 (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="X-Kaliber 2097 (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="a8787c16" md5="3f06c06eebe1eb3d6513f21fba7259ed" sha1="872f5f006da1cdf29d6693e504b9e6154a1c410c"/>
+	</machine>
+	<machine name="X-Men vs. Street Fighter (USA) (Pirate) [FastROM hack by kandowontu v1.0]">
+		<description>X-Men vs. Street Fighter (USA) (Pirate) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="X-Men vs. Street Fighter (USA) (Pirate) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="82208e99" md5="17cccda179d6dd370ee75305851524ef" sha1="a4987dfb9c6ae2a55ab2fd56745a4f5432a5dfe8"/>
+	</machine>
+	<machine name="Xardion (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Xardion (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Xardion (USA) [FastROM hack by kandowontu v1.0].sfc" size="1048576" crc="3927ec9f" md5="16dc429dbc9e63260494cf56d6e715f1" sha1="39ae2ab09ea513106d2656773cc69ca6d5fce49c"/>
+	</machine>
+	<machine name="Zero the Kamikaze Squirrel (Europe) (Rev 1) [FastROM hack by kandowontu v1.0]">
+		<description>Zero the Kamikaze Squirrel (Europe) (Rev 1) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Zero the Kamikaze Squirrel (Europe) (Rev 1) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="ac70cc3c" md5="d9181ffa7148c76abe20c57177e059c2" sha1="745a6dcaa3ae06210c04aded7e9edea2bc90b0fa"/>
+	</machine>
+	<machine name="Zero the Kamikaze Squirrel (Europe) [FastROM hack by kandowontu v1.0]">
+		<description>Zero the Kamikaze Squirrel (Europe) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Zero the Kamikaze Squirrel (Europe) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="6381c327" md5="f23a1c07345f6bed0b9ecae9fbb67bc7" sha1="016706ef936fb8ff58b9ff1b12a33e02b4d63bad"/>
+	</machine>
+	<machine name="Zero the Kamikaze Squirrel (USA) [FastROM hack by kandowontu v1.0]">
+		<description>Zero the Kamikaze Squirrel (USA) [FastROM hack by kandowontu v1.0]</description>
+		<rom name="Zero the Kamikaze Squirrel (USA) [FastROM hack by kandowontu v1.0].sfc" size="2097152" crc="4e6d26e1" md5="8676e313cc3ced98627e0ca165feb889" sha1="dc50e362a196c365aa77ca70a234be142283d121"/>
+	</machine>
+</datafile>

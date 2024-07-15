@@ -1,0 +1,229 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "base_content_directory": "M:\\Jogos\\Jogos Pi",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\AAAHH!!! Real Monsters (E) [!].smc",
+      "label": "Aaahh!!! Real Monsters (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "946313FB|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\ActRaiser (U) [!].smc",
+      "label": "ActRaiser (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EAC3358D|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },	
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\ActRaiser 2 (U) [!].smc",
+      "label": "ActRaiser 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "Nintendo - SNES / SFC (Snes9x - Current)",
+      "crc32": "4901F718|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+	{
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Accele Brid (J) [T+Eng1.00_AGTP].smc",
+      "label": "Accele Brid (Japan) [T-En by Aeon Genesis v1.00]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1C4DC36C|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Addams Family Values (E).smc",
+      "label": "Addams Family Values (Europe) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AE38ADB6|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Addams Family, The (E).smc",
+      "label": "Addams Family, The (Europe) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "82497F19|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Addams Family, The - Pugsley's Scavenger Hunt (E).smc",
+      "label": "Addams Family, The - Pugsley's Scavenger Hunt (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "644E7FBF|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\AD&D - Eye of the Beholder (U) [!].smc",
+      "label": "Advanced Dungeons & Dragons - Eye of the Beholder (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "20143571|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Adventures of Batman & Robin, The (USA).zip#Adventures of Batman & Robin, The (USA).sfc",
+      "label": "Adventures of Batman & Robin, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B3EF81F5|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },	
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Adventures of Dr. Franken, The (E).smc",
+      "label": "Adventures of Dr. Franken, The (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E4925F15|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Aero Fighters (U).smc",
+      "label": "Aero Fighters (USA)",
+      "core_path": "S:\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x - Current)",
+      "crc32": "F194D00A|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Aero the Acro-Bat (E).smc",
+      "label": "Aero the Acro-Bat (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FA0CE63A|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Aero the Acro-Bat 2 (U).smc",
+      "label": "Aero the Acro-Bat 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8C05ED51|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Aladdin (E).smc",
+      "label": "Aladdin (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "44FF6E78|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Alien 3 (E) [!].smc",
+      "label": "Alien 3 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "378613B0|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Alien vs. Predator (U).smc",
+      "label": "Alien vs Predator (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1803CF20|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Animaniacs (E).smc",
+      "label": "Animaniacs (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C28A80F6|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Arcana (U).smc",
+      "label": "Arcana (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C891B297|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Ardy Lightfoot (E).smc",
+      "label": "Ardy Lightfoot (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D239398F|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Arkanoid - Doh It Again (USA).sfc",
+      "label": "Arkanoid - Doh It Again (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B50503A0|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Art of Fighting (USA).sfc",
+      "label": "Art of Fighting (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9FA74067|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Asterix & Obelix (E).smc",
+      "label": "Asterix & Obelix (Europe) (En,Fr,De,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "83AF6152|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Asterix (E) [!].smc",
+      "label": "Asterix (Europe) (En,Fr,De,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5DDEDC28|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Axelay (U) [!].smc",
+      "label": "Axelay (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F812B533|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },	
+	{
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Alcahest (tr).zip#Alcahest (tr).sfc",
+      "label": "Alcahest (tr)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "36C7D9FA|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\Adventures of Yogi Bear (USA).zip#Adventures of Yogi Bear (USA).sfc",
+      "label": "Adventures of Yogi Bear (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7448D45C|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "M:\\Jogos\\Jogos Pi\\snes\\A\\American Tail, An - Fievel Goes West (USA).zip#American Tail, An - Fievel Goes West (USA).sfc",
+      "label": "American Tail, An - Fievel Goes West (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EEA38AED|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    }
+	
+  ]
+}

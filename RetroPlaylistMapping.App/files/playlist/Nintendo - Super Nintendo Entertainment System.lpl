@@ -1,0 +1,3292 @@
+{
+  "version": "1.5",
+  "default_core_path": "Test2",
+  "default_core_name": "Test5",
+  "base_content_directory": "M:\\Jogos\\Jogos Pi",
+  "label_display_mode": 1,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 3,
+  "sort_mode": 4,
+  "items": [
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\3-jigen Kakutou Ballz (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "3-jigen Kakutou Ballz (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Acrobat Mission (Japan) (En) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Acrobat Mission (Japan) (En) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\ActRaiser (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "ActRaiser (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Actraiser (Japan) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Actraiser (Japan) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Actraiser (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Actraiser (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\ActRaiser (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "ActRaiser (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Addams Family, The - Pugsley's Scavenger Hunt (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Addams Family, The - Pugsley's Scavenger Hunt (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Addams Family, The - Pugsley's Scavenger Hunt (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Addams Family, The - Pugsley's Scavenger Hunt (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Adventures of Batman & Robin, The (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Adventures of Batman & Robin, The (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Adventures of Batman & Robin, The (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Adventures of Batman & Robin, The (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Adventures of Batman & Robin, The (USA) [FastROM hack by MaxwelOlinda v1.0].sfc",
+      "label": "Adventures of Batman & Robin, The (USA) [FastROM hack by MaxwelOlinda v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Adventures of Kid Kleets, The (USA) (En,Fr,Es) [Camera & FastROM hack by MaxwelOlinda v1.0].sfc",
+      "label": "Adventures of Kid Kleets, The (USA) (En,Fr,Es) [Camera & FastROM hack by MaxwelOlinda v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Adventures of Kid Kleets, The (USA) (En,Fr,Es) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Adventures of Kid Kleets, The (USA) (En,Fr,Es) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Aero the Acro-Bat (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Aero the Acro-Bat (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Aero the Acro-Bat (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Aero the Acro-Bat (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Aero the Acro-Bat 2 (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Aero the Acro-Bat 2 (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Aladdin (France) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Aladdin (France) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Aladdin (USA) [FastROM hack by MaxwelOlinda v1.0].sfc",
+      "label": "Aladdin (USA) [FastROM hack by MaxwelOlinda v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Alien vs Predator (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Alien vs Predator (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Andre Agassi Tennis (Japan) (En) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Andre Agassi Tennis (Japan) (En) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Andre Agassi Tennis (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Andre Agassi Tennis (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Araiguma Rascal (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Araiguma Rascal (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Arcade's Greatest Hits - The Atari Collection 1 (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Arcade's Greatest Hits - The Atari Collection 1 (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Arcade's Greatest Hits - The Atari Collection 1 (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Arcade's Greatest Hits - The Atari Collection 1 (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Arcana (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Arcana (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Arcana (USA) [FastROM hack by Rainponcho & Sarah Shinespark v1.1b].sfc",
+      "label": "Arcana (USA) [FastROM hack by Rainponcho & Sarah Shinespark v1.1b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Area 88 (USA) [T-En by Blizzz v1.03] [FastROM hack by Vitor Vilela v1.0] [Relocalized] [n].sfc",
+      "label": "Area 88 (USA) [T-En by Blizzz v1.03] [FastROM hack by Vitor Vilela v1.0] [Relocalized] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Arkanoid - Doh It Again (Japan) (En) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Arkanoid - Doh It Again (Japan) (En) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Arkanoid - Doh It Again (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Arkanoid - Doh It Again (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Ashita no Joe (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Ashita no Joe (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Assault Suits Valken (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1] [n].sfc",
+      "label": "Assault Suits Valken (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Assault Suits Valken (World) (Switch) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Assault Suits Valken (World) (Switch) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Axelay (USA) [FastROM hack by Vitor Vilela v1.0].sfc",
+      "label": "Axelay (USA) [FastROM hack by Vitor Vilela v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Ballz 3D - Fighting at Its Ballziest (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Ballz 3D - Fighting at Its Ballziest (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Barbie Super Model (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Barbie Super Model (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Battle Blaze (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Battle Blaze (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Battle Soccer - Field no Hasha (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Battle Soccer - Field no Hasha (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Battle Soccer - Field no Hasha (Japan) [T-En by Hurkey Translations v1.0] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Battle Soccer - Field no Hasha (Japan) [T-En by Hurkey Translations v1.0] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Bill Laimbeer's Combat Basketball (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Bill Laimbeer's Combat Basketball (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\BioMetal (Japan) (En) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "BioMetal (Japan) (En) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\BioMetal (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "BioMetal (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\BlaZeon - The Bio-Cyborg Challenge (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "BlaZeon - The Bio-Cyborg Challenge (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Bonkers (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Bonkers (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Bram Stoker's Dracula (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Bram Stoker's Dracula (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Cacoma Knight in Bizyland (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Cacoma Knight in Bizyland (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Cacoma Knight in Bizyland (USA) [FastROM hack by Sluffy v0.30].sfc",
+      "label": "Cacoma Knight in Bizyland (USA) [FastROM hack by Sluffy v0.30]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Cal Ripken Jr. Baseball (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Cal Ripken Jr. Baseball (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Cal Ripken Jr. Baseball (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Cal Ripken Jr. Baseball (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Chatting Parodius Live! (Japan) [T-En by Advancedpillow & Onereto & Reld v1.0] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Chatting Parodius Live! (Japan) [T-En by Advancedpillow & Onereto & Reld v1.0] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Choplifter III - Rescue-Survive (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Choplifter III - Rescue-Survive (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Chrono Trigger - Jet Bike Special (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Chrono Trigger - Jet Bike Special (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\College Slam (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "College Slam (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Combatribes, The (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Combatribes, The (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Contra III - The Alien Wars (USA) [FastROM hack by MaxwelOlinda v1.1].sfc",
+      "label": "Contra III - The Alien Wars (USA) [FastROM hack by MaxwelOlinda v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Contra III - The Alien Wars (USA) [FastROM hack by MaxwelOlinda v1.1] [Restoration hack by SCD v20170902].sfc",
+      "label": "Contra III - The Alien Wars (USA) [FastROM hack by MaxwelOlinda v1.1] [Restoration hack by SCD v20170902]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Contra III - The Alien Wars (USA) [SA1 hack by Vitor Vilela v1.2].sfc",
+      "label": "Contra III - The Alien Wars (USA) [SA1 hack by Vitor Vilela v1.2]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Contra III - The Alien Wars (USA) [SA1 hack by Vitor Vilela v1.2] [Restoration hack by SCD v20170902].sfc",
+      "label": "Contra III - The Alien Wars (USA) [SA1 hack by Vitor Vilela v1.2] [Restoration hack by SCD v20170902]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Cool Spot (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Cool Spot (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Cool World (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Cool World (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Cosmo Gang - The Video (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Cosmo Gang - The Video (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Cybernator (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Cybernator (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Cybernator (USA) (Beta) (November, 1992) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Cybernator (USA) (Beta) (November, 1992) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Cybernator (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Cybernator (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\D-Force (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "D-Force (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Darius Twin (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Darius Twin (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Deae Tonosama Appare Ichiban (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Deae Tonosama Appare Ichiban (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Double Dragon V - The Shadow Falls (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Double Dragon V - The Shadow Falls (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Double Dragon V - The Shadow Falls (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Double Dragon V - The Shadow Falls (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Dragon's Lair (USA) [FastROM hack by Patrick Mollohan v1.1].sfc",
+      "label": "Dragon's Lair (USA) [FastROM hack by Patrick Mollohan v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\E.V.O. - Search for Eden (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "E.V.O. - Search for Eden (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Earth Defense Force (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Earth Defense Force (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\EarthBound (USA) [SlowROM hack by kandowontu v1.0].sfc",
+      "label": "EarthBound (USA) [SlowROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Earthworm Jim (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Earthworm Jim (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Emmitt Smith Football (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Emmitt Smith Football (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Exhaust Heat (Japan) (En) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Exhaust Heat (Japan) (En) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\F-Zero (USA) [FastROM hack by Vitor Vilela v1.0].sfc",
+      "label": "F-Zero (USA) [FastROM hack by Vitor Vilela v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Faceball 2000 (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Faceball 2000 (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [alt logo] [n].sfc",
+      "label": "Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [alt logo] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [no SRAM] [alt logo] [n].sfc",
+      "label": "Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [no SRAM] [alt logo] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [no SRAM] [n].sfc",
+      "label": "Fantastic Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [no SRAM] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy II (USA) (Rev 1) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy II (USA) (Rev 1) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy II (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy II (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy IV (Japan) (Rev 1) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy IV (Japan) (Rev 1) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy IV (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy IV (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy IV (USA) (Rev 1) [Namingway Edition by Rodimus Primal v1.98d] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Final Fantasy IV (USA) (Rev 1) [Namingway Edition by Rodimus Primal v1.98d] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy IV - Easy Type (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy IV - Easy Type (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy IV - Ultima (USA) (Rev 1) [Hack by 8-bit fan v2022 r25c] [FastROM hack by kandowontu v1.1] [n].sfc",
+      "label": "Final Fantasy IV - Ultima (USA) (Rev 1) [Hack by 8-bit fan v2022 r25c] [FastROM hack by kandowontu v1.1] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy V (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy V (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy V (Japan) [Hack by s8fp98fd5k v1.4] [T-En by Serity v1.0c] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy V (Japan) [Hack by s8fp98fd5k v1.4] [T-En by Serity v1.0c] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [Bugfixes] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [Bugfixes] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [Bugfixes] [Ginger Battle Galuf] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [Bugfixes] [Ginger Battle Galuf] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [Ginger Battle Galuf] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy V (Japan) [T-En by J121 v1.16] [GBA Script Port] [Ginger Battle Galuf] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by clymax v0.47] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by clymax v0.47] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by clymax v0.54 beta] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by clymax v0.54 beta] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by HatZen08 v1.0] [Three Slots patch] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by HatZen08 v1.0] [Three Slots patch] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by HatZen08 v3.1] [Strategic Battle patch] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by HatZen08 v3.1] [Strategic Battle patch] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by Leet Sketcher v1.2] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by Leet Sketcher v1.2] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by Noisecross v1.0] [Captured Monster Name] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by Noisecross v1.0] [Captured Monster Name] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by Spooniest v2.1] [Legend of the Crystals] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by Spooniest v2.1] [Legend of the Crystals] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fantasy V (Japan) [T-En by RPGe v1.10] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fantasy V (Japan) [T-En by RPGe v1.10] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fight (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Final Fight (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fight 3 (USA) [Optimized by MaxwelOlinda v1.1].sfc",
+      "label": "Final Fight 3 (USA) [Optimized by MaxwelOlinda v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fight Guy (Japan) [FastROM hack by MaxwelOlinda v1.0].sfc",
+      "label": "Final Fight Guy (Japan) [FastROM hack by MaxwelOlinda v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Final Fight Guy (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Final Fight Guy (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Firepower 2000 (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Firepower 2000 (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\FireStriker (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "FireStriker (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\First Samurai (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "First Samurai (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Flying Hero - Bugyuru no Daibouken (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Flying Hero - Bugyuru no Daibouken (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Flying Hero - Bugyuru's Adventure (Japan) [T-En by KingMike's Translations v1.0] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Flying Hero - Bugyuru's Adventure (Japan) [T-En by KingMike's Translations v1.0] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Fun 'n Games (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Fun 'n Games (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Fun 'n Games (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Fun 'n Games (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Ganbare Goemon - Rescue of Princess Yuki (USA) [T-En by FlashPV v1.02] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Ganbare Goemon - Rescue of Princess Yuki (USA) [T-En by FlashPV v1.02] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Ganbare! Daiku no Gen-san (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Ganbare! Daiku no Gen-san (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Gekitotsu Dangan Jidousha Kessen - Battle Mobile (Japan) (En) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Gekitotsu Dangan Jidousha Kessen - Battle Mobile (Japan) (En) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Get Going! Ebisumaru - The Mechanical Maze - Mystery of the Missing Goemon!! (Japan) [T-En by DDSTranslation v2.0] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Get Going! Ebisumaru - The Mechanical Maze - Mystery of the Missing Goemon!! (Japan) [T-En by DDSTranslation v2.0] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Go for it! Goemon - Rescue of Princess Yuki (USA) [T-En by FlashPV v1.02] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Go for it! Goemon - Rescue of Princess Yuki (USA) [T-En by FlashPV v1.02] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Gokujou Parodius (Japan) [SlowROM hack by kandowontu v1.0].sfc",
+      "label": "Gokujou Parodius (Japan) [SlowROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Gokujou Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0].sfc",
+      "label": "Gokujou Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Gokujou Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [no SRAM].sfc",
+      "label": "Gokujou Parodius (Japan) [T-En by Blizzz v1.1a] [SlowROM hack by kandowontu v1.0] [no SRAM]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Gourmet Warriors (USA) (Aftermarket) (Unl) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Gourmet Warriors (USA) (Aftermarket) (Unl) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Gradius III (Japan) (En) [SA1 hack by Vitor Vilela v1.7].sfc",
+      "label": "Gradius III (Japan) (En) [SA1 hack by Vitor Vilela v1.7]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Gradius III (Japan) (En) [SA1 hack by Vitor Vilela v1.7] [SA1 Origin by GuyPerfect].sfc",
+      "label": "Gradius III (Japan) (En) [SA1 hack by Vitor Vilela v1.7] [SA1 Origin by GuyPerfect]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Gradius III (USA) [FastROM hack by Slidelljohn v1.2].sfc",
+      "label": "Gradius III (USA) [FastROM hack by Slidelljohn v1.2]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Gradius III (USA) [SA1 hack by Vitor Vilela v1.7].sfc",
+      "label": "Gradius III (USA) [SA1 hack by Vitor Vilela v1.7]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Gradius III (USA) [SA1 hack by Vitor Vilela v1.7] [SA1 Origin by GuyPerfect].sfc",
+      "label": "Gradius III (USA) [SA1 hack by Vitor Vilela v1.7] [SA1 Origin by GuyPerfect]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Great Battle II, The - Last Fighter Twin (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Great Battle II, The - Last Fighter Twin (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Great Battle II, The - Last Fighter Twin (Japan) [T-En by Aeon Genesis v1.2] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Great Battle II, The - Last Fighter Twin (Japan) [T-En by Aeon Genesis v1.2] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Great Battle III, The (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Great Battle III, The (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Great Battle III, The (Japan) [T-En by Aeon Genesis v1.1] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Great Battle III, The (Japan) [T-En by Aeon Genesis v1.1] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Great Battle IV, The (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Great Battle IV, The (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Great Battle IV, The (Japan) [T-En by Aeon Genesis v1.1] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Great Battle IV, The (Japan) [T-En by Aeon Genesis v1.1] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Great Battle V, The (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Great Battle V, The (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Great Battle V, The (Japan) [T-En by Aeon Genesis v1.2] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Great Battle V, The (Japan) [T-En by Aeon Genesis v1.2] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Great Waldo Search, The (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Great Waldo Search, The (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\GS Mikami - Joreishi wa Nice Body (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "GS Mikami - Joreishi wa Nice Body (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\GunForce (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "GunForce (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Hebereke's Popoitto (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Hebereke's Popoitto (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Holy Umbrella - Dondera no Mubou!! (Japan) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Holy Umbrella - Dondera no Mubou!! (Japan) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Holy Umbrella - Dondera no Mubou!! (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Holy Umbrella - Dondera no Mubou!! (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Holy Umbrella - Dondera no Mubou!! (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1] [Splash screen removed].sfc",
+      "label": "Holy Umbrella - Dondera no Mubou!! (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.1] [Splash screen removed]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Home Alone (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Home Alone (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Hook (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Hook (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Hoshi no Kirby 3 (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Hoshi no Kirby 3 (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\HyperZone (Japan) (En) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "HyperZone (Japan) (En) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\HyperZone (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "HyperZone (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Ignition Factor, The (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Ignition Factor, The (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Imperium (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Imperium (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\J.League '96 Dream Stadium (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "J.League '96 Dream Stadium (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\J.R.R. Tolkien's The Lord of the Rings - Volume 1 (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "J.R.R. Tolkien's The Lord of the Rings - Volume 1 (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\J.R.R. Tolkien's The Lord of the Rings - Volume One (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "J.R.R. Tolkien's The Lord of the Rings - Volume One (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Jaleco Rally Big Run - The Supreme 4WD Challenge (Japan) (En) (Rev 1) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Jaleco Rally Big Run - The Supreme 4WD Challenge (Japan) (En) (Rev 1) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Jikkyou Oshaberi Parodius (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Jikkyou Oshaberi Parodius (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Joe & Mac (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Joe & Mac (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Joe & Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Joe & Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Joe & Mac 2 - Lost in the Tropics (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Joe & Mac 2 - Lost in the Tropics (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Joe & Mac 3 - Lost in the Tropics (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Joe & Mac 3 - Lost in the Tropics (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Juusou Kihei Valken (Japan) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Juusou Kihei Valken (Japan) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Kawasaki Caribbean Challenge (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Kawasaki Caribbean Challenge (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Ken Griffey Jr.'s Winning Run (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Ken Griffey Jr.'s Winning Run (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Kidou Soukou Dion (Japan) (En) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Kidou Soukou Dion (Japan) (En) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Kirby's Dream Land 3 (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Kirby's Dream Land 3 (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Krusty's Super Fun House (USA) (Rev 1) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Krusty's Super Fun House (USA) (Rev 1) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Legend (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Legend (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Legend of the Mystical Ninja, The (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Legend of the Mystical Ninja, The (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Legend of Zelda, The - A Link to the Past (France) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Legend of Zelda, The - A Link to the Past (France) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Legend of Zelda, The - A Link to the Past (USA) [FastROM hack by Wiiq & Conn v20160429].sfc",
+      "label": "Legend of Zelda, The - A Link to the Past (USA) [FastROM hack by Wiiq & Conn v20160429]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Lemmings (USA) (Rev 1) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Lemmings (USA) (Rev 1) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Live A Live (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Live A Live (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Live A Live (Japan) [T-En by Aeon Genesis v2.00 Deluxe] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Live A Live (Japan) [T-En by Aeon Genesis v2.00 Deluxe] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Lost Vikings 2 (USA) [FastROM hack by Sluffy v0.80].sfc",
+      "label": "Lost Vikings 2 (USA) [FastROM hack by Sluffy v0.80]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Magic Sword (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Magic Sword (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Magical Pop'n (Japan) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Magical Pop'n (Japan) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Magical Pop'n (Japan) [T-En by Aeon Genesis v1.01] [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Magical Pop'n (Japan) [T-En by Aeon Genesis v1.01] [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Magical Quest Starring Mickey Mouse, The (USA) [FastROM hack by Master Linkuei v1.0].sfc",
+      "label": "Magical Quest Starring Mickey Mouse, The (USA) [FastROM hack by Master Linkuei v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Magical Quest Starring Mickey Mouse, The (USA) [FastROM hack by Master Linkuei v1.0] [Splash screen removed].sfc",
+      "label": "Magical Quest Starring Mickey Mouse, The (USA) [FastROM hack by Master Linkuei v1.0] [Splash screen removed]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mario Paint (Japan, USA) (En) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Mario Paint (Japan, USA) (En) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Marvelous - Another Treasure Island (Japan) [T-En by Tashi] [Add by DackR v1.07] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Marvelous - Another Treasure Island (Japan) [T-En by Tashi] [Add by DackR v1.07] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Marvelous - Mouhitotsu no Takara-jima (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Marvelous - Mouhitotsu no Takara-jima (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Maui Mallard in Cold Shadow (USA) [FastROM hack by kandowontu v1.01].sfc",
+      "label": "Maui Mallard in Cold Shadow (USA) [FastROM hack by kandowontu v1.01]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mega Man X (USA) [SA1 hack by Bosn v1.2].sfc",
+      "label": "Mega Man X (USA) [SA1 hack by Bosn v1.2]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mega Man X (USA) [SA1 hack by Bosn v1.2] [Double tap disabled].sfc",
+      "label": "Mega Man X (USA) [SA1 hack by Bosn v1.2] [Double tap disabled]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mega Man X2 (USA) [FastROM hack by kandowontu v4.0].sfc",
+      "label": "Mega Man X2 (USA) [FastROM hack by kandowontu v4.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mega Man X2 (USA) [FastROM hack by Sluffy v20182903].sfc",
+      "label": "Mega Man X2 (USA) [FastROM hack by Sluffy v20182903]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mega Man X3 (USA) [FastROM hack by kandowontu v2.1].sfc",
+      "label": "Mega Man X3 (USA) [FastROM hack by kandowontu v2.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mickey & Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Mickey & Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mickey & Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [FastROM hack by MaxwelOlinda v1.0] [n].sfc",
+      "label": "Mickey & Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [FastROM hack by MaxwelOlinda v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mickey & Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [Nephew Colors hack by Jonny v1.0] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Mickey & Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [Nephew Colors hack by Jonny v1.0] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mickey & Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [Nephew Colors hack by Jonny v1.0] [FastROM hack by MaxwelOlinda v1.0] [n].sfc",
+      "label": "Mickey & Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [Nephew Colors hack by Jonny v1.0] [FastROM hack by MaxwelOlinda v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mickey Mania (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Mickey Mania (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mickey to Donald - Magical Adventure 3 (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Mickey to Donald - Magical Adventure 3 (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mickey to Donald - Magical Adventure 3 (Japan) [FastROM hack by MaxwelOlinda v1.0].sfc",
+      "label": "Mickey to Donald - Magical Adventure 3 (Japan) [FastROM hack by MaxwelOlinda v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mighty Morphin Power Rangers (USA) [FastROM hack by kandowontu v1.1] [bugged title screen].sfc",
+      "label": "Mighty Morphin Power Rangers (USA) [FastROM hack by kandowontu v1.1] [bugged title screen]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mighty Morphin Power Rangers - The Fighting Edition (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Mighty Morphin Power Rangers - The Fighting Edition (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mighty Morphin Power Rangers - The Movie (USA) [FastROM hack by MaxwelOlinda v1.0].sfc",
+      "label": "Mighty Morphin Power Rangers - The Movie (USA) [FastROM hack by MaxwelOlinda v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mini Yonku Shining Scorpion - Let's & Go!! (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Mini Yonku Shining Scorpion - Let's & Go!! (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mobile Suit Gundam Wing - Endless Duel (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by ComboKyo v1.0] [n].sfc",
+      "label": "Mobile Suit Gundam Wing - Endless Duel (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by ComboKyo v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Mortal Kombat II (USA) (Rev 1) [SlowROM hack by kandowontu v1.0].sfc",
+      "label": "Mortal Kombat II (USA) (Rev 1) [SlowROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Musya - The Classic Japanese Tale of Horror (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Musya - The Classic Japanese Tale of Horror (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\NBA Jam (Europe) (Rev 1) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "NBA Jam (Europe) (Rev 1) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\NBA Jam (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "NBA Jam (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\NBA Jam (Japan) (En) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "NBA Jam (Japan) (En) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\NBA Jam (USA) (Rev 1) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "NBA Jam (USA) (Rev 1) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\NBA Jam (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "NBA Jam (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\NBA Jam - Tournament Edition (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "NBA Jam - Tournament Edition (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\NBA Jam - Tournament Edition (Japan) (En) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "NBA Jam - Tournament Edition (Japan) (En) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\NBA Jam - Tournament Edition (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "NBA Jam - Tournament Edition (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\NBA Jam - Tournament Edition - Double Z Mod (USA) [Hack by Eskayelle v5.0] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "NBA Jam - Tournament Edition - Double Z Mod (USA) [Hack by Eskayelle v5.0] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\NHL 95 (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "NHL 95 (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\NHL 95 (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "NHL 95 (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\NHL 96 (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "NHL 96 (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\NHL 96 (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "NHL 96 (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\NHL 97 (Europe) (Rev 1) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "NHL 97 (Europe) (Rev 1) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\NHL 97 (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "NHL 97 (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\NHL 97 (USA) (Rev 1) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "NHL 97 (USA) (Rev 1) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\NHL 97 (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "NHL 97 (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\NHL 98 (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "NHL 98 (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Nice de Shot (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Nice de Shot (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Nice de Shot (Japan) [T-En by MrRichard999 v0.99] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Nice de Shot (Japan) [T-En by MrRichard999 v0.99] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Ninjawarriors (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Ninjawarriors (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Ninjawarriors Again, The (Japan) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Ninjawarriors Again, The (Japan) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\No Escape (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "No Escape (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Olympic Summer Games (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Olympic Summer Games (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Olympic Summer Games (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Olympic Summer Games (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\On the Ball (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "On the Ball (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Operation Europe - Path to Victory 1939-45 (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Operation Europe - Path to Victory 1939-45 (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Parodius (Europe) [FastROM hack by kandowontu v1.4].sfc",
+      "label": "Parodius (Europe) [FastROM hack by kandowontu v1.4]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Parodius Da! - Shinwa kara Owarai e (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Parodius Da! - Shinwa kara Owarai e (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Parodius Da! - Shinwa kara Owarai e (Japan) [FastROM hack by MaxwelOlinda v1.0].sfc",
+      "label": "Parodius Da! - Shinwa kara Owarai e (Japan) [FastROM hack by MaxwelOlinda v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Phalanx (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Phalanx (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Phantom 2040 (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Phantom 2040 (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Phantom 2040 (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Phantom 2040 (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Pilotwings (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Pilotwings (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Pinball Dreams (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Pinball Dreams (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Pinball Dreams (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Pinball Dreams (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Pit-Fighter (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Pit-Fighter (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Pocky & Rocky (USA) [FastROM hack by kandowontu v1.2].sfc",
+      "label": "Pocky & Rocky (USA) [FastROM hack by kandowontu v1.2]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Pocky & Rocky 2 (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Pocky & Rocky 2 (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Pokonyan! - Henpokorin Adventure (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Pokonyan! - Henpokorin Adventure (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Power Sokoban (Japan) [T-En by Saffith v1.0] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Power Sokoban (Japan) [T-En by Saffith v1.0] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Power Soukoban (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Power Soukoban (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Prince of Persia (Japan) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Prince of Persia (Japan) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Prince of Persia (Japan) [FastROM hack by Master Linkuei v1.0].sfc",
+      "label": "Prince of Persia (Japan) [FastROM hack by Master Linkuei v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Prince of Persia (Japan) [FastROM hack by Master Linkuei v1.0] [Splash screen removed].sfc",
+      "label": "Prince of Persia (Japan) [FastROM hack by Master Linkuei v1.0] [Splash screen removed]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Prince of Persia (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Prince of Persia (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Prince of Persia 2 (Europe) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Prince of Persia 2 (Europe) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Prince of Persia 2 (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Prince of Persia 2 (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Puggsy (USA) (Proto) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Puggsy (USA) (Proto) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Race Drivin' (USA) [SA1 hack by Vitor Vilela v1.1].sfc",
+      "label": "Race Drivin' (USA) [SA1 hack by Vitor Vilela v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Race Drivin' (USA) [SA1 hack by Vitor Vilela v1.1] [SA1 Origin].sfc",
+      "label": "Race Drivin' (USA) [SA1 hack by Vitor Vilela v1.1] [SA1 Origin]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Racoon Rascal (Japan) [T-En by Zarby89 v1.0] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Racoon Rascal (Japan) [T-En by Zarby89 v1.0] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Radical Psycho Machine Racing (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Radical Psycho Machine Racing (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Raiden Trad (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Raiden Trad (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Ranma 1-2 - Chounai Gekitou Hen (Japan) [FastROM hack by kandowontu v1.21].sfc",
+      "label": "Ranma 1-2 - Chounai Gekitou Hen (Japan) [FastROM hack by kandowontu v1.21]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Ranma 1-2 - Ougi Jaanken (Japan) [FastROM hack by bankbank v1.04].sfc",
+      "label": "Ranma 1-2 - Ougi Jaanken (Japan) [FastROM hack by bankbank v1.04]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Rendering Ranger R2 (Japan) (En) [FastROM hack by kandowontu v1.2].sfc",
+      "label": "Rendering Ranger R2 (Japan) (En) [FastROM hack by kandowontu v1.2]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Return of Double Dragon (Japan) (En) [FastROM hack by kandowontu v2.0].sfc",
+      "label": "Return of Double Dragon (Japan) (En) [FastROM hack by kandowontu v2.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Rock N' Roll Racing (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Rock N' Roll Racing (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Rocketeer, The (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Rocketeer, The (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Rushing Beat (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Rushing Beat (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Rushing Beat (Japan) [T-En by FlashPV v1.0] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Rushing Beat (Japan) [T-En by FlashPV v1.0] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Sanrio World Smash Ball! (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Sanrio World Smash Ball! (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Sanrio World Smash Ball! (Japan) [T-En by Suicidal Translations v1.00] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Sanrio World Smash Ball! (Japan) [T-En by Suicidal Translations v1.00] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\SD F-1 Grand Prix (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "SD F-1 Grand Prix (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\SD The Great Battle - A New Challenge (Japan) [T-En by Aeon Genesis v1.0] [FastROM hack by kandowontu v1.1] [n].sfc",
+      "label": "SD The Great Battle - A New Challenge (Japan) [T-En by Aeon Genesis v1.0] [FastROM hack by kandowontu v1.1] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\SD The Great Battle - Aratanaru Chousen (Japan) (Rev 1) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "SD The Great Battle - Aratanaru Chousen (Japan) (Rev 1) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\SD The Great Battle - Aratanaru Chousen (Japan) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "SD The Great Battle - Aratanaru Chousen (Japan) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Secret of Mana (France) (Rev 1) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Secret of Mana (France) (Rev 1) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Secret of Mana (France) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Secret of Mana (France) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Secret of Mana (Germany) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Secret of Mana (Germany) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Secret of Mana (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Secret of Mana (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Secret of Mana (USA) [T-En by FuSoYa v1.00 VWF] [Add by Timbo v1.7] [FastROM hack by kandowontu v1.1] [Relocalized].sfc",
+      "label": "Secret of Mana (USA) [T-En by FuSoYa v1.00 VWF] [Add by Timbo v1.7] [FastROM hack by kandowontu v1.1] [Relocalized]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Secret of Mana (USA) [T-En by FuSoYa v1.00 VWF] [FastROM hack by kandowontu v1.1] [Relocalized].sfc",
+      "label": "Secret of Mana (USA) [T-En by FuSoYa v1.00 VWF] [FastROM hack by kandowontu v1.1] [Relocalized]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Seiken Densetsu 2 (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Seiken Densetsu 2 (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Shin Kidou Senki Gundam W - Endless Duel (Japan) [FastROM hack by ComboKyo v1.0].sfc",
+      "label": "Shin Kidou Senki Gundam W - Endless Duel (Japan) [FastROM hack by ComboKyo v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) [T-En by Aeon Genesis v1.00] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Sid Meier's Civilization (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Sid Meier's Civilization (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Side Pocket (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Side Pocket (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Side Pocket (Japan) (En) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Side Pocket (Japan) (En) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Side Pocket (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Side Pocket (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\SimAnt - The Electronic Ant Colony (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "SimAnt - The Electronic Ant Colony (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\SimCity (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "SimCity (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Simpsons, The - Bart's Nightmare (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Simpsons, The - Bart's Nightmare (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Skuljagger - Revolt of the Westicans (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Skuljagger - Revolt of the Westicans (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Skyblazer (USA) [FastROM hack by kandowontu v1.11].sfc",
+      "label": "Skyblazer (USA) [FastROM hack by kandowontu v1.11]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Soccer Kid (Europe) (En,Fr,De,Es,It) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Soccer Kid (Europe) (En,Fr,De,Es,It) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Sonic Blast Man (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Sonic Blast Man (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Sonic Blast Man (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Sonic Blast Man (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Soreyuke Ebisumaru Karakuri Meiro - Kieta Goemon no Nazo!! (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Soreyuke Ebisumaru Karakuri Meiro - Kieta Goemon no Nazo!! (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Soreyuke! Ebisumaru - The Mechanical Maze - Mystery of the Missing Goemon!! (Japan) [T-En by DDSTranslation v2.0] [Add by Djungelurban v1.0] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Soreyuke! Ebisumaru - The Mechanical Maze - Mystery of the Missing Goemon!! (Japan) [T-En by DDSTranslation v2.0] [Add by Djungelurban v1.0] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Soul Blazer (USA) [FastROM hack by kandowontu v1.2].sfc",
+      "label": "Soul Blazer (USA) [FastROM hack by kandowontu v1.2]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Soul Blazer (USA) [T-En by SteppoBlazer Beta] [FastROM hack by kandowontu v1.2] [Relocalized] [i].sfc",
+      "label": "Soul Blazer (USA) [T-En by SteppoBlazer Beta] [FastROM hack by kandowontu v1.2] [Relocalized] [i]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Soul Blazer (USA) [T-En by Steppolo Steppi v1.1] [FastROM hack by kandowontu v1.2] [Relocalized].sfc",
+      "label": "Soul Blazer (USA) [T-En by Steppolo Steppi v1.1] [FastROM hack by kandowontu v1.2] [Relocalized]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Space Invaders (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Space Invaders (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Space Invaders - The Original Game (Japan) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Space Invaders - The Original Game (Japan) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Space Megaforce (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Space Megaforce (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Spanky's Quest (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Spanky's Quest (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Spindizzy Worlds (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Spindizzy Worlds (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Star Fox (Japan) [SuperFX2 hack by kandowontu & Vitor Vilela v1.02].sfc",
+      "label": "Star Fox (Japan) [SuperFX2 hack by kandowontu & Vitor Vilela v1.02]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Star Fox (USA) [FastROM & SuperFX2 hack by Catador & kandowontu & LivelyZephyrs v1.2].sfc",
+      "label": "Star Fox (USA) [FastROM & SuperFX2 hack by Catador & kandowontu & LivelyZephyrs v1.2]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Star Fox (USA) [SuperFX2 hack by kandowontu & Vitor Vilela v1.4].sfc",
+      "label": "Star Fox (USA) [SuperFX2 hack by kandowontu & Vitor Vilela v1.4]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Star Fox 2 (USA, Europe) (Classic Mini, Switch Online, Nintendo Leak) [SuperFX hack by kandowontu v1.0].sfc",
+      "label": "Star Fox 2 (USA, Europe) (Classic Mini, Switch Online, Nintendo Leak) [SuperFX hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Star Glider (Japan) (Beta) (1992-09-23) [SuperFX2 hack by kandowontu v1.0].sfc",
+      "label": "Star Glider (Japan) (Beta) (1992-09-23) [SuperFX2 hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Starwing (Europe) [SuperFX2 hack by kandowontu & Vitor Vilela v1.02].sfc",
+      "label": "Starwing (Europe) [SuperFX2 hack by kandowontu & Vitor Vilela v1.02]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Starwing (Germany) [SuperFX2 hack by kandowontu & Vitor Vilela v1.02].sfc",
+      "label": "Starwing (Germany) [SuperFX2 hack by kandowontu & Vitor Vilela v1.02]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Steel Talons (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Steel Talons (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Steven Seagal Is The Final Option (USA) (Proto) [SlowROM hack by kandowontu v1.0].sfc",
+      "label": "Steven Seagal Is The Final Option (USA) (Proto) [SlowROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Street Fighter II (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Street Fighter II (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Strike Gunner S.T.G (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Strike Gunner S.T.G (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Stunt Race FX (USA) (Rev 1) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Stunt Race FX (USA) (Rev 1) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Stunt Race FX (USA) (Rev 1) [SuperFX hack by kandowontu v1.0].sfc",
+      "label": "Stunt Race FX (USA) (Rev 1) [SuperFX hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Adventure Island (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Adventure Island (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Air Diver 2 (Japan) (En) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Air Diver 2 (Japan) (En) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Aleste (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Aleste (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Aleste (Japan) [T-En by Asiwish v1.2] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Aleste (Japan) [T-En by Asiwish v1.2] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Back to the Future Part II (Japan) [FastROM hack by MaxwelOlinda v1.0] [Fix by kandowontu v1.0].sfc",
+      "label": "Super Back to the Future Part II (Japan) [FastROM hack by MaxwelOlinda v1.0] [Fix by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Back to the Future Part II (Japan) [T-En by Mteam v1.00] [FastROM hack by MaxwelOlinda v1.0] [Fix by kandowontu v1.0].sfc",
+      "label": "Super Back to the Future Part II (Japan) [T-En by Mteam v1.00] [FastROM hack by MaxwelOlinda v1.0] [Fix by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Bowling (Japan) (En) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Bowling (Japan) (En) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Bowling (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Bowling (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Buster Bros. (USA) (Rev 1) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Buster Bros. (USA) (Rev 1) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1].sfc",
+      "label": "Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1].sfc",
+      "label": "Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US chain whip SFX].sfc",
+      "label": "Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US chain whip SFX]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US chain whip SFX] [US title screen].sfc",
+      "label": "Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US chain whip SFX] [US title screen]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font].sfc",
+      "label": "Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font] [US chain whip SFX].sfc",
+      "label": "Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font] [US chain whip SFX]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font] [US chain whip SFX] [US title screen].sfc",
+      "label": "Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font] [US chain whip SFX] [US title screen]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font] [US title screen].sfc",
+      "label": "Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US font] [US title screen]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US title screen].sfc",
+      "label": "Super Castlevania IV (USA) [FastROM hack by Vitor Vilela v1.1] [Uncensored hack by ShadowOne333 v2.1] [US title screen]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super E.D.F. (Japan) (En) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Super E.D.F. (Japan) (En) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Ghouls 'N Ghosts (USA) [FastROM & Restoration hack by SCD v20191211].sfc",
+      "label": "Super Ghouls 'N Ghosts (USA) [FastROM & Restoration hack by SCD v20191211]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Mad Champ (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Mad Champ (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Mario All-Stars (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Super Mario All-Stars (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Mario All-Stars + Super Mario World (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Mario All-Stars + Super Mario World (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Mario RPG (Japan) (Virtual Console) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Super Mario RPG (Japan) (Virtual Console) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Mario RPG (Japan) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Super Mario RPG (Japan) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Mario RPG - Legend of the Seven Stars (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Super Mario RPG - Legend of the Seven Stars (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Mario RPG - Legend of the Seven Stars (USA) [T-En by CoolCatBomberMan v2.0] [EU-US button colors by Lavos1999 v1.0] [FastROM hack by kandowontu v1.1] [Relocalized].sfc",
+      "label": "Super Mario RPG - Legend of the Seven Stars (USA) [T-En by CoolCatBomberMan v2.0] [EU-US button colors by Lavos1999 v1.0] [FastROM hack by kandowontu v1.1] [Relocalized]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Mario RPG - Legend of the Seven Stars (USA) [T-En by CoolCatBomberMan v2.0] [FastROM hack by kandowontu v1.1] [Relocalized].sfc",
+      "label": "Super Mario RPG - Legend of the Seven Stars (USA) [T-En by CoolCatBomberMan v2.0] [FastROM hack by kandowontu v1.1] [Relocalized]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [DLC] [NS nameset] [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [DLC] [NS nameset] [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [DLC] [SNES nameset] [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [DLC] [SNES nameset] [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [EU-US button colors by Lavos1999 v1.0] [FastROM hack by kandowontu v1.1] .sfc",
+      "label": "Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [EU-US button colors by Lavos1999 v1.0] [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Super Mario RPG - Legend of the Seven Stars (USA) [T-En by LiThL vLH] [Relocalized] [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Mario RPG - Legend of the Seven Stars (USA, Europe) (Virtual Console) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Super Mario RPG - Legend of the Seven Stars (USA, Europe) (Virtual Console) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Mario World (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Mario World (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Mario World (USA) [SA1 hack by Vitor Vilela v1.40].sfc",
+      "label": "Super Mario World (USA) [SA1 hack by Vitor Vilela v1.40]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Mario World - Super Mario Bros. 4 (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Mario World - Super Mario Bros. 4 (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Mario World 2 - Yoshi's Island (USA) [FastROM hack by kandowontu v1.2].sfc",
+      "label": "Super Mario World 2 - Yoshi's Island (USA) [FastROM hack by kandowontu v1.2]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Naxat Open - Golf de Shoubu da Dorabocchan (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Naxat Open - Golf de Shoubu da Dorabocchan (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Naxat Open - Spike McFang Golf (Japan) [T-En by MrRichard999 v0.99] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Super Naxat Open - Spike McFang Golf (Japan) [T-En by MrRichard999 v0.99] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Off Road (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Off Road (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Pang (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Pang (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Punch-Out!! (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Punch-Out!! (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super R-Type (Japan) (En) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Super R-Type (Japan) (En) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super R-Type (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Super R-Type (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super R-Type (USA) [SA1 hack by Vitor Vilela v1.2].sfc",
+      "label": "Super R-Type (USA) [SA1 hack by Vitor Vilela v1.2]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Smash T.V. (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Smash T.V. (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super SWIV (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super SWIV (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super SWIV (Japan) (En) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super SWIV (Japan) (En) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Tennis (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Tennis (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Tennis - World Circuit (Japan) (En) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Tennis - World Circuit (Japan) (En) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Turrican (USA) [FastROM hack by kandowontu v2.0].sfc",
+      "label": "Super Turrican (USA) [FastROM hack by kandowontu v2.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Turrican 2 Special Edition (USA) (Aftermarket) (Unl) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Turrican 2 Special Edition (USA) (Aftermarket) (Unl) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Super Valis IV (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Super Valis IV (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\SWAT Kats - The Radical Squadron (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "SWAT Kats - The Radical Squadron (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Syndicate (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Syndicate (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Syndicate (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Syndicate (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Syndicate (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Syndicate (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Tactical Soccer (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Tactical Soccer (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Thunder Spirits (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Thunder Spirits (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Timeslip (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Timeslip (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Timon & Pumbaa's Jungle Games (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Timon & Pumbaa's Jungle Games (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Timon & Pumbaa's Jungle Games (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Timon & Pumbaa's Jungle Games (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Tomorrow's Joe (Japan) [T-En by Vice Translations v0.99] [FastROM hack by kandowontu v1.0] [n].sfc",
+      "label": "Tomorrow's Joe (Japan) [T-En by Vice Translations v0.99] [FastROM hack by kandowontu v1.0] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Top Gear (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Top Gear (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Top Gear Crossroads (World) (Aftermarket) (Unl) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Top Gear Crossroads (World) (Aftermarket) (Unl) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Toy Story (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Toy Story (Europe) (En,Fr,De) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Toy Story (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Toy Story (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Toy Story (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Toy Story (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Troddlers (USA) [FastROM hack by bankbank v1.0].sfc",
+      "label": "Troddlers (USA) [FastROM hack by bankbank v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Turrican 4 (Japan) [Rendering Ranger R2 hack by BonusJZ v1.4] [FastROM hack by kandowontu v1.2] [n].sfc",
+      "label": "Turrican 4 (Japan) [Rendering Ranger R2 hack by BonusJZ v1.4] [FastROM hack by kandowontu v1.2] [n]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\U.N. Squadron (USA) [FastROM hack by Vitor Vilela v1.0].sfc",
+      "label": "U.N. Squadron (USA) [FastROM hack by Vitor Vilela v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Uchuu no Kishi - Tekkaman Blade (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Uchuu no Kishi - Tekkaman Blade (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Uchuu no Kishi - Tekkaman Blade (Japan) [T-En by Byuu & Derrick Sobodash v1.0] [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Uchuu no Kishi - Tekkaman Blade (Japan) [T-En by Byuu & Derrick Sobodash v1.0] [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Ultimate Mortal Kombat 3 (USA) [SlowROM hack by kandowontu v1.0].sfc",
+      "label": "Ultimate Mortal Kombat 3 (USA) [SlowROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Ultraman (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Ultraman (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Ultraman (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Ultraman (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Ushio to Tora (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Ushio to Tora (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\War 2410 (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "War 2410 (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\War 3010 - The Revolution (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "War 3010 - The Revolution (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\WeaponLord (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "WeaponLord (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\WeaponLord (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "WeaponLord (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Wild Guns (USA) [FastROM hack by kandowontu v1.1].sfc",
+      "label": "Wild Guns (USA) [FastROM hack by kandowontu v1.1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Williams Arcade's Greatest Hits (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Williams Arcade's Greatest Hits (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Williams Arcade's Greatest Hits (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Williams Arcade's Greatest Hits (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Wolfchild (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Wolfchild (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\World Heroes 2 (Japan) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "World Heroes 2 (Japan) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\World Heroes 2 (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "World Heroes 2 (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\X-Kaliber 2097 (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "X-Kaliber 2097 (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\X-Men vs. Street Fighter (USA) (Pirate) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "X-Men vs. Street Fighter (USA) (Pirate) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Xardion (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Xardion (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Zero the Kamikaze Squirrel (Europe) (Rev 1) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Zero the Kamikaze Squirrel (Europe) (Rev 1) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Zero the Kamikaze Squirrel (Europe) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Zero the Kamikaze Squirrel (Europe) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "R:\\Retro Games\\Games to ADD\\Retro Games\\snes\\Speed Hacks\\sfc-speedhacks\\ROMs\\Zero the Kamikaze Squirrel (USA) [FastROM hack by kandowontu v1.0].sfc",
+      "label": "Zero the Kamikaze Squirrel (USA) [FastROM hack by kandowontu v1.0]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    }
+  ]
+}
